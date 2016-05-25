@@ -1,0 +1,29 @@
+# Site settings
+title: Just2us
+header-img: img/home-bg.jpg
+email: junda@just2us.com
+copyright_name: Just2us
+author_name: Ong Jun Da
+description: Just2us Blog
+baseurl: ""
+url: "http://blog.just2us.com"
+twitter_username: samwize
+github_username:  samwize
+facebook_username:  ongjunda
+email_username:  junda@just2me.com
+disqus: just2us
+adsense_client: ca-pub-8504591086876220
+adsense_slot: 7773704700
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 20
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
+
+kramdown:
+  input: GFM
+  hard_wrap: true # newline becomes <br />

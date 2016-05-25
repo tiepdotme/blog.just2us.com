@@ -1,0 +1,31 @@
+---
+title: "All Stories"
+description: "Find all published stories with their tags"
+layout: page
+permalink: /tags/
+---
+
+<ul class="tag-cloud">
+{% for tag in site.tags %}
+  <li style="font-size: {{ tag | last | size | times: 1000 | divided_by: site.tags.size | plus: 100  }}%">
+    <a href="#{{ tag | first | slugize }}">
+      {{ tag | first }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+<hr>
+
+<div id="archives">
+{% for tag in site.tags %}
+  <div class="archive-group">
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <h3 id="#{{ tag_name | slugize }}">{{ tag_name }}</h3>
+    <a name="{{ tag_name | slugize }}"></a>
+    {% for post in site.tags[tag_name] %}
+    <p><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></p>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>

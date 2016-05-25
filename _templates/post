@@ -1,0 +1,7 @@
+---
+layout: {{ layout }}
+title: "{{ title }}"
+author: Junda Ong
+date: {{ date }}
+categories: []
+---
