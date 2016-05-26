@@ -61,10 +61,3 @@ For my business and apps. Not for sale.
 #### <a href="http://just2me.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2me.com', 'just2me.com');">just2me.com</a>
 
 My first domain name. For my personal blog. Not for sale.
-
-#### 
-
-&nbsp;
-
-<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
-</div>

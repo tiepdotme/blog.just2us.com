@@ -4,16 +4,16 @@ header-img: img/home-bg.jpg
 email: junda@just2us.com
 copyright_name: Just2us
 author_name: Ong Jun Da
-description: Just2us Blog
+description: Justus - Creating Apps We Love
 baseurl: ""
 url: "http://blog.just2us.com"
 twitter_username: samwize
 github_username:  samwize
 facebook_username:  ongjunda
-email_username:  junda@just2me.com
+email_username:  junda@just2us.com
 disqus: just2us
 adsense_client: ca-pub-8504591086876220
-adsense_slot: 7773704700
+adsense_slot: 3185604309
 
 # Build settings
 markdown: kramdown

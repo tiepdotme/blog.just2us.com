@@ -9,11 +9,11 @@ dsq_thread_id:
   - 1177094333
 ---
 <p align="justify">
-  Just2us was started in 2009 as a home for <a href="http://blog.just2us.com/apps/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/apps/', 'my hobby mobile applications');" target="_blank">my hobby mobile applications</a>.
+  Just2us was started in 2009 as a home for <a href="/apps/" onclick="__gaTracker('send', 'event', 'outbound-article', '/apps/', 'my hobby mobile applications');" target="_blank">my hobby mobile applications</a>.
 </p>
 
 <p align="justify">
-  In 2014, I left my full time day job of 7 years, and <a href="http://blog.just2us.com/2014/04/officially-launching-just2us-as-a-business/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2014/04/officially-launching-just2us-as-a-business/', 'officially');" target="_blank">officially</a> set up Just2us.
+  In 2014, I left my full time day job of 7 years, and <a href="/2014/04/officially-launching-just2us-as-a-business/" onclick="__gaTracker('send', 'event', 'outbound-article', '/2014/04/officially-launching-just2us-as-a-business/', 'officially');" target="_blank">officially</a> set up Just2us.
 </p>
 
 <p align="justify">
@@ -21,7 +21,7 @@ dsq_thread_id:
 </p>
 
 <div id="attachment_983" style="width: 310px" class="wp-caption aligncenter">
-  <a href="https://plus.google.com/+JundaOng/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://plus.google.com/+JundaOng/', '');" target="_blank"><img class="size-medium wp-image-983" alt="Junda" src="http://blog.just2us.com/wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced-300x300.png" width="300" height="300" srcset="http://blog.just2us.com/wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced-150x150.png 150w, http://blog.just2us.com/wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced-300x300.png 300w, http://blog.just2us.com/wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced-100x100.png 100w, http://blog.just2us.com/wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced-200x200.png 200w, http://blog.just2us.com/wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced-450x450.png 450w, http://blog.just2us.com/wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced-600x600.png 600w, http://blog.just2us.com/wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced.png 745w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://plus.google.com/+JundaOng/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://plus.google.com/+JundaOng/', '');" target="_blank"><img class="size-medium wp-image-983" alt="Junda" src="/wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced-300x300.png" width="300" height="300" srcset="/wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced-150x150.png 150w, /wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced-300x300.png 300w, /wp-content/uploads/2009/05/luffy-jd-head-rounded-enhanced.png 745w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Junda<br />Full Slack Developer
