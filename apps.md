@@ -1,6 +1,7 @@
 ---
 id: 989
 title: Apps
+description: All that we have ever created
 date: 2014-04-13T11:16:14+00:00
 author: Junda Ong
 layout: page
@@ -8,207 +9,125 @@ guid: http://blog.just2us.com/?page_id=989
 dsq_thread_id:
   - 2607516856
 ---
-### iPhone/iPad Apps
 
-<div class="tiled-gallery type-rectangular tiled-gallery-unresized" data-original-width="550" data-carousel-extra='null' >
-  <div class="gallery-row" style="width: 550px; height: 367px;" data-original-width="550" data-original-height="367" >
-    <div class="gallery-group images-1" style="width: 367px; height: 367px;" data-original-width="367" data-original-height="367" >
-      <div class="tiled-gallery-item tiled-gallery-item-large">
-        <a href="https://itunes.apple.com/app/id1065722243?at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/app/id1065722243?at=11luru', '  ');" border="0" class="no-lightbox"> <img data-attachment-id="1373" data-orig-file="http://blog.just2us.com/wp-content/uploads/2015/12/appicon-rounded.jpg" data-orig-size="1024,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Baby Log" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2015/12/appicon-rounded-300x300.jpg" data-large-file="http://blog.just2us.com/wp-content/uploads/2015/12/appicon-rounded.jpg" src="http://i1.wp.com/blog.just2us.com/wp-content/uploads/2015/12/appicon-rounded.jpg?resize=363%2C363" data-original-width="363" data-original-height="363" title="Baby Log" alt="" style="width: 363px; height: 363px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          Baby Log
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-    
-    <div class="gallery-group images-2" style="width: 183px; height: 367px;" data-original-width="183" data-original-height="367" >
-      <div class="tiled-gallery-item tiled-gallery-item-small">
-        <a href="http://jade2us.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://jade2us.com', '  ');" border="0" class="no-lightbox"> <img data-attachment-id="1346" data-orig-file="http://blog.just2us.com/wp-content/uploads/2014/04/iTunesArtwork@2x.png" data-orig-size="1024,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Jade" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2014/04/iTunesArtwork@2x-300x300.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2014/04/iTunesArtwork@2x-1024x1024.png" src="http://i0.wp.com/blog.just2us.com/wp-content/uploads/2014/04/iTunesArtwork@2x.png?resize=179%2C179" data-original-width="179" data-original-height="179" title="Jade" alt="" style="width: 179px; height: 179px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          Jade
-        </div>
-      </div>
-      
-      <div class="tiled-gallery-item tiled-gallery-item-small">
-        <a href="http://blog.just2us.com/apps/download-big-day/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/apps/download-big-day/', '  ');" border="0" target="_blank" class="set-target no-lightbox"> <img data-attachment-id="1271" data-orig-file="http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork.png" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Big Day" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-300x300.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork.png" src="http://i0.wp.com/blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork.png?resize=179%2C180" data-original-width="179" data-original-height="180" title="Big Day" alt="Big Day" style="width: 179px; height: 180px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          Big Day
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-  </div>
-  
-  <!-- close row -->
-  
-  <div class="gallery-row" style="width: 550px; height: 183px;" data-original-width="550" data-original-height="183" >
-    <div class="gallery-group images-1" style="width: 183px; height: 183px;" data-original-width="183" data-original-height="183" >
-      <div class="tiled-gallery-item tiled-gallery-item-small">
-        <a href="https://itunes.apple.com/app/id882433590?mt=8&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/app/id882433590?mt=8&at=11luru', '  ');" border="0" target="_blank" class="set-target no-lightbox"> <img data-attachment-id="1247" data-orig-file="http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork.png" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Germany+" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork-300x300.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork.png" src="http://i1.wp.com/blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork.png?resize=179%2C179" data-original-width="179" data-original-height="179" title="Germany+" alt="Germany+" style="width: 179px; height: 179px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          Germany+
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-    
-    <div class="gallery-group images-1" style="width: 183px; height: 183px;" data-original-width="183" data-original-height="183" >
-      <div class="tiled-gallery-item tiled-gallery-item-small">
-        <a href="http://itunes.apple.com/app/id882418475?mt=8&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://itunes.apple.com/app/id882418475?mt=8&at=11luru', '  ');" border="0" target="_blank" class="set-target no-lightbox"> <img data-attachment-id="1259" data-orig-file="http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork2.png" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Brazil+" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork2-300x300.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork2.png" src="http://i0.wp.com/blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork2.png?resize=179%2C179" data-original-width="179" data-original-height="179" title="Brazil+" alt="Brazil+" style="width: 179px; height: 179px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          Brazil+
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-    
-    <div class="gallery-group images-1" style="width: 184px; height: 183px;" data-original-width="184" data-original-height="183" >
-      <div class="tiled-gallery-item tiled-gallery-item-small">
-        <a href="https://itunes.apple.com/app/id882431693?mt=8&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/app/id882431693?mt=8&at=11luru', '  ');" border="0" target="_blank" class="set-target no-lightbox"> <img data-attachment-id="1253" data-orig-file="http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork1.png" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="England+" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork1-300x300.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork1.png" src="http://i1.wp.com/blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork1.png?resize=180%2C179" data-original-width="180" data-original-height="179" title="England+" alt="England+" style="width: 180px; height: 179px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          England+
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-  </div>
-  
-  <!-- close row -->
-  
-  <div class="gallery-row" style="width: 550px; height: 367px;" data-original-width="550" data-original-height="367" >
-    <div class="gallery-group images-2" style="width: 183px; height: 367px;" data-original-width="183" data-original-height="367" >
-      <div class="tiled-gallery-item tiled-gallery-item-small">
-        <a href="https://itunes.apple.com/us/app/poo-keeper-let-it-go-your/id857575652?mt=8&uo=4&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/us/app/poo-keeper-let-it-go-your/id857575652?mt=8&uo=4&at=11luru', '  ');" border="0" target="_blank" class="set-target no-lightbox"> <img data-attachment-id="986" data-orig-file="http://blog.just2us.com/wp-content/uploads/2014/04/app-icon-256.png" data-orig-size="256,256" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Poo Keeper" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2014/04/app-icon-256.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2014/04/app-icon-256.png" src="http://i0.wp.com/blog.just2us.com/wp-content/uploads/2014/04/app-icon-256.png?resize=179%2C179" data-original-width="179" data-original-height="179" title="Poo Keeper" alt="Poo Keeper" style="width: 179px; height: 179px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          Poo Keeper
-        </div>
-      </div>
-      
-      <div class="tiled-gallery-item tiled-gallery-item-small">
-        <a href="https://itunes.apple.com/app/id1078956670?mt=8&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/app/id1078956670?mt=8&at=11luru', '  ');" border="0" target="_blank" class="set-target no-lightbox"> <img data-attachment-id="1411" data-orig-file="http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded.jpg" data-orig-size="1024,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;keywords&quot;:&quot;Array&quot;}" data-image-title="HK Radio" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded-300x300.jpg" data-large-file="http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded.jpg" src="http://i0.wp.com/blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded.jpg?resize=179%2C180" data-original-width="179" data-original-height="180" title="HK Radio" alt="HK Radio" style="width: 179px; height: 180px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          HK Radio
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-    
-    <div class="gallery-group images-1" style="width: 367px; height: 367px;" data-original-width="367" data-original-height="367" >
-      <div class="tiled-gallery-item tiled-gallery-item-large">
-        <a href="https://itunes.apple.com/us/app/my-radio-tunein-to-hitz-fm/id685967705?mt=8&uo=4&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/us/app/my-radio-tunein-to-hitz-fm/id685967705?mt=8&uo=4&at=11luru', '  ');" border="0" target="_blank" class="set-target no-lightbox"> <img data-attachment-id="950" data-orig-file="http://blog.just2us.com/wp-content/uploads/2013/09/radio_1024-rounded.png" data-orig-size="1024,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="MY Radio" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2013/09/radio_1024-rounded-300x300.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2013/09/radio_1024-rounded.png" src="http://i1.wp.com/blog.just2us.com/wp-content/uploads/2013/09/radio_1024-rounded.png?resize=363%2C363" data-original-width="363" data-original-height="363" title="MY Radio" alt="MY Radio" style="width: 363px; height: 363px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          MY Radio
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-  </div>
-  
-  <!-- close row -->
-  
-  <div class="gallery-row" style="width: 550px; height: 275px;" data-original-width="550" data-original-height="275" >
-    <div class="gallery-group images-1" style="width: 275px; height: 275px;" data-original-width="275" data-original-height="275" >
-      <div class="tiled-gallery-item tiled-gallery-item-large">
-        <a href="https://itunes.apple.com/us/app/sg-radio-tunein-to-kiss-92/id395605775?mt=8&uo=4&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/us/app/sg-radio-tunein-to-kiss-92/id395605775?mt=8&uo=4&at=11luru', '  ');" border="0" class="no-lightbox"> <img data-attachment-id="951" data-orig-file="http://blog.just2us.com/wp-content/uploads/2013/09/icon-1024x1024.png" data-orig-size="1024,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Old SG Radio App Icon" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2013/09/icon-1024x1024-300x300.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2013/09/icon-1024x1024.png" src="http://i2.wp.com/blog.just2us.com/wp-content/uploads/2013/09/icon-1024x1024.png?resize=271%2C271" data-original-width="271" data-original-height="271" title="Old SG Radio App Icon" alt="" style="width: 271px; height: 271px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          SG Radio
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-    
-    <div class="gallery-group images-1" style="width: 275px; height: 275px;" data-original-width="275" data-original-height="275" >
-      <div class="tiled-gallery-item tiled-gallery-item-large">
-        <a href="https://itunes.apple.com/us/app/torchlight-led-for-iphone-5-4/id390019536?mt=8&uo=4&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/us/app/torchlight-led-for-iphone-5-4/id390019536?mt=8&uo=4&at=11luru', '  ');" border="0" target="_blank" class="set-target no-lightbox"> <img data-attachment-id="1011" data-orig-file="http://blog.just2us.com/wp-content/uploads/2014/04/appIcon_512.png" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Torchlight" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2014/04/appIcon_512-300x300.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2014/04/appIcon_512.png" src="http://i2.wp.com/blog.just2us.com/wp-content/uploads/2014/04/appIcon_512.png?resize=271%2C271" data-original-width="271" data-original-height="271" title="Torchlight" alt="Torchlight" style="width: 271px; height: 271px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          Torchlight
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-  </div>
-  
-  <!-- close row -->
-  
-  <div class="gallery-row" style="width: 550px; height: 367px;" data-original-width="550" data-original-height="367" >
-    <div class="gallery-group images-1" style="width: 367px; height: 367px;" data-original-width="367" data-original-height="367" >
-      <div class="tiled-gallery-item tiled-gallery-item-large">
-        <a href="http://blog.just2us.com/2014/05/sg-football-2-0-revamped-and-fixed-for-world-cup-2014/appicon-512/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2014/05/sg-football-2-0-revamped-and-fixed-for-world-cup-2014/appicon-512/', '  ');" border="0" target="_blank" class="set-target"> <img data-attachment-id="1213" data-orig-file="http://blog.just2us.com/wp-content/uploads/2014/05/appicon-512.png" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="SG Football" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2014/05/appicon-512-300x300.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2014/05/appicon-512.png" src="http://i1.wp.com/blog.just2us.com/wp-content/uploads/2014/05/appicon-512.png?resize=363%2C363" data-original-width="363" data-original-height="363" title="SG Football" alt="SG Football" style="width: 363px; height: 363px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          SG Football
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-    
-    <div class="gallery-group images-2" style="width: 183px; height: 367px;" data-original-width="183" data-original-height="367" >
-      <div class="tiled-gallery-item tiled-gallery-item-small">
-        <a href="https://itunes.apple.com/sg/app/sg-4d/id294815815?mt=8&uo=4&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/sg/app/sg-4d/id294815815?mt=8&uo=4&at=11luru', '  ');" border="0" target="_blank" class="set-target no-lightbox"> <img data-attachment-id="330" data-orig-file="http://blog.just2us.com/wp-content/uploads/2010/03/SG4DIconBigv3_thumb.png" data-orig-size="240,240" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="SG 4D" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2010/03/SG4DIconBigv3_thumb.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2010/03/SG4DIconBigv3_thumb.png" src="http://i2.wp.com/blog.just2us.com/wp-content/uploads/2010/03/SG4DIconBigv3_thumb.png?resize=179%2C179" data-original-width="179" data-original-height="179" title="SG 4D" alt="SG 4D" style="width: 179px; height: 179px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          SG 4D
-        </div>
-      </div>
-      
-      <div class="tiled-gallery-item tiled-gallery-item-small">
-        <a href="https://itunes.apple.com/sg/app/sg-toto/id296187571?mt=8&uo=4&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/sg/app/sg-toto/id296187571?mt=8&uo=4&at=11luru', '  ');" border="0" target="_blank" class="set-target no-lightbox"> <img data-attachment-id="526" data-orig-file="http://blog.just2us.com/wp-content/uploads/2010/11/SGToto-Icon-v4.png" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="SG Toto" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2010/11/SGToto-Icon-v4-300x300.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2010/11/SGToto-Icon-v4.png" src="http://i2.wp.com/blog.just2us.com/wp-content/uploads/2010/11/SGToto-Icon-v4.png?resize=179%2C180" data-original-width="179" data-original-height="180" title="SG Toto" alt="SG Toto" style="width: 179px; height: 180px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          SG Toto
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-  </div>
-  
-  <!-- close row -->
-  
-  <div class="gallery-row" style="width: 550px; height: 183px;" data-original-width="550" data-original-height="183" >
-    <div class="gallery-group images-1" style="width: 183px; height: 183px;" data-original-width="183" data-original-height="183" >
-      <div class="tiled-gallery-item tiled-gallery-item-small">
-        <a href="https://itunes.apple.com/us/app/sg-motor-racing-odds/id391948212?mt=8&uo=4&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/us/app/sg-motor-racing-odds/id391948212?mt=8&uo=4&at=11luru', '  ');" border="0" target="_blank" class="set-target no-lightbox"> <img data-attachment-id="1008" data-orig-file="http://blog.just2us.com/wp-content/uploads/2014/04/SG-Racing-Icon-Big.png" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="SG Racing" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2014/04/SG-Racing-Icon-Big-300x300.png" data-large-file="http://blog.just2us.com/wp-content/uploads/2014/04/SG-Racing-Icon-Big.png" src="http://i0.wp.com/blog.just2us.com/wp-content/uploads/2014/04/SG-Racing-Icon-Big.png?resize=179%2C179" data-original-width="179" data-original-height="179" title="SG Racing" alt="SG Racing" style="width: 179px; height: 179px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          SG Racing
-        </div>
-      </div>
-    </div>
-    
-    <!-- close group -->
-    
-    <div class="gallery-group images-1" style="width: 183px; height: 183px;" data-original-width="183" data-original-height="183" >
-      <div class="tiled-gallery-item tiled-gallery-item-small">
-        <a href="https://itunes.apple.com/us/app/sg-blood/id301980124?mt=8&uo=4&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://itunes.apple.com/us/app/sg-blood/id301980124?mt=8&uo=4&at=11luru', '  ');" border="0" class="no-lightbox"> <img data-attachment-id="1004" data-orig-file="http://blog.just2us.com/wp-content/uploads/2014/04/SG-Blood-Icon-Big-v3.jpg" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="SG Blood" data-image-description="" data-medium-file="http://blog.just2us.com/wp-content/uploads/2014/04/SG-Blood-Icon-Big-v3-300x300.jpg" data-large-file="http://blog.just2us.com/wp-content/uploads/2014/04/SG-Blood-Icon-Big-v3.jpg" src="http://i1.wp.com/blog.just2us.com/wp-content/uploads/2014/04/SG-Blood-Icon-Big-v3.jpg?resize=179%2C179" data-original-width="179" data-original-height="179" title="SG Blood" alt="SG Blood" style="width: 179px; height: 179px;" data-recalc-dims="1" /> </a> 
-        
-        <div class="tiled-gallery-caption">
-          SG Blood
-        </div>
-      </div>
-    </div>
+# iPhone/iPad Apps
+
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/app/id1065722243?at=11luru">
+        <img class="" src="/wp-content/uploads/2015/12/appicon-rounded-300x300.jpg">
+        <span class="center-block">Baby Log</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="http://jade2us.com">
+        <img class="" src="/wp-content/uploads/2014/04/iTunesArtwork@2x-300x300.png">
+        <span class="center-block">Jade</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="/apps/download-big-day/">
+        <img class="" src="/wp-content/uploads/2014/07/iTunesArtwork-300x300.png">
+        <span class="center-block">Big Day</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/app/id882433590?mt=8&at=11luru">
+        <img class="" src="/wp-content/uploads/2014/06/iTunesArtwork-300x300.png">
+        <span class="center-block">Germany+</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="http://itunes.apple.com/app/id882418475?mt=8&at=11luru">
+        <img class="" src="/wp-content/uploads/2014/06/iTunesArtwork2-300x300.png">
+        <span class="center-block">Brazil+</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/app/id882431693?mt=8&at=11luru">
+        <img class="" src="/wp-content/uploads/2014/06/iTunesArtwork1-300x300.png">
+        <span class="center-block">England+</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/app/id857575652?mt=8&at=11luru">
+        <img class="" src="/wp-content/uploads/2014/04/app-icon-256.png">
+        <span class="center-block">Poo Keeper</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/app/id1078956670?mt=8&at=11luru">
+        <img class="" src="/wp-content/uploads/2014/04/appicon-rounded-300x300.jpg">
+        <span class="center-block">HK Radio</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/app/id685967705?mt=8&at=11luru">
+        <img class="" src="/wp-content/uploads/2013/09/radio_1024-rounded-300x300.png">
+        <span class="center-block">MY Radio</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/app/id395605775?mt=8&at=11luru">
+        <img class="" src="/wp-content/uploads/2013/09/icon-1024x1024-300x300.png">
+        <span class="center-block">SG Radio</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="/2014/05/sg-football-2-0-revamped-and-fixed-for-world-cup-2014/">
+        <img class="" src="/wp-content/uploads/2014/04/appIcon_512-300x300.png">
+        <span class="center-block">SG Football</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/app/id390019536?mt=8&at=11luru">
+        <img class="" src="/wp-content/uploads/2014/05/appicon-512-300x300.png">
+        <span class="center-block">Torchlight</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/app/id294815815?mt=8&uo=4&at=11luru">
+        <img class="" src="/wp-content/uploads/2010/03/SG4DIconBigv3_thumb.png">
+        <span class="center-block">SG 4D</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/appid296187571?mt=8&uo=4&at=11luru">
+        <img class="" src="/wp-content/uploads/2010/11/SGToto-Icon-v4-300x300.png">
+        <span class="center-block">SG Toto</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/app/id391948212?mt=8&uo=4&at=11luru">
+        <img class="" src="/wp-content/uploads/2014/04/SG-Racing-Icon-Big-300x300.png">
+        <span class="center-block">SG Racing</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="https://itunes.apple.com/app/id301980124?mt=8&uo=4&at=11luru">
+        <img class="" src="/wp-content/uploads/2014/04/SG-Blood-Icon-Big-v3-300x300.jpg">
+        <span class="center-block">SG Blood</span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="">
+        <img class="" src="">
+        <span class="center-block"></span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="">
+        <img class="" src="">
+        <span class="center-block"></span>
+    </a>
+</div>
+<div class="col-lg-3 col-md-4 col-xs-6 appicon">
+    <a href="">
+        <img class="" src="">
+        <span class="center-block"></span>
+    </a>
+</div>
+
+
     
     <!-- close group -->
     

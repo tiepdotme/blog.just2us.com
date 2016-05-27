@@ -1,3 +1,9 @@
+/*!
+ * Clean Blog v1.0.0 (http://startbootstrap.com)
+ * Copyright 2016 Start Bootstrap
+ * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -471,4 +477,15 @@ div.ads {
 .post-tags .tags a {
   color: #404040;
   text-decoration: underline;
+}
+.appicon {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.appicon span {
+  text-align: center;
+}
+.appicon img:hover,
+.appicon img:focus {
+  cursor: pointer;
 }

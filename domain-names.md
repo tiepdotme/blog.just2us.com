@@ -1,6 +1,7 @@
 ---
 id: 1229
 title: Domain Names
+description: Fetish for names, and ideas
 date: 2014-06-04T00:20:11+00:00
 author: Junda Ong
 layout: page
@@ -8,23 +9,23 @@ guid: http://blog.just2us.com/?page_id=1229
 dsq_thread_id:
   - 2733369511
 ---
-This is my arsenal of **.com**, ready for my ideas to be executed. But in the meanwhile.. if you have a good offer, you can email to **support+dns@just2us.com**. If there is no reply within 3 days, then it just means the price is not right :)
 
-## Not Yet Used
+## Not Yet In Use
 
 #### <a href="http://crusk.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://crusk.com', 'crusk.com');">crusk.com</a>
 
 <a href="http://www.brandbucket.com/crusk/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.brandbucket.com/crusk/', 'Brandable');" target="_blank">Brandable</a> name that sounds like crux/crush
 
+
 #### <a href="http://okloh.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://okloh.com', 'okloh.com');">okloh.com</a>
 
 &#8220;ok loh&#8221; &#8211; the singaporean way of saying ok with poise
+
 
 #### <a href="http://wahhh.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://wahhh.com', 'wahhh.com');">wahhh.com</a>
 
 Really Wahhh~ Any apps that has wow factor can use this.
 
-#### 
 
 #### <a href="http://dajournal.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://dajournal.com', 'dajournal.com');">dajournal.com</a>
 
@@ -38,7 +39,6 @@ Because I think (private) <a href="http://jade2us.com" onclick="__gaTracker('sen
 
 For my Radio apps
 
-&nbsp;
 
 ## Currently In Used
 
@@ -61,3 +61,10 @@ For my business and apps. Not for sale.
 #### <a href="http://just2me.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2me.com', 'just2me.com');">just2me.com</a>
 
 My first domain name. For my personal blog. Not for sale.
+
+
+## Are they for sale?
+
+_Maybe_
+_If you have a good offer_
+_you may email to **support+dns@just2us.com**_ 
