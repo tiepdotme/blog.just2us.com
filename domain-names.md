@@ -33,7 +33,7 @@ Da Journal app you need
 
 #### <a href="http://journal.rocks" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://journal.rocks', 'journal.rocks');">journal.rocks</a>
 
-Because I think (private) <a href="http://jade2us.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://jade2us.com', 'journaling');">journaling</a> should not die. It should rocks!
+Because I think (private) <a href="http://jade2us.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://jade2us.com', 'journaling');">journaling</a> should not die. It should rock!
 
 #### <a href="http://getradio.xyz" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://getradio.xyz', 'getradio.xyz');">getradio.xyz</a>
 
@@ -67,4 +67,4 @@ My first domain name. For my personal blog. Not for sale.
 
 _Maybe_
 _If you have a good offer_
-_you may email to **support+dns@just2us.com**_ 
+_you may email to **support+dns@just2us.com**_

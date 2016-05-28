@@ -14,6 +14,7 @@ email_username:  junda@just2us.com
 disqus: just2us
 adsense_client: ca-pub-8504591086876220
 adsense_slot: 3185604309
+google_analytics: UA-8780506-1
 
 # Build settings
 markdown: kramdown
