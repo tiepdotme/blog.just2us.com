@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2016-05-28T09:46:44+08:00</updated><id>http://blog.just2us.com/</id><title>Just2us</title><subtitle>Justus - Creating Apps We Love</subtitle><entry><title>HK Radio launched, but dropping a great feature..</title><link href="http://blog.just2us.com/2016/04/hk-radio-launched-but-dropping-a-great-feature/" rel="alternate" type="text/html" title="HK Radio launched, but dropping a great feature.." /><published>2016-04-09T05:26:29+08:00</published><updated>2016-04-09T05:26:29+08:00</updated><id>http://blog.just2us.com/2016/04/hk-radio-launched-but-dropping-a-great-feature</id><content type="html" xml:base="http://blog.just2us.com/2016/04/hk-radio-launched-but-dropping-a-great-feature/">&lt;p&gt;The &lt;a href=&quot;https://itunes.apple.com/app/id1078956670?mt=8&amp;amp;at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://itunes.apple.com/app/id1078956670?mt=8&amp;amp;at=11luru&#39;, &#39;Hong Kong version&#39;);&quot;&gt;Hong Kong version&lt;/a&gt; is the third, or the trilogy, of the radio app series.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1078956670?mt=8&amp;amp;at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://itunes.apple.com/app/id1078956670?mt=8&amp;amp;at=11luru&#39;, &#39;&#39;);&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;size-medium wp-image-1411 aligncenter&quot; src=&quot;http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded-300x300.jpg&quot; alt=&quot;HK Radio&quot; width=&quot;300&quot; height=&quot;300&quot; srcset=&quot;http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded-150x150.jpg 150w, http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded-300x300.jpg 300w, http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded-768x768.jpg 768w, http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded-100x100.jpg 100w, http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded-200x200.jpg 200w, http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded-450x450.jpg 450w, http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded-600x600.jpg 600w, http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded-900x900.jpg 900w, http://blog.just2us.com/wp-content/uploads/2014/04/appicon-rounded.jpg 1024w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The functionalities and interface is largely same as it’s predecessors, except that &lt;strong&gt;recording feature is removed&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;It wasn’t our choice, but that of Apple to remove the feature.. as they quoted, the app violates clause 8.6:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span class=&quot;rejectionCode ng-binding&quot;&gt;8.6&lt;/span&gt; &lt;span class=&quot;&quot;&gt;–&lt;/span&gt; &lt;span class=&quot;ng-binding&quot;&gt;Apps that include the ability to download music or video content from third party sources (e.g. YouTube, SoundCloud, Vimeo, etc) without explicit authorization from those sources will be rejected&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While we understood the concern with music piracy, we wasn’t sure if that should be applied to radio. Radio is a broadcasting medium, and recording is not — downloading.&lt;/p&gt;
+
+&lt;p&gt;More so, radio is more than music. Without recording, listeners will not be able to record talkshows and conversations.&lt;/p&gt;
+
+&lt;p&gt;It is a regret to remove the feature.&lt;/p&gt;
+
+&lt;p&gt;It is true that Apple &lt;a href=&quot;https://medium.com/@krave/apple-s-app-store-review-process-is-hurting-users-but-we-re-not-allowed-to-talk-about-it-55d791451b&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://medium.com/@krave/apple-s-app-store-review-process-is-hurting-users-but-we-re-not-allowed-to-talk-about-it-55d791451b&#39;, &#39;review process is hurting us&#39;);&quot;&gt;review process is hurting us&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="radio" /><summary>The Hong Kong version is the third, or the trilogy, of the radio app series.</summary></entry><entry><title>Baby Log — another app for new parents</title><link href="http://blog.just2us.com/2015/12/baby-log%e2%80%8a-%e2%80%8aanother-app-for-new-parents/" rel="alternate" type="text/html" title="Baby Log — another app for new parents" /><published>2015-12-17T20:22:40+08:00</published><updated>2015-12-17T20:22:40+08:00</updated><id>http://blog.just2us.com/2015/12/baby-log%e2%80%8a-%e2%80%8aanother-app-for-new-parents</id><content type="html" xml:base="http://blog.just2us.com/2015/12/baby-log%e2%80%8a-%e2%80%8aanother-app-for-new-parents/">&lt;p class=&quot;p1&quot;&gt;
+  &lt;em&gt;&lt;a href=&quot;https://blog.jade2us.com/baby-log-another-app-for-new-parents-984696d02152#.5u5t1emw5&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://blog.jade2us.com/baby-log-another-app-for-new-parents-984696d02152#.5u5t1emw5&#39;, &#39;Originally posted on Medium:&#39;);&quot;&gt;Originally posted on Medium:&lt;/a&gt;&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;Shortly after launching &lt;a href=&quot;http://jade2us.com/&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://jade2us.com/&#39;, &#39;Jade&#39;);&quot;&gt;Jade&lt;/a&gt;, I started on a new app.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;While Jade is a great journal app to pen down memorable moments with your child, logging mundane stuff — feedings, diaper change, weight, etc— is best logged somewhere else.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;I use a note book and physically record these mundane stuff.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;progressiveMedia-noscript js-progressiveMedia-inner aligncenter&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*C86WT0NSusSRD_7CTdWOOg.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;On a typical day, I could record up to 8 feedings and 8 diaper change! That’s a lot of times I have to flip open the book, and write down the time and details.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;span-classs1benefits-of-loggingspan-p4&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Benefits of logging&lt;/span&gt; {.p4}&lt;/h2&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;I am not a believer of logging too much. I didn’t want to log in a book at first..&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;But after a few loud shrieks that left me totally clueless on &lt;i&gt;WHY ARE YOU CRYING&lt;/i&gt;, I decided it is best that we (all caregivers) know:&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;ul class=&quot;ul1&quot;&gt;
+  &lt;li class=&quot;li1&quot;&gt;
+    &lt;span class=&quot;s1&quot;&gt;when and how much was the baby last fed?&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;li1&quot;&gt;
+    &lt;span class=&quot;s1&quot;&gt;when was the last diaper change?&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;li1&quot;&gt;
+    &lt;span class=&quot;s1&quot;&gt;when and how long was the sleep?&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;li1&quot;&gt;
+    &lt;span class=&quot;s1&quot;&gt;is there constipation?&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;li1&quot;&gt;
+    &lt;span class=&quot;s1&quot;&gt;is baby gaining weight normally?&lt;/span&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;Turned out keeping a log book answer these questions.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;And so I turned the log book into an app (:&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;progressiveMedia-noscript js-progressiveMedia-inner aligncenter&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*KYv2PgTuXKR6inclGd3ZaA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;span-classs1download-baby-logspan-p4&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Download Baby Log&lt;/span&gt; {.p4}&lt;/h2&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;There are many similar apps that tracks the same thing. One of the most popular is &lt;a href=&quot;https://itunes.apple.com/sg/app/baby-connect-activity-logger/id326574411?mt=8&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://itunes.apple.com/sg/app/baby-connect-activity-logger/id326574411?mt=8&#39;, &#39;Baby Connect&#39;);&quot;&gt;Baby Connect&lt;/a&gt; (formally Activity Logger), which cost US$4.99, but I find it complex to use.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;width: 290px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
+  &lt;img class=&quot;progressiveMedia-noscript js-progressiveMedia-inner aligncenter&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*SICzl9GGU9wLoNFfAaJxPg.png&quot; alt=&quot;&quot; width=&quot;280&quot; height=&quot;503&quot; /&gt;
+  
+  &lt;p class=&quot;wp-caption-text&quot;&gt;
+    &lt;strong&gt;Baby Connect&amp;#8217;s Dashboard&lt;/strong&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;Perhaps they are too comprehensive, had too many different data to show/add, therefore a glance at their Dashboard makes me dizzy..&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;And so I designed Baby Log to be elegant and fast to use.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;progressiveMedia-noscript js-progressiveMedia-inner aligncenter&quot; src=&quot;https://cdn-images-1.medium.com/max/600/1*iDU595-aPAgqlNSw_9Ae-A.png&quot; alt=&quot;&quot; width=&quot;274&quot; height=&quot;486&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;progressiveMedia-noscript js-progressiveMedia-inner aligncenter&quot; src=&quot;https://cdn-images-1.medium.com/max/600/1*ieCdh9muhhxuQZkeJBaQFQ.png&quot; alt=&quot;&quot; width=&quot;267&quot; height=&quot;474&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;I also designed the Photo album to display Kate’s photos with her age, so we can see her growing beautifully (:&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;Baby Log is a paid app, at US$1.99. Find out more from the &lt;a href=&quot;https://itunes.apple.com/app/id1065722243?at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://itunes.apple.com/app/id1065722243?at=11luru&#39;, &#39;App Store&#39;);&quot;&gt;App Store&lt;/a&gt;.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;span class=&quot;s1&quot;&gt;You can also use one of the &lt;a href=&quot;http://codehookup.com/ffc8d7fe&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://codehookup.com/ffc8d7fe&#39;, &#39;2o promo codes&#39;);&quot;&gt;2o promo codes&lt;/a&gt; to download for FREE, if you are lucky.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p class=&quot;p1&quot;&gt;
+  &lt;p class=&quot;p1&quot;&gt;
+    &lt;span class=&quot;s1&quot;&gt;Also, check out &lt;a href=&quot;http://jade2us.com/&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://jade2us.com/&#39;, &#39;Jade&#39;);&quot;&gt;Jade&lt;/a&gt;, a free app for parents to co-write a journal for their child.&lt;/span&gt;
+  &lt;/p&gt;
+  
+  &lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
+  &lt;/div&gt;
+&lt;/p&gt;</content><author><name>Junda Ong</name></author><category term="Baby Log" /><summary>Originally posted on Medium:</summary></entry><entry><title>This is what happened when my SHIT app changed from $1.99 to FREE</title><link href="http://blog.just2us.com/2015/09/this-is-what-happened-when-my-shit-app-changed-from-1-99-to-free-3/" rel="alternate" type="text/html" title="This is what happened when my SHIT app changed from $1.99 to FREE" /><published>2015-09-15T04:02:40+08:00</published><updated>2015-09-15T04:02:40+08:00</updated><id>http://blog.just2us.com/2015/09/this-is-what-happened-when-my-shit-app-changed-from-1-99-to-free-3</id><content type="html" xml:base="http://blog.just2us.com/2015/09/this-is-what-happened-when-my-shit-app-changed-from-1-99-to-free-3/">&lt;section class=&quot; section--body section--first&quot;&gt; 
+
+&lt;div class=&quot;section-content&quot;&gt;
+  &lt;div class=&quot;section-inner layoutSingleColumn&quot;&gt;
+    &lt;p id=&quot;9e2c&quot; class=&quot;graf--h3 graf--first&quot;&gt;
+      &lt;em&gt; This post first appeared on &lt;a href=&quot;https://medium.com/@samwize/this-is-what-happened-when-my-shit-app-changed-from-1-99-to-free-707e594c936f&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://medium.com/@samwize/this-is-what-happened-when-my-shit-app-changed-from-1-99-to-free-707e594c936f&#39;, &#39;Medium.com&#39;);&quot;&gt;Medium.com&lt;/a&gt;.&lt;/em&gt;
+    &lt;/p&gt;
+    
+    &lt;hr /&gt;
+    
+    &lt;p class=&quot;graf--h3 graf--first&quot;&gt;
+      &lt;figure id=&quot;69f2&quot; class=&quot;graf--figure&quot;&gt; 
+      
+      &lt;div class=&quot;aspectRatioPlaceholder is-locked&quot;&gt;
+        &lt;div class=&quot;aspect-ratio-fill&quot;&gt;
+           &lt;img class=&quot;graf-image&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*MZWbL8jx8V12ZsS3ydbLcw.png&quot; alt=&quot;&quot; data-image-id=&quot;1*MZWbL8jx8V12ZsS3ydbLcw.png&quot; data-width=&quot;256&quot; data-height=&quot;256&quot; /&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;&lt;/figure&gt; 
+      
+      &lt;p id=&quot;df27&quot; class=&quot;graf--p&quot;&gt;
+        In Feb 2015, my &lt;a href=&quot;http://getpookeeper.just2us.com/&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://getpookeeper.just2us.com/&#39;, &#39;Poo Keeper&#39;);&quot; class=&quot;markup--anchor markup--p-anchor&quot; rel=&quot;nofollow&quot; data-href=&quot;http://getpookeeper.just2us.com&quot;&gt;Poo Keeper&lt;/a&gt; — an app to keep track of your poop — was updated with a big change:
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;fb1f&quot; class=&quot;graf--p&quot;&gt;
+        &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;The app changed from paid $1.99 to FREE (with ads).&lt;/strong&gt;
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;fa9c&quot; class=&quot;graf--p&quot;&gt;
+        I changed the revenue model.
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;53d0&quot; class=&quot;graf--p&quot;&gt;
+        This post is to show how the app performed — in terms of downloads, active users and revenues — before and after the change.
+      &lt;/p&gt;
+      
+      &lt;h4 id=&quot;051a&quot; class=&quot;graf--h4&quot;&gt;
+        Before: As a $1.99 Paid App
+      &lt;/h4&gt;
+      
+      &lt;p id=&quot;ccf3&quot; class=&quot;graf--p&quot;&gt;
+        Poo Keeper was first &lt;a href=&quot;http://blog.just2us.com/2014/04/new-app-poo-keeper/&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://blog.just2us.com/2014/04/new-app-poo-keeper/&#39;, &#39;released&#39;);&quot; class=&quot;markup--anchor markup--p-anchor&quot; rel=&quot;nofollow&quot; data-href=&quot;http://blog.just2us.com/2014/04/new-app-poo-keeper/&quot;&gt;released&lt;/a&gt; in April 2014.
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;9ce7&quot; class=&quot;graf--p&quot;&gt;
+        Until Feb 2015 (for 10 months), it was a paid app at $1.99.
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;b45e&quot; class=&quot;graf--p&quot;&gt;
+        I will be showing the data in the 6 months period (Aug 2014 to Feb 2015) before I made the change. Similarly, I will show 6 months &lt;em class=&quot;markup--em markup--p-em&quot;&gt;after&lt;/em&gt; the change for comparison. We will look at 2 charts: New Users and Active Users.
+      &lt;/p&gt;&lt;figure id=&quot;baa8&quot; class=&quot;graf--figure&quot;&gt; 
+      
+      &lt;div class=&quot;aspectRatioPlaceholder is-locked&quot;&gt;
+        &lt;div class=&quot;aspect-ratio-fill&quot;&gt;
+        &lt;/div&gt;
+        
+        &lt;p&gt;
+          &lt;img class=&quot;graf-image&quot; src=&quot;https://cdn-images-1.medium.com/max/1106/1*EAjeNFUaU-aMTeOXIj2zjQ.png&quot; alt=&quot;&quot; data-image-id=&quot;1*EAjeNFUaU-aMTeOXIj2zjQ.png&quot; data-width=&quot;1106&quot; data-height=&quot;459&quot; data-action=&quot;zoom&quot; data-action-value=&quot;1*EAjeNFUaU-aMTeOXIj2zjQ.png&quot; data-scroll=&quot;native&quot; /&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;&lt;figcaption class=&quot;imageCaption&quot;&gt;Before Change: 281 new users&lt;/figcaption&gt; &lt;/figure&gt; 
+      
+      &lt;p id=&quot;b0e0&quot; class=&quot;graf--p&quot;&gt;
+        The total new users for 6 months is 281. The revenue from these paid apps is 281 x $1.99 x 70% commission = &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;$391&lt;/strong&gt;. For most business, this is terrible revenue.
+      &lt;/p&gt;
+      
+      &lt;blockquote id=&quot;517d&quot; class=&quot;graf--blockquote is-withNotes&quot;&gt;
+        &lt;p&gt;
+          Every day, there is 1 “weirdo” just like me, who will pay $1.99 for my shit app. I am proud of that.
+        &lt;/p&gt;
+      &lt;/blockquote&gt;&lt;figure id=&quot;f54e&quot; class=&quot;graf--figure&quot;&gt; 
+      
+      &lt;div class=&quot;aspectRatioPlaceholder is-locked&quot;&gt;
+        &lt;div class=&quot;aspect-ratio-fill&quot;&gt;
+        &lt;/div&gt;
+        
+        &lt;p&gt;
+          &lt;img class=&quot;graf-image&quot; src=&quot;https://cdn-images-1.medium.com/max/1102/1*v_-9UJmGc9IQ6yXt8le-VQ.png&quot; alt=&quot;&quot; data-image-id=&quot;1*v_-9UJmGc9IQ6yXt8le-VQ.png&quot; data-width=&quot;1102&quot; data-height=&quot;461&quot; data-action=&quot;zoom&quot; data-action-value=&quot;1*v_-9UJmGc9IQ6yXt8le-VQ.png&quot; data-scroll=&quot;native&quot; /&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;&lt;figcaption class=&quot;imageCaption&quot;&gt;Before Change: 31 to 88 active users&lt;/figcaption&gt; &lt;/figure&gt; 
+      
+      &lt;p id=&quot;d65e&quot; class=&quot;graf--p&quot;&gt;
+        The active user rose steadily from 31 to 88 in 6 months.
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;b3a0&quot; class=&quot;graf--p&quot;&gt;
+        In the startup world, one would exclaim:
+      &lt;/p&gt;
+      
+      &lt;blockquote id=&quot;f143&quot; class=&quot;graf--blockquote graf--startsWithDoubleQuote&quot;&gt;
+        &lt;p&gt;
+          &lt;span class=&quot;markup--em markup--blockquote-em&quot;&gt;“Our active user base increased by 200% in just 6 months”&lt;/span&gt;
+        &lt;/p&gt;
+      &lt;/blockquote&gt;
+      
+      &lt;p id=&quot;1dbd&quot; class=&quot;graf--p&quot;&gt;
+        IMO, the growth is not too bad. Having an increasing active user base is the strongest hint that I could change my business model, since if they use the app frequently &lt;em class=&quot;markup--em markup--p-em&quot;&gt;(daily, if no constipation!)&lt;/em&gt;, it should drive the ads revenue substantially in the long run.
+      &lt;/p&gt;
+      
+      &lt;h4 id=&quot;373b&quot; class=&quot;graf--h4&quot;&gt;
+        After: As a FREE App
+      &lt;/h4&gt;
+      
+      &lt;p id=&quot;471e&quot; class=&quot;graf--p&quot;&gt;
+        So in Feb 2015, I released a new version that is free, but it will display advertisements. FYI, I use MoPub as mediation, integrating 5 ad providers: iAd, Google Adsense, InMobi, Millennial Media, and MoPub Marketplace.
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;9cd0&quot; class=&quot;graf--p&quot;&gt;
+        This is the data for 6 months, from Feb 2015 to Aug 2015.
+      &lt;/p&gt;&lt;figure id=&quot;74fc&quot; class=&quot;graf--figure&quot;&gt; 
+      
+      &lt;div class=&quot;aspectRatioPlaceholder is-locked&quot;&gt;
+        &lt;div class=&quot;aspect-ratio-fill&quot;&gt;
+        &lt;/div&gt;
+        
+        &lt;p&gt;
+          &lt;img class=&quot;graf-image&quot; src=&quot;https://cdn-images-1.medium.com/max/1099/1*rTuqRmRre0Zi7D6CuZlgMw.png&quot; alt=&quot;&quot; data-image-id=&quot;1*rTuqRmRre0Zi7D6CuZlgMw.png&quot; data-width=&quot;1099&quot; data-height=&quot;459&quot; data-action=&quot;zoom&quot; data-action-value=&quot;1*rTuqRmRre0Zi7D6CuZlgMw.png&quot; data-scroll=&quot;native&quot; /&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;&lt;figcaption class=&quot;imageCaption&quot;&gt;After Change: 12,680 new users&lt;/figcaption&gt; &lt;/figure&gt; 
+      
+      &lt;p id=&quot;a78d&quot; class=&quot;graf--p&quot;&gt;
+        The total number of new users acquired in the 6 months is &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;12,680&lt;/strong&gt;. Compared to &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;281&lt;/strong&gt; before the change, this is &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;45 times more&lt;/strong&gt;!
+      &lt;/p&gt;&lt;figure id=&quot;9215&quot; class=&quot;graf--figure&quot;&gt; 
+      
+      &lt;div class=&quot;aspectRatioPlaceholder is-locked&quot;&gt;
+        &lt;div class=&quot;aspect-ratio-fill&quot;&gt;
+        &lt;/div&gt;
+        
+        &lt;p&gt;
+          &lt;img class=&quot;graf-image&quot; src=&quot;https://cdn-images-1.medium.com/max/1110/1*t4kRXpEjqcXiuv2xkXTRTw.png&quot; alt=&quot;&quot; data-image-id=&quot;1*t4kRXpEjqcXiuv2xkXTRTw.png&quot; data-width=&quot;1110&quot; data-height=&quot;469&quot; data-action=&quot;zoom&quot; data-action-value=&quot;1*t4kRXpEjqcXiuv2xkXTRTw.png&quot; data-scroll=&quot;native&quot; /&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;&lt;figcaption class=&quot;imageCaption&quot;&gt;After Change: 88 to 1,711 active users&lt;/figcaption&gt; &lt;/figure&gt; 
+      
+      &lt;p id=&quot;8e0f&quot; class=&quot;graf--p&quot;&gt;
+        The active user is impressive too, increasing from &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;88&lt;/strong&gt; to &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;1,711&lt;/strong&gt; active users. That is &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;20 times more&lt;/strong&gt; (or 2,000%)!
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;7a4d&quot; class=&quot;graf--p&quot;&gt;
+        Now, we look at the most important figure — ads revenue.
+      &lt;/p&gt;&lt;figure id=&quot;ba56&quot; class=&quot;graf--figure&quot;&gt; 
+      
+      &lt;div class=&quot;aspectRatioPlaceholder is-locked&quot;&gt;
+        &lt;div class=&quot;aspect-ratio-fill&quot;&gt;
+        &lt;/div&gt;
+        
+        &lt;p&gt;
+          &lt;img class=&quot;graf-image&quot; src=&quot;https://cdn-images-1.medium.com/max/782/1*q8y-BNheGUfJ94Az7IMz7w.png&quot; alt=&quot;&quot; data-image-id=&quot;1*q8y-BNheGUfJ94Az7IMz7w.png&quot; data-width=&quot;782&quot; data-height=&quot;535&quot; data-action=&quot;zoom&quot; data-action-value=&quot;1*q8y-BNheGUfJ94Az7IMz7w.png&quot; data-scroll=&quot;native&quot; /&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;&lt;figcaption class=&quot;imageCaption&quot;&gt;MoPub revenue totaled $270 (estimated for mediated networks)&lt;/figcaption&gt; &lt;/figure&gt; 
+      
+      &lt;p id=&quot;c657&quot; class=&quot;graf--p&quot;&gt;
+        Total ads revenue is &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;$270&lt;/strong&gt;.
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;dd5b&quot; class=&quot;graf--p&quot;&gt;
+        There is another revenue, which is the $1.99 in-app purchase (IAP) to remove the ads.
+      &lt;/p&gt;&lt;figure id=&quot;a334&quot; class=&quot;graf--figure&quot;&gt; 
+      
+      &lt;div class=&quot;aspectRatioPlaceholder is-locked&quot;&gt;
+        &lt;div class=&quot;aspect-ratio-fill&quot;&gt;
+        &lt;/div&gt;
+        
+        &lt;p&gt;
+          &lt;img class=&quot;graf-image&quot; src=&quot;https://cdn-images-1.medium.com/max/1337/1*t3NMmhdzoHRkQY7Q-Vj6jg.png&quot; alt=&quot;&quot; data-image-id=&quot;1*t3NMmhdzoHRkQY7Q-Vj6jg.png&quot; data-width=&quot;1337&quot; data-height=&quot;723&quot; data-action=&quot;zoom&quot; data-action-value=&quot;1*t3NMmhdzoHRkQY7Q-Vj6jg.png&quot; data-scroll=&quot;native&quot; /&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;&lt;figcaption class=&quot;imageCaption&quot;&gt;App Store Revenue: $25&lt;/figcaption&gt; &lt;/figure&gt; 
+      
+      &lt;p id=&quot;4274&quot; class=&quot;graf--p&quot;&gt;
+        Very few users pay to remove the ads. In the 6 months, only &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;19 users&lt;/strong&gt; paid, resulting in &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;$25&lt;/strong&gt; revenue.
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;046e&quot; class=&quot;graf--p&quot;&gt;
+        So, total revenue is $270 + $25 = &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;$295&lt;/strong&gt;.
+      &lt;/p&gt;
+      
+      &lt;h4 id=&quot;b0ec&quot; class=&quot;graf--h4&quot;&gt;
+        Conclusion
+      &lt;/h4&gt;
+      
+      &lt;ul class=&quot;postList&quot;&gt;
+        &lt;li id=&quot;cdc6&quot; class=&quot;graf--li&quot;&gt;
+          Revenue before change: $391
+        &lt;/li&gt;
+        &lt;li id=&quot;8775&quot; class=&quot;graf--li&quot;&gt;
+          Revenue after change: $295
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      
+      &lt;p id=&quot;092c&quot; class=&quot;graf--p&quot;&gt;
+        The change has &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;decreased revenue by 25%&lt;/strong&gt;. Not good.
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;f68e&quot; class=&quot;graf--p&quot;&gt;
+        When I changed the revenue model, I know for sure it will drive downloads. What I need to find out is:
+      &lt;/p&gt;
+      
+      &lt;blockquote id=&quot;81a4&quot; class=&quot;graf--blockquote&quot;&gt;
+        &lt;p&gt;
+          Would revenue from ads be more than paid app?
+        &lt;/p&gt;
+      &lt;/blockquote&gt;
+      
+      &lt;p id=&quot;d075&quot; class=&quot;graf--p&quot;&gt;
+        The answer, sadly, is no.
+      &lt;/p&gt;
+      
+      &lt;h4 id=&quot;b0e6&quot; class=&quot;graf--h4&quot;&gt;
+        Sadly no? Maybe Not
+      &lt;/h4&gt;
+      
+      &lt;p id=&quot;eaee&quot; class=&quot;graf--p&quot;&gt;
+        Let’s look from another perspective. The &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;daily revenue&lt;/strong&gt; for the 6 months period is:
+      &lt;/p&gt;
+      
+      &lt;ul class=&quot;postList&quot;&gt;
+        &lt;li id=&quot;e382&quot; class=&quot;graf--li&quot;&gt;
+          Before change: &lt;strong class=&quot;markup--strong markup--li-strong&quot;&gt;$2.16 per day&lt;/strong&gt;
+        &lt;/li&gt;
+        &lt;li id=&quot;e908&quot; class=&quot;graf--li&quot;&gt;
+          After change: &lt;strong class=&quot;markup--strong markup--li-strong&quot;&gt;$1.49 per day&lt;/strong&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      
+      &lt;p id=&quot;04ef&quot; class=&quot;graf--p&quot;&gt;
+        Daily revenue has decreased. However, the daily revenue from ads has not reach a plateau/stable state, yet. It is still increasing (refer to the $270 ad revenue chart above).
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;525e&quot; class=&quot;graf--p&quot;&gt;
+        Question is: Is it possible that it can exceed $2.16 per day?
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;1525&quot; class=&quot;graf--p&quot;&gt;
+        To find out, I generated the ads revenue in the last 30 days (Aug 2015).
+      &lt;/p&gt;&lt;figure id=&quot;c59a&quot; class=&quot;graf--figure&quot;&gt; 
+      
+      &lt;div class=&quot;aspectRatioPlaceholder is-locked&quot;&gt;
+        &lt;div class=&quot;aspect-ratio-fill&quot;&gt;
+        &lt;/div&gt;
+        
+        &lt;p&gt;
+          &lt;img class=&quot;graf-image&quot; src=&quot;https://cdn-images-1.medium.com/max/778/1*ycnyoIQGjIQjqjBiSaY8CA.png&quot; alt=&quot;&quot; data-image-id=&quot;1*ycnyoIQGjIQjqjBiSaY8CA.png&quot; data-width=&quot;778&quot; data-height=&quot;534&quot; data-action=&quot;zoom&quot; data-action-value=&quot;1*ycnyoIQGjIQjqjBiSaY8CA.png&quot; data-scroll=&quot;native&quot; /&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;&lt;/figure&gt; 
+      
+      &lt;p id=&quot;15e0&quot; class=&quot;graf--p&quot;&gt;
+        The total revenue is $110, that averages out to &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;$3.66 per day&lt;/strong&gt;.
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;cfbc&quot; class=&quot;graf--p&quot;&gt;
+        Hey, that’s more than $2.16! That is a &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;69% increase &lt;/strong&gt;after changing the revenue model. In other words, previously I can afford only a &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;Starbucks filtered coffee&lt;/strong&gt;, now I can afford a &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;caffe latte&lt;/strong&gt;, every day.
+      &lt;/p&gt;
+      
+      &lt;p id=&quot;f6e3&quot; class=&quot;graf--p graf--last&quot;&gt;
+        Now, that’s a good change (:
+      &lt;/p&gt;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; &lt;section class=&quot; section--body section--last&quot;&gt; 
+      
+      &lt;div class=&quot;section-divider layoutSingleColumn&quot;&gt;
+        &lt;hr class=&quot;section-divider&quot; /&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;section-content&quot;&gt;
+        &lt;div class=&quot;section-inner layoutSingleColumn&quot;&gt;
+          &lt;h4 id=&quot;ee78&quot; class=&quot;graf--h4 graf--first&quot;&gt;
+            Changing to Advertising Model
+          &lt;/h4&gt;
+          
+          &lt;p id=&quot;3607&quot; class=&quot;graf--p&quot;&gt;
+            I suppose &lt;a href=&quot;http://itunes.apple.com/app/poo-keeper-let-it-go-your/id857575652?&amp;amp;at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://itunes.apple.com/app/poo-keeper-let-it-go-your/id857575652?&amp;amp;at=11luru&#39;, &#39;Poo Keeper&#39;);&quot; class=&quot;markup--anchor markup--p-anchor&quot; rel=&quot;nofollow&quot; data-href=&quot;http://itunes.apple.com/app/poo-keeper-let-it-go-your/id857575652?&amp;amp;at=11luru&quot;&gt;Poo Keeper&lt;/a&gt; is suitable to use advertisement as a revenue model, because it is an app whereby &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;a user will use daily (&lt;/strong&gt;&lt;em class=&quot;markup--em markup--p-em&quot;&gt;if no constipation&lt;/em&gt;). Contrary, if the usage frequency is low (eg. utility apps), then the ads revenue will not add up fast enough. Also, making the app free drives much more downloads, therefore acquiring an active user base much faster.
+          &lt;/p&gt;
+          
+          &lt;p id=&quot;7471&quot; class=&quot;graf--p graf--last&quot;&gt;
+            &lt;em class=&quot;markup--em markup--p-em&quot;&gt;Also, do check out &lt;/em&gt;&lt;a href=&quot;https://medium.com/jade-journal/why-i-created-jade-the-journal-app-for-parents-to-co-write-for-children-e4f3bab84a19&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://medium.com/jade-journal/why-i-created-jade-the-journal-app-for-parents-to-co-write-for-children-e4f3bab84a19&#39;, &#39;the story on my new app — Jade — for parents to co-write journal for their children&#39;);&quot; class=&quot;markup--anchor markup--p-anchor&quot; data-href=&quot;https://medium.com/jade-journal/why-i-created-jade-the-journal-app-for-parents-to-co-write-for-children-e4f3bab84a19&quot;&gt;&lt;em class=&quot;markup--em markup--p-em&quot;&gt;the story on my new app — Jade — for parents to co-write journal for their children&lt;/em&gt;&lt;/a&gt;&lt;em class=&quot;markup--em markup--p-em&quot;&gt;.&lt;/em&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;&lt;/section&gt; 
+      
+      &lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
+      &lt;/div&gt;
+&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;</content><author><name>Junda Ong</name></author><category term="pookeeper" /><summary></summary></entry><entry><title>New app released: Jade</title><link href="http://blog.just2us.com/2015/09/new-app-released-jade/" rel="alternate" type="text/html" title="New app released: Jade" /><published>2015-09-07T01:05:25+08:00</published><updated>2015-09-07T01:05:25+08:00</updated><id>http://blog.just2us.com/2015/09/new-app-released-jade</id><content type="html" xml:base="http://blog.just2us.com/2015/09/new-app-released-jade/">&lt;p&gt;Jade is a journal app for parents to co-write for their children.&lt;/p&gt;
+
+&lt;p&gt;This is a new app I developed as I reach a new stage in life – parenthood &lt;a href=&quot;http://www.just2me.com/2015/08/baby-kate-is-born.html&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://www.just2me.com/2015/08/baby-kate-is-born.html&#39;, &#39;(baby Kate &#39;);&quot; target=&quot;_blank&quot;&gt;(baby Kate &lt;/a&gt;was born 3 weeks ago)!&lt;/p&gt;
+
+&lt;p&gt;Read more about the app on Medium:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/jade-journal/why-i-created-jade-the-journal-app-for-parents-to-co-write-for-children-e4f3bab84a19&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://medium.com/jade-journal/why-i-created-jade-the-journal-app-for-parents-to-co-write-for-children-e4f3bab84a19&#39;, &#39;Why I created Jade — the journal app for parents to co-write for children&#39;);&quot; class=&quot;m-story&quot; data-collapsed=&quot;true&quot;&gt;Why I created Jade — the journal app for parents to co-write for children&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="jade" /><summary>Jade is a journal app for parents to co-write for their children.</summary></entry><entry><title>Finding Solace on Radio</title><link href="http://blog.just2us.com/2015/03/finding-solace-on-radio/" rel="alternate" type="text/html" title="Finding Solace on Radio" /><published>2015-03-30T23:48:11+08:00</published><updated>2015-03-30T23:48:11+08:00</updated><id>http://blog.just2us.com/2015/03/finding-solace-on-radio</id><content type="html" xml:base="http://blog.just2us.com/2015/03/finding-solace-on-radio/">&lt;p&gt;When Singapore founding father passed away, many of us tuned into radio to hear on the news.&lt;/p&gt;
+
+&lt;p&gt;I was one of them.&lt;/p&gt;
+
+&lt;p&gt;On Day 1, every Singapore radio station played solemn music tracks. There was no pop song or any talk show. Everyone was mourning over the lost of a great leader.&lt;/p&gt;
+
+&lt;p&gt;On Day 2, every Singapore radio station resumed playing of songs, &lt;em&gt;but only love songs&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It feels really sad listening to radio, yet it seems like the only way to find solace among fellow Singaporeans.&lt;/p&gt;
+
+&lt;p&gt;Every song seems to be handpicked and dedicated to Mr Lee and his family.&lt;/p&gt;
+
+&lt;p&gt;It was on Day 2 that I decided to change SG Radio song title to &lt;a href=&quot;http://blog.just2us.com/2015/03/forever-we-remember-you-mr-lee-kuan-yew/&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://blog.just2us.com/2015/03/forever-we-remember-you-mr-lee-kuan-yew/&#39;, &#39;Forever We Remember You&#39;);&quot; title=&quot;Forever We Remember You – Mr Lee Kuan Yew&quot;&gt;&lt;em&gt;Forever We Remember You&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div id=&quot;attachment_1330&quot; style=&quot;width: 560px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
+  &lt;a href=&quot;http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY.jpg&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY.jpg&#39;, &#39;&#39;);&quot;&gt;&lt;img class=&quot;wp-image-1330 size-large&quot; src=&quot;http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-1024x1024.jpg&quot; alt=&quot;SG Radio #RememberingLKY&quot; width=&quot;550&quot; height=&quot;550&quot; srcset=&quot;http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-150x150.jpg 150w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-300x300.jpg 300w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-1024x1024.jpg 1024w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-600x600.jpg 600w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-100x100.jpg 100w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-200x200.jpg 200w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-450x450.jpg 450w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-900x900.jpg 900w&quot; sizes=&quot;(max-width: 550px) 100vw, 550px&quot; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&quot;wp-caption-text&quot;&gt;
+    SG Radio #RememberingLKY
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It dawned on me — Radio will continue to be a powerful media.&lt;/p&gt;
+
+&lt;p&gt;In times like this, we can find solace together.&lt;/p&gt;
+
+&lt;p&gt;While traditional radio is an old technology, the function of radio continues to be awesome. It is better than TV; it felt like the deejays are talking to you. It is better than Facebook or other social media; as it is well curated and not cluttered.&lt;/p&gt;
+
+&lt;p&gt;That’s what I like about radio.&lt;/p&gt;
+
+&lt;p&gt;That’s why I created &lt;a href=&quot;http://itunes.apple.com/us/app/sg-radio/id395605775?mt=8&amp;amp;at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://itunes.apple.com/us/app/sg-radio/id395605775?mt=8&amp;amp;at=11luru&#39;, &#39;SG Radio&#39;);&quot; target=&quot;_blank&quot;&gt;SG Radio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We need to upgrade this “old technology” to a new level.&lt;/p&gt;
+
+&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="SG Radio" /><summary>When Singapore founding father passed away, many of us tuned into radio to hear on the news.</summary></entry><entry><title>Forever We Remember You – Mr Lee Kuan Yew</title><link href="http://blog.just2us.com/2015/03/forever-we-remember-you-mr-lee-kuan-yew/" rel="alternate" type="text/html" title="Forever We Remember You &amp;#8211; Mr Lee Kuan Yew" /><published>2015-03-24T21:55:18+08:00</published><updated>2015-03-24T21:55:18+08:00</updated><id>http://blog.just2us.com/2015/03/forever-we-remember-you-mr-lee-kuan-yew</id><content type="html" xml:base="http://blog.just2us.com/2015/03/forever-we-remember-you-mr-lee-kuan-yew/">&lt;div id=&quot;attachment_1330&quot; style=&quot;width: 560px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
+  &lt;a href=&quot;https://instagram.com/p/0mWX2yo2eb/?taken-by=samwize7&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://instagram.com/p/0mWX2yo2eb/?taken-by=samwize7&#39;, &#39;&#39;);&quot;&gt;&lt;img class=&quot;size-large wp-image-1330&quot; src=&quot;http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-1024x1024.jpg&quot; alt=&quot;SG Radio #RememberingLKY&quot; width=&quot;550&quot; height=&quot;550&quot; srcset=&quot;http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-150x150.jpg 150w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-300x300.jpg 300w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-1024x1024.jpg 1024w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-600x600.jpg 600w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-100x100.jpg 100w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-200x200.jpg 200w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-450x450.jpg 450w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-900x900.jpg 900w&quot; sizes=&quot;(max-width: 550px) 100vw, 550px&quot; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&quot;wp-caption-text&quot;&gt;
+    SG Radio #RememberingLKY
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="SG Radio" /><summary>SG Radio #RememberingLKY</summary></entry><entry><title>Sex Ratio App – How many males/females Facebook Friends you have?</title><link href="http://blog.just2us.com/2015/03/sex-ratio-app-how-many-malesfemales-facebook-friends-you-have/" rel="alternate" type="text/html" title="Sex Ratio App &amp;#8211; How many males/females Facebook Friends you have?" /><published>2015-03-12T19:51:50+08:00</published><updated>2015-03-12T19:51:50+08:00</updated><id>http://blog.just2us.com/2015/03/sex-ratio-app-how-many-malesfemales-facebook-friends-you-have</id><content type="html" xml:base="http://blog.just2us.com/2015/03/sex-ratio-app-how-many-malesfemales-facebook-friends-you-have/">&lt;p&gt;Ever wondered how many male to female friends you have?&lt;/p&gt;
+
+&lt;p&gt;I wondered that before, and created a simple Facebook app – &lt;a href=&quot;http://sexratio.herokuapp.com&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://sexratio.herokuapp.com&#39;, &#39;Sex Ratio&#39;);&quot; target=&quot;_blank&quot;&gt;Sex Ratio&lt;/a&gt; – 4 years ago.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sexratio.herokuapp.com&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://sexratio.herokuapp.com&#39;, &#39;&#39;);&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter wp-image-1324 size-full&quot; src=&quot;http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends.png&quot; alt=&quot;sex ratio facebook friends&quot; width=&quot;750&quot; height=&quot;524&quot; srcset=&quot;http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-300x210.png 300w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-100x70.png 100w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-150x105.png 150w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-200x140.png 200w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-450x314.png 450w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-600x419.png 600w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends.png 750w&quot; sizes=&quot;(max-width: 750px) 100vw, 750px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PS: It was a long time that I developed this 1-day-hack 4 years ago, using heroku and PHP (oh yah PHP!). It still works and hosted on the free heroku server. How nice Heroku!&lt;/p&gt;
+
+&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="sexratio" /><summary>Ever wondered how many male to female friends you have?</summary></entry><entry><title>Know When Last Poo-ed in Today Widget</title><link href="http://blog.just2us.com/2015/02/know-when-last-poo-ed-in-today-widget/" rel="alternate" type="text/html" title="Know When Last Poo-ed in Today Widget" /><published>2015-02-26T17:07:10+08:00</published><updated>2015-02-26T17:07:10+08:00</updated><id>http://blog.just2us.com/2015/02/know-when-last-poo-ed-in-today-widget</id><content type="html" xml:base="http://blog.just2us.com/2015/02/know-when-last-poo-ed-in-today-widget/">&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/app/poo-keeper-let-it-go-your/id857575652?&amp;amp;at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://itunes.apple.com/app/poo-keeper-let-it-go-your/id857575652?&amp;amp;at=11luru&#39;, &#39;Poo Keeper&#39;);&quot; target=&quot;_blank&quot;&gt;Poo Keeper&lt;/a&gt; v1.2 is released, with two big changes.&lt;/p&gt;
+
+&lt;h3 id=&quot;today-extension&quot;&gt;1. Today Extension&lt;/h3&gt;
+
+&lt;p&gt;Under Today (the tab beside your Notifications), you will now see how long since you last poo-ed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am.png&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am.png&#39;, &#39;&#39;);&quot;&gt;&lt;img class=&quot;aligncenter wp-image-1316 size-medium&quot; src=&quot;http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-200x300.png&quot; alt=&quot;Since last poo-ed&quot; width=&quot;200&quot; height=&quot;300&quot; srcset=&quot;http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-200x300.png 200w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-100x150.png 100w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-150x225.png 150w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-300x450.png 300w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-450x675.png 450w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-600x900.png 600w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am.png 640w&quot; sizes=&quot;(max-width: 200px) 100vw, 200px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A convenient way to tell it’s time :)&lt;/p&gt;
+
+&lt;p&gt;Note: To use, you have to scroll to bottom &amp;gt; Edit &amp;gt; Add Poo Keeper to your Today list.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;free-version&quot;&gt;2. FREE Version&lt;/h3&gt;
+
+&lt;p&gt;Secondly, the app is now offered as a FREE version.&lt;/p&gt;
+
+&lt;p&gt;The caveat: there will be ads&lt;/p&gt;
+
+&lt;p&gt;You can remove the ads by paying $1.99 USD with in-app purchase, which is just like the previously paid version.&lt;/p&gt;
+
+&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="pookeeper" /><summary>Poo Keeper v1.2 is released, with two big changes.</summary></entry><entry><title>Big Day app for wedding released!</title><link href="http://blog.just2us.com/2014/07/big-day-app-for-wedding-released/" rel="alternate" type="text/html" title="Big Day app for wedding released!" /><published>2014-07-29T01:47:19+08:00</published><updated>2014-07-29T01:47:19+08:00</updated><id>http://blog.just2us.com/2014/07/big-day-app-for-wedding-released</id><content type="html" xml:base="http://blog.just2us.com/2014/07/big-day-app-for-wedding-released/">&lt;p&gt;Have you lost count of the number of weddings you have been to?&lt;/p&gt;
+
+&lt;p&gt;(If you are getting married) Have you wished there is a beautiful and free app that provides all the information about your wedding, including RSVP?&lt;/p&gt;
+
+&lt;p&gt;Big Day is our new app to these wedding problems!&lt;/p&gt;
+
+&lt;div id=&quot;attachment_1271&quot; style=&quot;width: 310px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
+  &lt;a href=&quot;https://itunes.apple.com/app/id893058438?&amp;amp;at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://itunes.apple.com/app/id893058438?&amp;amp;at=11luru&#39;, &#39;&#39;);&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;size-medium wp-image-1271&quot; src=&quot;http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-300x300.png&quot; alt=&quot;Big Day&quot; width=&quot;300&quot; height=&quot;300&quot; srcset=&quot;http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-150x150.png 150w, http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-300x300.png 300w, http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-100x100.png 100w, http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-200x200.png 200w, http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-450x450.png 450w, http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork.png 512w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&quot;wp-caption-text&quot;&gt;
+    Big Day
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The first versioon has been released on the iOS App Store, and you can &lt;a href=&quot;https://itunes.apple.com/app/id893058438?&amp;amp;at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://itunes.apple.com/app/id893058438?&amp;amp;at=11luru&#39;, &#39;download it FREE&#39;);&quot; target=&quot;_blank&quot;&gt;download it FREE&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Android is coming soon in late August!&lt;/p&gt;
+
+&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="big day" /><summary>Have you lost count of the number of weddings you have been to?</summary></entry><entry><title>And Finally, Brazil+</title><link href="http://blog.just2us.com/2014/06/and-finally-brazil/" rel="alternate" type="text/html" title="And Finally, Brazil+" /><published>2014-06-25T18:55:56+08:00</published><updated>2014-06-25T18:55:56+08:00</updated><id>http://blog.just2us.com/2014/06/and-finally-brazil</id><content type="html" xml:base="http://blog.just2us.com/2014/06/and-finally-brazil/">&lt;p&gt;There’s &lt;a href=&quot;http://blog.just2us.com/2014/06/apple-review-took-so-long-until-england-is-eliminated/&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://blog.just2us.com/2014/06/apple-review-took-so-long-until-england-is-eliminated/&#39;, &#39;England+&#39;);&quot; title=&quot;Apple Review Took So Long, until England is Eliminated&quot; target=&quot;_blank&quot;&gt;England+&lt;/a&gt; and &lt;a href=&quot;http://blog.just2us.com/2014/06/new-app-germany/&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://blog.just2us.com/2014/06/new-app-germany/&#39;, &#39;Germany+&#39;);&quot; title=&quot;New App: Germany+&quot; target=&quot;_blank&quot;&gt;Germany+&lt;/a&gt;, of course there is &lt;a href=&quot;http://itunes.apple.com/app/id882418475?mt=8&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://itunes.apple.com/app/id882418475?mt=8&#39;, &#39;Brazil+&#39;);&quot; target=&quot;_blank&quot;&gt;Brazil+&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/app/id882418475?mt=8&amp;amp;at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://itunes.apple.com/app/id882418475?mt=8&amp;amp;at=11luru&#39;, &#39;&#39;);&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-1259&quot; src=&quot;http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork2-300x300.png&quot; alt=&quot;Brazil+&quot; width=&quot;300&quot; height=&quot;300&quot; srcset=&quot;http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork2-150x150.png 150w, http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork2-300x300.png 300w, http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork2-100x100.png 100w, http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork2-200x200.png 200w, http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork2-450x450.png 450w, http://blog.just2us.com/wp-content/uploads/2014/06/iTunesArtwork2.png 512w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, all 3 Football+ apps are released, in the midst of World Cup 2014.&lt;/p&gt;
+
+&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="Football+" /><summary>There’s England+ and Germany+, of course there is Brazil+.</summary></entry></feed>

@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Justus - Creating Apps We Love">
+    <meta name="author" content="Ong Jun Da">
+
+    <title>Wireless Ad Hoc Distribution for iPhone Apps - Just2us</title>
+
+    <link rel="canonical" href="http://blog.just2us.com/2010/12/wireless-ad-hoc-distribution-for-iphone-apps/">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/clean-blog.min.css">
+
+    <!-- Pygments Github CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
+
+    <!-- Custom Fonts -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link type="application/atom+xml" rel="alternate" href="http://blog.just2us.com/feed.xml" title="Just2us" />
+
+</head>
+
+
+<body>
+
+    <!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Just2us</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                  <a href="/stories">Stories</a>
+              </li>
+              <li>
+                  <a href="/apps">Apps</a>
+              </li>
+              <li>
+                  <a href="/domain-names">Domains</a>
+              </li>
+              <li>
+                  <a href="/about">About</a>
+              </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+
+    <!-- Post Header -->
+<header class="intro-header" style="background-image: url('/img/home-bg.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>Wireless Ad Hoc Distribution for iPhone Apps</h1>
+                    
+                    <span class="meta">Published on December 17, 2010</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+				<p>This post is for iPhone developers who need to send pre-released apps to (beta) testers.</p>
+
+<p>For a long time since iOS development began, whenever developers need to send a pre-released app, testers need to go through a tedious process to install – they have to download, drag app to iTunes on a PC/Mac (NOT iPhone), and sync over USB..</p>
+
+<p>Now with iOS 4, wireless installation is possible, right from an iPhone!</p>
+
+<p>This new process is much more convenient, or as convenient as installing from App Store. The result is that testers will be more glad to install and test your pre-released apps.</p>
+
+<p>Jeffrey Sambells has a <a href="http://jeffreysambells.com/posts/2010/06/22/ios-wireless-app-distribution/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://jeffreysambells.com/posts/2010/06/22/ios-wireless-app-distribution/', 'good post');">good post</a> on how to create a little webpage that has links for testers to install the app. He even has a PHP script to conveniently skip some of the steps.</p>
+
+<p>The post is helpful, but for myself, all I need is to a link that I can email to my testers. A link which they can simply click on and install the app wirelessly.</p>
+
+<p>I am going to explain how I do it my way.</p>
+
+<p> </p>
+
+<h3 id="step-1--build-and-archive">Step 1 – Build and Archive</h3>
+
+<p>In Xcode, <strong>Build and Archive</strong> your Ad Hoc target.</p>
+
+<p>Under Organizer window, select the archive app and select <strong>Share</strong> &gt; <strong>Distribute for Enterprise</strong>. You will see this (screenshot from <a href="http://www.paradeofrain.com/2010/11/taking-the-pain-out-of-ad-hoc-testing/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.paradeofrain.com/2010/11/taking-the-pain-out-of-ad-hoc-testing/', 'paradeofrain');">paradeofrain</a>):</p>
+
+<p align="center">
+  <img src="http://www.paradeofrain.com/wp-content/uploads/2010/11/appinfo.png" />
+</p>
+
+<p>For the URL field, enter a temporary URL first (we will change that in step 2). This URL is the link to the IPA file which you will upload.</p>
+
+<p>Press OK. You will now have the IPA file (the app) and a PLIST file (an XML that describes the app and where the IPA is).</p>
+
+<p> </p>
+
+<h3 id="step-2--upload-to-dropbox">Step 2 – Upload to Dropbox</h3>
+
+<p>Firstly, upload the IPA file to your <a href="https://www.dropbox.com/referrals/NTQxODM3Njk?src=global0" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.dropbox.com/referrals/NTQxODM3Njk?src=global0', 'dropbox');">dropbox</a>. I prefer <a href="https://www.dropbox.com/referrals/NTQxODM3Njk?src=global0" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.dropbox.com/referrals/NTQxODM3Njk?src=global0', 'dropbox');">dropbox</a>, but you may use a web server if you like. After the file is uploaded, get the dropbox public link for the IPA file. eg. <a href="http://dl.dropbox.com/u/1234/MyApp.ipa" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://dl.dropbox.com/u/1234/MyApp.ipa', 'http://dl.dropbox.com/u/1234/MyApp.ipa');" title="http://dl.dropbox.com/u/1234/MyApp.ipa">http://dl.dropbox.com/u/1234/MyApp.ipa</a></p>
+
+<p>Next, open the PLIST file and edit the url element. For example,</p>
+
+<div class="wp_syntax">
+  <table>
+    <tr>
+      <td class="code">
+        <pre class="xml" style="font-family:monospace;">...
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;key<span style="color: #000000; font-weight: bold;">&gt;</span></span></span>url<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/key<span style="color: #000000; font-weight: bold;">&gt;</span></span></span>
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;string<span style="color: #000000; font-weight: bold;">&gt;</span></span></span>http://dl.dropbox.com/u/1234/MyApp.ipa<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;string<span style="color: #000000; font-weight: bold;">&gt;</span></span></span>
+...</pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p>Upload the edited PLIST file to dropbox. Similarly, get the dropbox public link to the PLIST file. eg. <a href="http://dl.dropbox.com/u/1234/MyApp.plist" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://dl.dropbox.com/u/1234/MyApp.plist', 'http://dl.dropbox.com/u/1234/MyApp.plist');" title="http://dl.dropbox.com/u/1234/MyApp.ipa">http://dl.dropbox.com/u/1234/MyApp.plist</a></p>
+
+<p> </p>
+
+<h3 id="step-3--email-testers-the-link">Step 3 – Email Testers the Link</h3>
+
+<p>The secret to installing is this URI:</p>
+
+<p><strong>itms-services://?action=download-manifest&amp;url=http://dl.dropbox.com/u/1234/MyApp.plist</strong>  </p>
+
+<p>Created a HTML email with a hyperlink pointing to the above URI. For example:</p>
+
+<div class="wp_syntax">
+  <table>
+    <tr>
+      <td class="code">
+        <pre class="xml" style="font-family:monospace;"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;a</span> <span style="color: #000066;">href</span>=”itms-services://?<span style="color: #000066;">action</span>=download-manifest&amp;<span style="color: #000066;">url</span>=http://dl.dropbox.com/u/1234/MyApp.plist<span style="color: #000000; font-weight: bold;">&gt;</span></span>Download App<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/a<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p>When a tester click on Download App from his iPhone, the installation will begin!</p>
+
+<p>That’s it!</p>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
+</div>
+
+
+                <hr>
+
+                
+
+<div class="post-tags">
+  <div class="label">
+    <span>TAGGED WITH</span>
+  </div>
+  <div class="tags">
+    
+    <a href="/tags/#Xcode">Xcode</a>
+    
+  </div>
+</div>
+
+
+
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/2010/11/the-developing-world-by-fredrik-hrn/" data-toggle="tooltip" data-placement="top" title="Previous Post">&larr; The Developing World, by Fredrik H&auml;r&eacute;n</a>
+                    </li>
+                    
+                    
+                    <li class="next">
+                        <a href="/2011/01/sg-traffic-on-wp7/" data-toggle="tooltip" data-placement="top" title="Next Post">SG Traffic on WP7 &rarr;</a>
+                    </li>
+                    
+                </ul>
+
+                <!-- Adsense-->
+                <div class="ads">
+                  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                  <!-- Just2me.com -->
+                  <ins class="adsbygoogle"
+                       style="display:block"
+                       data-ad-client="ca-pub-8504591086876220"
+                       data-ad-slot="3185604309"
+                       data-ad-format="auto"></ins>
+                  <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>
+                </div>
+
+                <!-- Disqus -->
+                
+                <hr>
+
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                    var disqus_shortname = 'just2us';
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>
+
+    <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    <li>
+                        <a href="/feed.xml">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://twitter.com/samwize">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://www.facebook.com/ongjunda">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://github.com/samwize">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="mailto:junda@just2us.com">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                </ul>
+                <p class="copyright text-muted">Copyright &copy; Just2us 2009-2016</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- jQuery -->
+<script src="/js/jquery.min.js "></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/js/bootstrap.min.js "></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/clean-blog.min.js "></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-8780506-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+</body>
+
+</html>

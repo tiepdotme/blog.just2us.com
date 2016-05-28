@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Justus - Creating Apps We Love">
+    <meta name="author" content="Ong Jun Da">
+
+    <title>What&rsquo;s technically new for SG 4D? - Just2us</title>
+
+    <link rel="canonical" href="http://blog.just2us.com/2010/04/whats-technically-new-for-sg-4d/">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/clean-blog.min.css">
+
+    <!-- Pygments Github CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
+
+    <!-- Custom Fonts -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link type="application/atom+xml" rel="alternate" href="http://blog.just2us.com/feed.xml" title="Just2us" />
+
+</head>
+
+
+<body>
+
+    <!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Just2us</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                  <a href="/stories">Stories</a>
+              </li>
+              <li>
+                  <a href="/apps">Apps</a>
+              </li>
+              <li>
+                  <a href="/domain-names">Domains</a>
+              </li>
+              <li>
+                  <a href="/about">About</a>
+              </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+
+    <!-- Post Header -->
+<header class="intro-header" style="background-image: url('/img/home-bg.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>What&rsquo;s technically new for SG 4D?</h1>
+                    
+                    <span class="meta">Published on April 2, 2010</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+				<p>In the <a href="http://just2us.com/2010/03/whats-new-for-sg-4d/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2010/03/whats-new-for-sg-4d/', 'previous post');">previous post</a>, I have highlighted what’s new for SG 4D. In this post, I will be highlighting what’s new, from a technical point of view.</p>
+
+<p>I am excited to write what is technically new in the app, as there are aplenty, and we have used many awesome technology from iPhone 3.0 SDK, including CoreData, In-app purchase, Facebook Connect library, etc..</p>
+
+<!--more-->
+
+<h3 id="googles-appengine">1. Google’s AppEngine</h3>
+
+<p>I lied. Not only did we use awesome technology from iPhone, we used awesome technology from Google!</p>
+
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://just2us.com/wp-content/uploads/2010/03/appengine4d.png" alt="" /></p>
+
+<p>The server side is now completely powered by Google’s <a href="http://code.google.com/appengine/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://code.google.com/appengine/', 'AppEngine');">AppEngine</a>. This brings about several benefits: cheap/free server hosting, scalable architecture, stable+distributed+fast servers.</p>
+
+<p>The process of retrieving 4D results is also technically more sound, using REST with JSON, and a proper cron job for web crawling. This makes me happier and sleeps better.</p>
+
+<h3 id="core-data">2. Core Data</h3>
+
+<p>Not only the server application is improved, the client application too, with another awesome technology!</p>
+
+<p>In short, Core Data is the iPhone 3.0 SDK framework for managing data (or commonly databases). The list of features and benefits can be found <a href="http://developer.apple.com/iphone/library/documentation/Cocoa/Conceptual/CoreData/Articles/cdTechnologyOverview.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://developer.apple.com/iphone/library/documentation/Cocoa/Conceptual/CoreData/Articles/cdTechnologyOverview.html', 'here');">here</a>.</p>
+
+<p>What Core Data meant for SG 4D is that <strong>all the results</strong>, <em>I meant all 24 years of results</em>, are easily stored and queried using the framework.</p>
+
+<p>No longer is your analysis of a 4D number done on the server side. When you asked to analysis a 4D number, your iPhone will query the large set of data using Core Data, and give you the analysis instantly!</p>
+
+<p>This also means more advance analysis is possible in the future!</p>
+
+<h3 id="in-app-purchase">3. In-App Purchase</h3>
+
+<p>In-App Purchase is the ability to purchase items right from the app. This is a breakthrough for iPhone 3.0.</p>
+
+<p>In SG 4D, you can now purchase/unlock the Premium Features immediately. Hence, it is not needed to download a lite version, and subsequently upgrading to a paid version.</p>
+
+<p><a href="http://just2us.com/wp-content/uploads/2010/04/PurchasePremiumFeatures.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/04/PurchasePremiumFeatures.png', '');"><img style="display: inline; border: 0px;" title="Purchase Premium Features" src="http://just2us.com/wp-content/uploads/2010/04/PurchasePremiumFeatures_thumb.png" border="0" alt="Purchase Premium Features" width="164" height="244" /></a></p>
+
+<p>We have also simplified the purchasing of the Premium Features by just having a $3.99 purchase to get all the features, including future features such as push notification!</p>
+
+<h3 id="copy-and-paste">4. Copy-and-paste</h3>
+
+<p>In iPhone 3.0, the <em>most awesome</em> feature should be none other than copy-and-paste (pun intended).</p>
+
+<p>In SG 4D, you could now copy and the 4D results, and paste it anywhere – SMS, Email, twitter, etc..</p>
+
+<p>To make things easier, we also added functions to Email and SMS to your friends.</p>
+
+<p><a href="http://just2us.com/wp-content/uploads/2010/04/Email.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/04/Email.png', '');"><img style="display: inline; margin: 0px 10px 0px 0px; border: 0px;" title="Email" src="http://just2us.com/wp-content/uploads/2010/04/Email_thumb.png" border="0" alt="Email" width="164" height="244" /></a> <img style="margin: 0px 0px 0px 10px;" src="http://just2us.com/wp-content/uploads/2010/03/SMS_thumb.png" alt="" /></p>
+
+<h3 id="wallpaper-selection">5. Wallpaper Selection</h3>
+
+<p>You are now able to select your favorite wallpaper that goes along with the 4D results!</p>
+
+<p>You might have noticed that the minimum OS requirement is now 3.1 (instead of 3.0). This is due to one of the SDK API we used for selecting, resizing and cropping your photo.</p>
+
+<p><a href="http://just2us.com/wp-content/uploads/2010/04/Wallpaper.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/04/Wallpaper.png', '');"><img style="display: inline; border: 0px;" title="Wallpaper" src="http://just2us.com/wp-content/uploads/2010/04/Wallpaper_thumb.png" border="0" alt="Wallpaper" width="164" height="244" /></a></p>
+
+<p><em>Anyway, the photo above is my 3 hour old nephew, born on March 31, 2010 (Wed). And my dad strike 3rd prize, even before using him for wallpaper (:</em></p>
+
+<h3 id="sharing-on-facebook">6. Sharing on Facebook</h3>
+
+<p>Facebook Connect for iPhone is a library for integrating apps with Facebook.</p>
+
+<p>For SG 4D, you could now set your status to help to share SG 4D app with your friends. Right now, we know this is nothing much.</p>
+
+<p><a href="http://just2us.com/wp-content/uploads/2010/04/Facebookpost.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/04/Facebookpost.jpg', '');"><img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Facebook post" src="http://just2us.com/wp-content/uploads/2010/04/Facebookpost_thumb.jpg" border="0" alt="Facebook post" width="404" height="70" /></a></p>
+
+<p>In the future, we are thinking you could post status, such as “I strike 1st prize!”, “Bought 1234 for this wed, sat and sun”, etc.. If you have any idea on better use for Facebook with SG 4D, we are happy to hear.</p>
+
+<h3 id="reviewing-on-appstore">7. Reviewing on AppStore</h3>
+
+<p>We would like you to review the app, no matter good or bad.</p>
+
+<p><a href="http://just2us.com/wp-content/uploads/2010/04/Review.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/04/Review.png', '');"><img style="display: inline; border: 0px;" title="Review" src="http://just2us.com/wp-content/uploads/2010/04/Review_thumb.png" border="0" alt="Review" width="164" height="244" /></a></p>
+
+<p>To help you to help us review, we have added a function under More to bring you right to App Store to write a review.</p>
+
+<p>In addition, 14 days after you installed the app, SG 4D will prompt you to rate and review us.</p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>SG 4D version 2 is a big overhaul, technically more sound, and has promising future.</p>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
+</div>
+
+
+                <hr>
+
+                
+
+<div class="post-tags">
+  <div class="label">
+    <span>TAGGED WITH</span>
+  </div>
+  <div class="tags">
+    
+    <a href="/tags/#SG 4D">SG 4D</a>
+    
+  </div>
+</div>
+
+
+
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/2010/03/whats-new-for-sg-4d/" data-toggle="tooltip" data-placement="top" title="Previous Post">&larr; What&rsquo;s new for SG 4D?</a>
+                    </li>
+                    
+                    
+                    <li class="next">
+                        <a href="/2010/04/get-push-notification-for-new-4d-result/" data-toggle="tooltip" data-placement="top" title="Next Post">Get Push Notification for New 4D Result &rarr;</a>
+                    </li>
+                    
+                </ul>
+
+                <!-- Adsense-->
+                <div class="ads">
+                  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                  <!-- Just2me.com -->
+                  <ins class="adsbygoogle"
+                       style="display:block"
+                       data-ad-client="ca-pub-8504591086876220"
+                       data-ad-slot="3185604309"
+                       data-ad-format="auto"></ins>
+                  <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>
+                </div>
+
+                <!-- Disqus -->
+                
+                <hr>
+
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                    var disqus_shortname = 'just2us';
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>
+
+    <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    <li>
+                        <a href="/feed.xml">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://twitter.com/samwize">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://www.facebook.com/ongjunda">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://github.com/samwize">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="mailto:junda@just2us.com">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                </ul>
+                <p class="copyright text-muted">Copyright &copy; Just2us 2009-2016</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- jQuery -->
+<script src="/js/jquery.min.js "></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/js/bootstrap.min.js "></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/clean-blog.min.js "></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-8780506-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Justus - Creating Apps We Love">
+    <meta name="author" content="Ong Jun Da">
+
+    <title>How to obfuscate an Android application - Just2us</title>
+
+    <link rel="canonical" href="http://blog.just2us.com/2009/07/tutorial-obfuscate-an-android-application/">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/clean-blog.min.css">
+
+    <!-- Pygments Github CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
+
+    <!-- Custom Fonts -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link type="application/atom+xml" rel="alternate" href="http://blog.just2us.com/feed.xml" title="Just2us" />
+
+</head>
+
+
+<body>
+
+    <!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Just2us</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                  <a href="/stories">Stories</a>
+              </li>
+              <li>
+                  <a href="/apps">Apps</a>
+              </li>
+              <li>
+                  <a href="/domain-names">Domains</a>
+              </li>
+              <li>
+                  <a href="/about">About</a>
+              </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+
+    <!-- Post Header -->
+<header class="intro-header" style="background-image: url('/img/home-bg.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>How to obfuscate an Android application</h1>
+                    
+                    <span class="meta">Published on July 21, 2009</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+				<p>There is no easy way to obfuscate Java classes of an Android app. This is no Eclipse plugin, nor even a working ant script.</p>
+
+<p>Maybe there are <a href="http://code.google.com/p/zxing/source/browse/trunk/android-m3/build.xml?r=321" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://code.google.com/p/zxing/source/browse/trunk/android-m3/build.xml?r=321', 'working ant scripts');">working ant scripts</a>. But for Android SDK 1.5, it seems like no one has supplied a proper one, yet. And hence, I spent half a day hacking out <a href="http://blog.just2us.com/wp-content/uploads/2009/07/build.xml" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/07/build.xml', 'a script that works');">a script that works</a>. There are more effort and hurdles than what are presented here.. but for a simple working script, here it is how I did it:</p>
+
+<p> </p>
+
+<h3 id="create-a-project">1 Create a Project</h3>
+
+<p>From the Terminal, in /android-sdk/tools/, run:</p>
+
+<blockquote>
+  <p>./android create project –target 2 –path /PATH/TO/ObfuscatedApp –activity MyActivity –package com.just2me.obfapp</p>
+</blockquote>
+
+<p> </p>
+
+<h3 id="edit-buildxml">2 Edit build.xml</h3>
+
+<p>Replace the build.xml with <a href="http://blog.just2us.com/wp-content/uploads/2009/07/build.xml" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/07/build.xml', 'my modified build.xml');">my modified build.xml</a>, which is the most important item in this tutorial. The obfuscation work is in the optimize target as seen below.</p>
+
+<p align="center">
+  <a href="http://just2us.com/wp-content/uploads/2009/07/ant-buildxml.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/07/ant-buildxml.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="214" alt="ant build.xml" src="http://just2us.com/wp-content/uploads/2009/07/ant-buildxml-thumb.png" width="498" border="0" /></a>
+</p>
+
+<p>Some points to note in the build.xml ant script:</p>
+
+<ul>
+  <li>Edit the properties for the path to your Android SDK and <a href="http://proguard.sourceforge.net/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://proguard.sourceforge.net/', 'Proguard');">Proguard</a></li>
+  <li>If you use any libraries, copy them to /lib and add -libraryjars ${library-jar}/some_lib_used.jar accordingly</li>
+  <li>-dontoptimize is needed for Android</li>
+  <li>For all classes that are declared in AndroidManifest.xml Application nodes (Activities, Receviers, etc), add an arg to tell proguard not to obfuscate. Exampe: “-keep public class com.just2me.obfapp.activity.*”</li>
+</ul>
+
+<p> </p>
+
+<h4 id="run-ant">3 Run ant</h4>
+
+<p>The last step is to simply run the ant script!</p>
+
+<p>To package a debug version that is signed with a debug key, run “ant debug-obf”.</p>
+
+<p>To package a release version that is unsigned, run “ant release-obf”.</p>
+
+<p>If all is well, then you will find the products in /bin. ObfuscatedApp-debug.apk would be the debug package that could be installed on simulator/devices.</p>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
+</div>
+
+
+                <hr>
+
+                
+
+<div class="post-tags">
+  <div class="label">
+    <span>TAGGED WITH</span>
+  </div>
+  <div class="tags">
+    
+    <a href="/tags/#tutorials">tutorials</a>
+    
+  </div>
+</div>
+
+
+
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/2009/07/tutorial-creating-multiple-targets-for-xcode-iphone-projects/" data-toggle="tooltip" data-placement="top" title="Previous Post">&larr; How to create multiple targets for Xcode iPhone Projects</a>
+                    </li>
+                    
+                    
+                    <li class="next">
+                        <a href="/2009/08/4-promo-codes-for-flowers/" data-toggle="tooltip" data-placement="top" title="Next Post">4 x Flowers Promo Codes Voucher &rarr;</a>
+                    </li>
+                    
+                </ul>
+
+                <!-- Adsense-->
+                <div class="ads">
+                  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                  <!-- Just2me.com -->
+                  <ins class="adsbygoogle"
+                       style="display:block"
+                       data-ad-client="ca-pub-8504591086876220"
+                       data-ad-slot="3185604309"
+                       data-ad-format="auto"></ins>
+                  <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>
+                </div>
+
+                <!-- Disqus -->
+                
+                <hr>
+
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                    var disqus_shortname = 'just2us';
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>
+
+    <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    <li>
+                        <a href="/feed.xml">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://twitter.com/samwize">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://www.facebook.com/ongjunda">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://github.com/samwize">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="mailto:junda@just2us.com">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                </ul>
+                <p class="copyright text-muted">Copyright &copy; Just2us 2009-2016</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- jQuery -->
+<script src="/js/jquery.min.js "></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/js/bootstrap.min.js "></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/clean-blog.min.js "></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-8780506-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+</body>
+
+</html>
