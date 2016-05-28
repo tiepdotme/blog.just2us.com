@@ -10,7 +10,7 @@
   </div>
   <div class="tags">
     {% for tag in tags %}
-    <a href="/tags/#{{tag|slugize}}">{{tag}}</a>{% unless forloop.last %},{% endunless %}
+    <a href="/stories/#{{tag|slugize}}">{{tag}}</a>{% unless forloop.last %},{% endunless %}
     {% endfor %}
   </div>
 </div>
