@@ -442,6 +442,9 @@ h2,
 h3 {
   margin-top: 80px;
 }
+article p img {
+  margin: auto;
+}
 .archive-group {
   position: relative;
 }
