@@ -1,1 +1,1 @@
-This is [just2me.com](http://just2me.com) on Jekyll.
+This is [blog.just2us.com](http://blog.just2us.com) on Jekyll.
