@@ -8,9 +8,11 @@ tags: [SG 4D, Bot]
 
 ## Introducing _Didi_ the SG 4D Bot
 
-Anyway, try out [_Didi_](https://www.messenger.com/t/sgx4d/)!
+_Didi_ is the name our SG 4D bot.
 
-<br />
+_Didi_ is capable of telling you the latest 4D results, or any other results since 1986!
+
+[Start a chat](https://www.messenger.com/t/sgx4d/) on Facebook Messenger, or click the button below:
 
 <div class="fb-messengermessageus col-lg-offset-4 col-lg-4 col-md-4 col-md-offset-4"
   messenger_app_id="102125519823247"
@@ -39,6 +41,10 @@ Anyway, try out [_Didi_](https://www.messenger.com/t/sgx4d/)!
    }(document, 'script', 'facebook-jssdk'));
 </script>
 
+_This is the first version of our bot, so what Didi can understand is very limited now. But the more you talk to it, the more it will learn. So be patient and help Didi grow!_
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/c4T1qM_D3nY" frameborder="0" allowfullscreen></iframe>
+
 
 ## On Facebook Bot Review
 
@@ -46,6 +52,6 @@ Following a [failed attempt](/2016/05/28/here-comes-a-new-gatekeeper-facebook-me
 
 Not so bad after all.
 
-But I still have reservation seeing how the second reviewer test my bot. He did not re-test with _hello_ (which the bot failed to handle at first). 
+But I still have reservation seeing how the second reviewer test my bot. He did not re-test with _hello_ (which the bot failed to handle at first).
 
 In fact he only [sent 2 messages](/img/sg4d-bot-second-review.png), and he is happy?
