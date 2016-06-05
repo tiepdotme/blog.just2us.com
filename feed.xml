@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2016-05-28T15:19:04+08:00</updated><id>http://blog.just2us.com/</id><title>Just2us</title><subtitle>Justus - Creating Apps We Love</subtitle><entry><title>Here Comes a New Gatekeeper - Facebook Messenger/Bot Reviewers</title><link href="http://blog.just2us.com/2016/05/28/here-comes-a-new-gatekeeper-facebook-messenger-bot-reviewers/" rel="alternate" type="text/html" title="Here Comes a New Gatekeeper - Facebook Messenger/Bot Reviewers" /><published>2016-05-28T14:17:20+08:00</published><updated>2016-05-28T14:17:20+08:00</updated><id>http://blog.just2us.com/2016/05/28/here-comes-a-new-gatekeeper-facebook-messenger-bot-reviewers</id><content type="html" xml:base="http://blog.just2us.com/2016/05/28/here-comes-a-new-gatekeeper-facebook-messenger-bot-reviewers/">&lt;p&gt;Over the past few weeks, I was trying out &lt;a href=&quot;http://techcrunch.com/2016/04/12/agents-on-messenger/&quot;&gt;Facebook newly opened chat platform&lt;/a&gt;, and build a &lt;a href=&quot;/stories/#SG%204D&quot;&gt;SG 4D&lt;/a&gt; bot.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2016-06-05T22:48:40+08:00</updated><id>http://blog.just2us.com/</id><title>Just2us</title><subtitle>Creating Apps We Love</subtitle><entry><title>First Bot App - Didi for SG 4D</title><link href="http://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d/" rel="alternate" type="text/html" title="First Bot App - Didi for SG 4D" /><published>2016-06-05T15:10:37+08:00</published><updated>2016-06-05T15:10:37+08:00</updated><id>http://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d</id><content type="html" xml:base="http://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d/">&lt;h2 id=&quot;introducing-didi-the-sg-4d-bot&quot;&gt;Introducing &lt;em&gt;Didi&lt;/em&gt; the SG 4D Bot&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Didi&lt;/em&gt; is the name our SG 4D bot.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Didi&lt;/em&gt; is capable of telling you the latest 4D results, or any other results since 1986!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.messenger.com/t/sgx4d/&quot;&gt;Start a chat&lt;/a&gt; on Facebook Messenger, or click this button:&lt;/p&gt;
+
+&lt;div class=&quot;fb-messengermessageus col-lg-offset-4 col-lg-4 col-md-4 col-md-offset-4&quot; messenger_app_id=&quot;102125519823247&quot; page_id=&quot;1080193802040060&quot; color=&quot;blue&quot; size=&quot;xlarge&quot;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;script&gt;
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : &#39;102125519823247&#39;,
+      xfbml      : true,
+      version    : &#39;v2.6&#39;
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = &quot;//connect.facebook.net/en_US/sdk.js&quot;;
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));
+&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;This is the first version of Didi, so what this little bot can understand is very limited, for now. But the more you talk to it, the more it will learn. So be patient and help Didi grow!&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/c4T1qM_D3nY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;on-facebook-bot-review&quot;&gt;On Facebook Bot Review&lt;/h2&gt;
+
+&lt;p&gt;Following a &lt;a href=&quot;/2016/05/28/here-comes-a-new-gatekeeper-facebook-messenger-bot-reviewers/&quot;&gt;failed attempt&lt;/a&gt; with Facebook bot reviewer, SG 4D bot app was approved on second try!&lt;/p&gt;
+
+&lt;p&gt;Not so bad after all.&lt;/p&gt;
+
+&lt;p&gt;But I still have reservation seeing how the second reviewer test my bot. He did not re-test with &lt;em&gt;hello&lt;/em&gt; (which the bot failed to handle at first).&lt;/p&gt;
+
+&lt;p&gt;In fact he only &lt;a href=&quot;/img/sg4d-bot-second-review.png&quot;&gt;sent 2 messages&lt;/a&gt;, and he is happy?&lt;/p&gt;</content><author><name>Junda</name></author><category term="SG 4D" /><category term="Bot" /><summary>Introducing Didi the SG 4D Bot</summary></entry><entry><title>Here Comes a New Gatekeeper - Facebook Messenger/Bot Reviewers</title><link href="http://blog.just2us.com/2016/05/28/here-comes-a-new-gatekeeper-facebook-messenger-bot-reviewers/" rel="alternate" type="text/html" title="Here Comes a New Gatekeeper - Facebook Messenger/Bot Reviewers" /><published>2016-05-28T14:17:20+08:00</published><updated>2016-05-28T14:17:20+08:00</updated><id>http://blog.just2us.com/2016/05/28/here-comes-a-new-gatekeeper-facebook-messenger-bot-reviewers</id><content type="html" xml:base="http://blog.just2us.com/2016/05/28/here-comes-a-new-gatekeeper-facebook-messenger-bot-reviewers/">&lt;p&gt;Over the past few weeks, I was trying out &lt;a href=&quot;http://techcrunch.com/2016/04/12/agents-on-messenger/&quot;&gt;Facebook newly opened chat platform&lt;/a&gt;, and build a &lt;a href=&quot;/stories/#SG%204D&quot;&gt;SG 4D&lt;/a&gt; bot.&lt;/p&gt;
 
 &lt;p&gt;Our bot, named &lt;em&gt;Didi&lt;/em&gt;, is at an infant stage, and does not possess AI you see in Terminator.&lt;/p&gt;
 
@@ -525,23 +568,4 @@
 &lt;p&gt;You can remove the ads by paying $1.99 USD with in-app purchase, which is just like the previously paid version.&lt;/p&gt;
 
 &lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
-&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="pookeeper" /><summary>Poo Keeper v1.2 is released, with two big changes.</summary></entry><entry><title>Big Day app for wedding released!</title><link href="http://blog.just2us.com/2014/07/big-day-app-for-wedding-released/" rel="alternate" type="text/html" title="Big Day app for wedding released!" /><published>2014-07-29T01:47:19+08:00</published><updated>2014-07-29T01:47:19+08:00</updated><id>http://blog.just2us.com/2014/07/big-day-app-for-wedding-released</id><content type="html" xml:base="http://blog.just2us.com/2014/07/big-day-app-for-wedding-released/">&lt;p&gt;Have you lost count of the number of weddings you have been to?&lt;/p&gt;
-
-&lt;p&gt;(If you are getting married) Have you wished there is a beautiful and free app that provides all the information about your wedding, including RSVP?&lt;/p&gt;
-
-&lt;p&gt;Big Day is our new app to these wedding problems!&lt;/p&gt;
-
-&lt;div id=&quot;attachment_1271&quot; style=&quot;width: 310px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
-  &lt;a href=&quot;https://itunes.apple.com/app/id893058438?&amp;amp;at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://itunes.apple.com/app/id893058438?&amp;amp;at=11luru&#39;, &#39;&#39;);&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;size-medium wp-image-1271&quot; src=&quot;http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-300x300.png&quot; alt=&quot;Big Day&quot; width=&quot;300&quot; height=&quot;300&quot; srcset=&quot;http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-150x150.png 150w, http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-300x300.png 300w, http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-100x100.png 100w, http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-200x200.png 200w, http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork-450x450.png 450w, http://blog.just2us.com/wp-content/uploads/2014/07/iTunesArtwork.png 512w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;
-  
-  &lt;p class=&quot;wp-caption-text&quot;&gt;
-    Big Day
-  &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The first versioon has been released on the iOS App Store, and you can &lt;a href=&quot;https://itunes.apple.com/app/id893058438?&amp;amp;at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://itunes.apple.com/app/id893058438?&amp;amp;at=11luru&#39;, &#39;download it FREE&#39;);&quot; target=&quot;_blank&quot;&gt;download it FREE&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Android is coming soon in late August!&lt;/p&gt;
-
-&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
-&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="big day" /><summary>Have you lost count of the number of weddings you have been to?</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="pookeeper" /><summary>Poo Keeper v1.2 is released, with two big changes.</summary></entry></feed>
