@@ -5,9 +5,13 @@ description: 'Creating Apps We Love'
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
+    {% if post.redirect == null %}
+      <a href="{{ post.url | prepend: site.baseurl }}">
+    {% else %}
+      <a href="{{ post.redirect }}" target="_blank">
+    {% endif %}
         <h2 class="post-title">
-          {{ post.title }}
+          {{ post.title }}{% if post.redirect != null %} ➦{% endif %}
         </h2>
         <p>
           {{ post.content | replace: '<br />', ' ' | strip_html | truncatewords:24 }}
