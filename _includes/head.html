@@ -15,7 +15,7 @@
     <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
     <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
     {% capture image %}{% if page.header-img %}{{ page.header-img }}{% elsif page.featured-img %}{{ page.featured-img }}{% else %}{{ site.header-img }}{% endif %}{% endcapture %}
-    <meta property="og:image" content="{{ image | prepend: '/' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="og:image" content="{{ image }}">
     <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape_once }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:site_name" content="{{ site.title }}">
     

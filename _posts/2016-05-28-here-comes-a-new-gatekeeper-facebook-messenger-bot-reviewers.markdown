@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Here Comes a New Gatekeeper - Facebook Messenger/Bot Reviewers"
-header-img: img/terminator.jpg
+header-img: /img/terminator.jpg
 header-overlay: true
 author: Junda
 date: 2016-05-28T14:17:20+08:00
