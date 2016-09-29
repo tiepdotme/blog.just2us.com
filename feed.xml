@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2016-07-03T16:47:17+08:00</updated><id>http://blog.just2us.com/</id><title>Just2us</title><subtitle>Creating Apps We Love</subtitle><entry><title>First Bot App - Didi for SG 4D</title><link href="http://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d/" rel="alternate" type="text/html" title="First Bot App - Didi for SG 4D" /><published>2016-06-05T15:10:37+08:00</published><updated>2016-06-05T15:10:37+08:00</updated><id>http://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d</id><content type="html" xml:base="http://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d/">&lt;h2 id=&quot;introducing-didi-the-sg-4d-bot&quot;&gt;Introducing &lt;em&gt;Didi&lt;/em&gt; the SG 4D Bot&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2016-09-29T22:45:55+08:00</updated><id>http://blog.just2us.com/</id><title>Just2us</title><subtitle>Creating Apps We Love</subtitle><entry><title>App Review Now Bans Facebook Single Sign-On</title><link href="http://blog.just2us.com/2016/09/29/app-review-now-bans-facebook-single-sign-on/" rel="alternate" type="text/html" title="App Review Now Bans Facebook Single Sign-On" /><published>2016-09-29T17:20:53+08:00</published><updated>2016-09-29T17:20:53+08:00</updated><id>http://blog.just2us.com/2016/09/29/app-review-now-bans-facebook-single-sign-on</id><content type="html" xml:base="http://blog.just2us.com/2016/09/29/app-review-now-bans-facebook-single-sign-on/">&lt;p&gt;A recent &lt;a href=&quot;http://www.appstorereviewguidelineshistory.com/articles/2016-09-01-subscriptions-siri-kit-stickers/&quot;&gt;Sep 2016 update&lt;/a&gt; to App Store Guidelines now adds the following:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If your core app functionality is not related to a specific social network (e.g. Facebook, WeChat, Weibo, Twitter, etc.), you must provide access without a login or via another mechanism. Pulling basic profile information, sharing to the social network, or inviting friends to use the app are not considered core app functionality.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In other words, they are &lt;strong&gt;rejecting&lt;/strong&gt; apps that use a social network for &lt;strong&gt;only these purpose(s)&lt;/strong&gt;: account authentication, basic profile, sharing and inviting to friends.&lt;/p&gt;
+
+&lt;p&gt;To Apple, such purpose is not a strong case to use the social network!&lt;/p&gt;
+
+&lt;p&gt;As such, an update to &lt;a href=&quot;http://jade2us.com&quot;&gt;Jade app&lt;/a&gt; has been rejected.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-impact&quot;&gt;The Impact&lt;/h2&gt;
+
+&lt;p&gt;What the app review team has introduced this time has very big impact to developers and the app ecosystem.&lt;/p&gt;
+
+&lt;p&gt;Many apps use popular social networks - Facebook/Twitter/Google - so that new users can sign up easily, without the need to create another password.&lt;/p&gt;
+
+&lt;p&gt;This convenient login mechanism is known as Single Sign-On (SSO).&lt;/p&gt;
+
+&lt;h2 id=&quot;the-solution-apple-wants&quot;&gt;The &lt;em&gt;Solution&lt;/em&gt; Apple Wants&lt;/h2&gt;
+
+&lt;p&gt;Apple suggest to either:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Create your own authentication system&lt;/li&gt;
+  &lt;li&gt;Utilise the social network’s core functionality&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;what-is-core&quot;&gt;What is &lt;em&gt;Core&lt;/em&gt;?&lt;/h2&gt;
+
+&lt;p&gt;It is subjective what is considered as &lt;em&gt;core functionality&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the case of Jade app, we feel Facebook is the most popular social network, and the fact that most people would have a Facebook account is a valuable functionality. But Apple thinks not.&lt;/p&gt;
+
+&lt;p&gt;We &lt;a href=&quot;/img/app-review-sso-question.jpg&quot;&gt;asked&lt;/a&gt; which of the following cases can be considered as core:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Give read/write access to a Facebook friend to collaborate on a document?&lt;/li&gt;
+  &lt;li&gt;Access Facebook photos to use in the App?&lt;/li&gt;
+  &lt;li&gt;Post to Facebook Note app?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;a href=&quot;/img/app-review-reject-sso.jpg&quot;&gt;reply&lt;/a&gt; has no direct yes/no.&lt;/p&gt;
+
+&lt;p&gt;Instead, they provided these examples of utilising Facebook to create core functionality:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Leverage Facebook’s friends list API&lt;/li&gt;
+  &lt;li&gt;Leverage Facebook’s shared interest API&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are &lt;del&gt;now&lt;/del&gt; always at the mercy of Apple.&lt;/p&gt;
+
+&lt;p&gt;Hope we can have more &lt;a href=&quot;http://stackoverflow.com/q/39432453/242682&quot;&gt;answers&lt;/a&gt;.&lt;/p&gt;</content><author><name>Junda</name></author><category term="App Review" /><summary>A recent Sep 2016 update to App Store Guidelines now adds the following:</summary></entry><entry><title>First Bot App - Didi for SG 4D</title><link href="http://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d/" rel="alternate" type="text/html" title="First Bot App - Didi for SG 4D" /><published>2016-06-05T15:10:37+08:00</published><updated>2016-06-05T15:10:37+08:00</updated><id>http://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d</id><content type="html" xml:base="http://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d/">&lt;h2 id=&quot;introducing-didi-the-sg-4d-bot&quot;&gt;Introducing &lt;em&gt;Didi&lt;/em&gt; the SG 4D Bot&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;Didi&lt;/em&gt; is the name our SG 4D bot.&lt;/p&gt;
 
@@ -545,27 +599,4 @@
 &lt;p&gt;PS: It was a long time that I developed this 1-day-hack 4 years ago, using heroku and PHP (oh yah PHP!). It still works and hosted on the free heroku server. How nice Heroku!&lt;/p&gt;
 
 &lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
-&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="sexratio" /><summary>Ever wondered how many male to female friends you have?</summary></entry><entry><title>Know When Last Poo-ed in Today Widget</title><link href="http://blog.just2us.com/2015/02/know-when-last-poo-ed-in-today-widget/" rel="alternate" type="text/html" title="Know When Last Poo-ed in Today Widget" /><published>2015-02-26T17:07:10+08:00</published><updated>2015-02-26T17:07:10+08:00</updated><id>http://blog.just2us.com/2015/02/know-when-last-poo-ed-in-today-widget</id><content type="html" xml:base="http://blog.just2us.com/2015/02/know-when-last-poo-ed-in-today-widget/">&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/app/poo-keeper-let-it-go-your/id857575652?&amp;amp;at=11luru&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://itunes.apple.com/app/poo-keeper-let-it-go-your/id857575652?&amp;amp;at=11luru&#39;, &#39;Poo Keeper&#39;);&quot; target=&quot;_blank&quot;&gt;Poo Keeper&lt;/a&gt; v1.2 is released, with two big changes.&lt;/p&gt;
-
-&lt;h3 id=&quot;today-extension&quot;&gt;1. Today Extension&lt;/h3&gt;
-
-&lt;p&gt;Under Today (the tab beside your Notifications), you will now see how long since you last poo-ed.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am.png&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am.png&#39;, &#39;&#39;);&quot;&gt;&lt;img class=&quot;aligncenter wp-image-1316 size-medium&quot; src=&quot;http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-200x300.png&quot; alt=&quot;Since last poo-ed&quot; width=&quot;200&quot; height=&quot;300&quot; srcset=&quot;http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-200x300.png 200w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-100x150.png 100w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-150x225.png 150w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-300x450.png 300w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-450x675.png 450w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am-600x900.png 600w, http://blog.just2us.com/wp-content/uploads/2015/02/iOS-Simulator-Screen-Shot-26-Feb-2015-9.05.23-am.png 640w&quot; sizes=&quot;(max-width: 200px) 100vw, 200px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A convenient way to tell it’s time :)&lt;/p&gt;
-
-&lt;p&gt;Note: To use, you have to scroll to bottom &amp;gt; Edit &amp;gt; Add Poo Keeper to your Today list.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;h3 id=&quot;free-version&quot;&gt;2. FREE Version&lt;/h3&gt;
-
-&lt;p&gt;Secondly, the app is now offered as a FREE version.&lt;/p&gt;
-
-&lt;p&gt;The caveat: there will be ads&lt;/p&gt;
-
-&lt;p&gt;You can remove the ads by paying $1.99 USD with in-app purchase, which is just like the previously paid version.&lt;/p&gt;
-
-&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
-&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="pookeeper" /><summary>Poo Keeper v1.2 is released, with two big changes.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="sexratio" /><summary>Ever wondered how many male to female friends you have?</summary></entry></feed>
