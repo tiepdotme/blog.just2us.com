@@ -8,6 +8,8 @@ date: 2016-09-29T17:20:53+08:00
 tags: [App Review]
 ---
 
+If you are using Facebook SDK only for it's account login, and you didn't provide your own login mechanism.
+
 A recent [Sep 2016 update](http://www.appstorereviewguidelineshistory.com/articles/2016-09-01-subscriptions-siri-kit-stickers/) to App Store Guidelines now adds the following:
 
 > If your core app functionality is not related to a specific social network (e.g. Facebook, WeChat, Weibo, Twitter, etc.), you must provide access without a login or via another mechanism. Pulling basic profile information, sharing to the social network, or inviting friends to use the app are not considered core app functionality.
@@ -34,6 +36,8 @@ Apple suggest to either:
 
 1. Create your own authentication system
 2. Utilise the social network's core functionality
+
+If you create your own authentication system, then you can still have Facebook login along with it. 
 
 
 ## What is _Core_?
