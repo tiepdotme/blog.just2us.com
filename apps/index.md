@@ -74,13 +74,13 @@ dsq_thread_id:
     </div>
     <div class="col-lg-3 col-md-4 col-xs-6 appicon">
         <a href="/2014/05/sg-football-2-0-revamped-and-fixed-for-world-cup-2014/">
-            <img class="" src="/wp-content/uploads/2014/04/appIcon_512-300x300.png">
+            <img class="" src="/wp-content/uploads/2014/05/appicon-512-300x300.png">
             <span class="center-block">SG Football</span>
         </a>
     </div>
     <div class="col-lg-3 col-md-4 col-xs-6 appicon">
         <a href="https://itunes.apple.com/app/id390019536?mt=8&at=11luru">
-            <img class="" src="/wp-content/uploads/2014/05/appicon-512-300x300.png">
+            <img class="" src="/wp-content/uploads/2014/04/appIcon_512-300x300.png">
             <span class="center-block">Torchlight</span>
         </a>
     </div>
