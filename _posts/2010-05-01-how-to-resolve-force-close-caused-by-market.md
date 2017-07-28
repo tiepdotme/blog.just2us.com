@@ -4,7 +4,7 @@ title: How to resolve force close caused by Market
 date: 2010-05-01T15:36:06+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/05/how-to-resolve-force-close-caused-by-market/
+guid: http://blog.just2us.com/2010/05/how-to-resolve-force-close-caused-by-market/
 permalink: /2010/05/how-to-resolve-force-close-caused-by-market/
 dsq_thread_id:
   - 91407606

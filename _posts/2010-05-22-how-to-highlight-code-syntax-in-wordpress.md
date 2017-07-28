@@ -4,7 +4,7 @@ title: How to highlight code syntax in WordPress
 date: 2010-05-22T23:41:29+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/?p=384
+guid: http://blog.just2us.com/?p=384
 permalink: /2010/05/how-to-highlight-code-syntax-in-wordpress/
 dsq_thread_id:
   - 98185822

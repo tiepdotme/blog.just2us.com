@@ -4,7 +4,7 @@ title: I cut my own Micro SIM
 date: 2010-07-30T23:37:05+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/07/i-cut-my-own-micro-sim/
+guid: http://blog.just2us.com/2010/07/i-cut-my-own-micro-sim/
 permalink: /2010/07/i-cut-my-own-micro-sim/
 dsq_thread_id:
   - 124003868

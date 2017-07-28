@@ -4,7 +4,7 @@ title: 'Mobile ATM &ndash; An Idea for Paypal X Developer Challenge'
 date: 2010-07-26T01:30:53+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/07/mobile-atm-an-idea-for-paypal-x-developer-challenge/
+guid: http://blog.just2us.com/2010/07/mobile-atm-an-idea-for-paypal-x-developer-challenge/
 permalink: /2010/07/mobile-atm-an-idea-for-paypal-x-developer-challenge/
 dsq_thread_id:
   - 121994461

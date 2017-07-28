@@ -4,7 +4,7 @@ title: SG Wireless
 date: 2009-05-26T23:25:59+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/05/sg-wireless/
+guid: http://blog.just2us.com/2009/05/sg-wireless/
 permalink: /2009/05/sg-wireless/
 dsq_thread_id:
   - 65765095

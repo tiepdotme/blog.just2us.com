@@ -4,7 +4,7 @@ title: How to register US iTunes Account
 date: 2010-02-19T23:17:10+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/02/how-to-register-us-itunes-account/
+guid: http://blog.just2us.com/2010/02/how-to-register-us-itunes-account/
 permalink: /2010/02/how-to-register-us-itunes-account/
 dsq_thread_id:
   - 68323004

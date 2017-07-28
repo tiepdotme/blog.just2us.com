@@ -4,7 +4,7 @@ title: SG 4D has added 20 years of 4D results!
 date: 2010-02-08T19:37:41+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/02/sg-4d-has-added-20-years-of-4d-results/
+guid: http://blog.just2us.com/2010/02/sg-4d-has-added-20-years-of-4d-results/
 permalink: /2010/02/sg-4d-has-added-20-years-of-4d-results/
 dsq_thread_id:
   - 65765176
@@ -57,7 +57,7 @@ tags:
 </p>
 
 <p align="left">
-  If you have SG 4D app on <a href="http://just2us.com/2009/05/sg-4d/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2009/05/sg-4d/', 'iPhone');">iPhone</a> or <a href="http://just2us.com/2009/11/sg-4d-now-on-android/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2009/11/sg-4d-now-on-android/', 'Android');">Android</a>, please wait for the next release that exploit the 20 years more of 4D numbers :)
+  If you have SG 4D app on <a href="http://blog.just2us.com/2009/05/sg-4d/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2009/05/sg-4d/', 'iPhone');">iPhone</a> or <a href="http://blog.just2us.com/2009/11/sg-4d-now-on-android/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2009/11/sg-4d-now-on-android/', 'Android');">Android</a>, please wait for the next release that exploit the 20 years more of 4D numbers :)
 </p>
 
 <p align="center">

@@ -4,7 +4,7 @@ title: SG 4D, now on Android
 date: 2009-11-08T22:16:06+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/11/sg-4d-now-on-android/
+guid: http://blog.just2us.com/2009/11/sg-4d-now-on-android/
 permalink: /2009/11/sg-4d-now-on-android/
 dsq_thread_id:
   - 65765149

@@ -4,7 +4,7 @@ title: SG Radio brings you ALL 15 local radio stations
 date: 2010-11-13T08:59:25+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/11/sg-radio-brings-you-all-15-local-radio-stations/
+guid: http://blog.just2us.com/2010/11/sg-radio-brings-you-all-15-local-radio-stations/
 permalink: /2010/11/sg-radio-brings-you-all-15-local-radio-stations/
 robotsmeta:
   - index,follow

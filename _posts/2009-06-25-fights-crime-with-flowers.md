@@ -4,7 +4,7 @@ title: Fights crime with.. flowers?
 date: 2009-06-25T02:00:09+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/06/fights-crime-with-flowers/
+guid: http://blog.just2us.com/2009/06/fights-crime-with-flowers/
 permalink: /2009/06/fights-crime-with-flowers/
 arkayne-cache-post:
   - |
@@ -53,7 +53,7 @@ tags:
 
 It is said that more people will be keeping an eye out while taking care of the flowers or watering them, hence reducing crime.
 
-Looks like flower is more than <a href="http://just2us.com/2009/06/flowers/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2009/06/flowers/', 'just spreading love');">just spreading love</a> :)
+Looks like flower is more than <a href="http://blog.just2us.com/2009/06/flowers/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2009/06/flowers/', 'just spreading love');">just spreading love</a> :)
 
 <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
 </div>

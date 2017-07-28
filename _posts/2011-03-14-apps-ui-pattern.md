@@ -4,7 +4,7 @@ title: Apps UI Pattern
 date: 2011-03-14T16:45:59+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2011/03/apps-ui-pattern/
+guid: http://blog.just2us.com/2011/03/apps-ui-pattern/
 permalink: /2011/03/apps-ui-pattern/
 dsq_thread_id:
   - 253452956

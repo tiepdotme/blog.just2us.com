@@ -4,7 +4,7 @@ title: 'SG 4D &ndash; Mobile website for all phones'
 date: 2010-01-25T00:21:02+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/01/sg-4d-mobile-website-for-all-phones/
+guid: http://blog.just2us.com/2010/01/sg-4d-mobile-website-for-all-phones/
 permalink: /2010/01/sg-4d-mobile-website-for-all-phones/
 dsq_thread_id:
   - 65765171

@@ -4,7 +4,7 @@ title: SG Traffic on WP7
 date: 2011-01-08T16:58:16+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2011/01/sg-traffic-on-wp7/
+guid: http://blog.just2us.com/2011/01/sg-traffic-on-wp7/
 permalink: /2011/01/sg-traffic-on-wp7/
 dsq_thread_id:
   - 205155176
@@ -52,7 +52,7 @@ tags:
 
 It is a free app that streams live images of the traffic condition, to help motorist on the roads in Singapore.
 
-Despite there are already a number of traffic camera apps (SG Roads, SG Transport), we believed our app is most focused in displaying the images on the road. Why? Because that’s what we do for <a href="http://just2us.com/2010/10/juzz4-released/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2010/10/juzz4-released/', 'smarter surveillance');">smarter surveillance</a>.
+Despite there are already a number of traffic camera apps (SG Roads, SG Transport), we believed our app is most focused in displaying the images on the road. Why? Because that’s what we do for <a href="http://blog.just2us.com/2010/10/juzz4-released/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2010/10/juzz4-released/', 'smarter surveillance');">smarter surveillance</a>.
 
 Screenshots:
 

@@ -4,7 +4,7 @@ title: iPhone tracks your location. See it on map yourself.
 date: 2011-04-24T13:30:00+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2011/04/iphone-tracks-your-location-see-it-on-map-yourself/
+guid: http://blog.just2us.com/2011/04/iphone-tracks-your-location-see-it-on-map-yourself/
 permalink: /2011/04/iphone-tracks-your-location-see-it-on-map-yourself/
 dsq_thread_id:
   - 287365204

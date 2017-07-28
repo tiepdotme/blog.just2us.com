@@ -57,7 +57,7 @@ You might be wondering: why would I need multiple email accounts?
 
 It depends. For me, having multiple email accounts allow me to register certain services multiple times. For example, if a trial account expires in 1 month, I could infinitely register for trial accounts using different email accounts (:
 
-I have also used the trick when <a href="http://just2us.com/2010/02/how-to-register-us-itunes-account/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2010/02/how-to-register-us-itunes-account/', 'registering for a US iTunes Account');">registering for a US iTunes Account</a> (in addition to my SG iTunes Account).
+I have also used the trick when <a href="http://blog.just2us.com/2010/02/how-to-register-us-itunes-account/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2010/02/how-to-register-us-itunes-account/', 'registering for a US iTunes Account');">registering for a US iTunes Account</a> (in addition to my SG iTunes Account).
 
 <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
 </div>

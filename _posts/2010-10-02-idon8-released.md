@@ -4,7 +4,7 @@ title: iDon8 Released!
 date: 2010-10-02T23:45:22+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/10/idon8-released/
+guid: http://blog.just2us.com/2010/10/idon8-released/
 permalink: /2010/10/idon8-released/
 robotsmeta:
   - index,follow
@@ -56,7 +56,7 @@ tags:
 
 <a href="http://thebloodalliance.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://thebloodalliance.com', 'The Blood Alliance');">The Blood Alliance</a> is a community blood bank in the US, and services hospitals in Northeast Florida, Georgia and South Carolina.
 
-This project comes about after I have developed <a href="http://just2us.com/2010/04/sg-blood-v2/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2010/04/sg-blood-v2/', 'SG Blood');">SG Blood</a> – the blood donation app for Singapore.
+This project comes about after I have developed <a href="http://blog.just2us.com/2010/04/sg-blood-v2/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2010/04/sg-blood-v2/', 'SG Blood');">SG Blood</a> – the blood donation app for Singapore.
 
 And I am very proud to say that iDon8 has surpassed what I have done with SG Blood. iDon8 is slick, shiny and packed with more features for donors!
 

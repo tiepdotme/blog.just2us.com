@@ -4,7 +4,7 @@ title: Pitfall in using default values in settings bundle
 date: 2010-08-01T00:00:12+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/08/pitfall-in-using-default-values-in-settings-bundle/
+guid: http://blog.just2us.com/2010/08/pitfall-in-using-default-values-in-settings-bundle/
 permalink: /2010/08/pitfall-in-using-default-values-in-settings-bundle/
 dsq_thread_id:
   - 124465441

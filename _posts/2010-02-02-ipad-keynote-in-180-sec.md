@@ -4,7 +4,7 @@ title: iPad keynote in 180 sec
 date: 2010-02-02T22:05:53+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/02/ipad-keynote-in-180-sec/
+guid: http://blog.just2us.com/2010/02/ipad-keynote-in-180-sec/
 permalink: /2010/02/ipad-keynote-in-180-sec/
 dsq_thread_id:
   - 65765175

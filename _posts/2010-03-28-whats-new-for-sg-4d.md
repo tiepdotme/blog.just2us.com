@@ -4,7 +4,7 @@ title: 'What&rsquo;s new for SG 4D?'
 date: 2010-03-28T12:43:07+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/03/whats-new-for-sg-4d/
+guid: http://blog.just2us.com/2010/03/whats-new-for-sg-4d/
 permalink: /2010/03/whats-new-for-sg-4d/
 dsq_thread_id:
   - 80054438

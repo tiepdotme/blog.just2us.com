@@ -4,7 +4,7 @@ title: Top 25 companies and changes in a decade
 date: 2010-01-07T00:15:57+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/01/top-25-companies-and-changes-in-a-decade/
+guid: http://blog.just2us.com/2010/01/top-25-companies-and-changes-in-a-decade/
 permalink: /2010/01/top-25-companies-and-changes-in-a-decade/
 dsq_thread_id:
   - 65765154

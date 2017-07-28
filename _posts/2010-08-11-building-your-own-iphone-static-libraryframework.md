@@ -4,7 +4,7 @@ title: Building Your Own iPhone Static Library/Framework
 date: 2010-08-11T01:16:11+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/08/building-your-own-iphone-static-libraryframework/
+guid: http://blog.just2us.com/2010/08/building-your-own-iphone-static-libraryframework/
 permalink: /2010/08/building-your-own-iphone-static-libraryframework/
 dsq_thread_id:
   - 128192054

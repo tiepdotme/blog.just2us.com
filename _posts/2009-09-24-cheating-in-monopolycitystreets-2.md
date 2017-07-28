@@ -4,7 +4,7 @@ title: Cheating in Monopolycitystreets
 date: 2009-09-24T22:54:45+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/09/cheating-in-monopolycitystreets-2/
+guid: http://blog.just2us.com/2009/09/cheating-in-monopolycitystreets-2/
 permalink: /2009/09/cheating-in-monopolycitystreets-2/
 arkayne-cache-post:
   - |

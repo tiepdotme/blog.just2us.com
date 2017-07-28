@@ -4,7 +4,7 @@ title: The Wonderful World of Ovi Store (Ad)
 date: 2010-01-21T23:12:31+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/01/the-wonderful-world-of-ovi-store-ad/
+guid: http://blog.just2us.com/2010/01/the-wonderful-world-of-ovi-store-ad/
 permalink: /2010/01/the-wonderful-world-of-ovi-store-ad/
 dsq_thread_id:
   - 65765163

@@ -4,7 +4,7 @@ title: txeet v1.0.2 for Halloween!
 date: 2009-10-29T00:11:49+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/10/version-1-0-2-for-halloween/
+guid: http://blog.just2us.com/2009/10/version-1-0-2-for-halloween/
 permalink: /2009/10/version-1-0-2-for-halloween/
 dsq_thread_id:
   - 65765143

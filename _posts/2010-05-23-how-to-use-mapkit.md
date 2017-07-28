@@ -4,7 +4,7 @@ title: How to use MapKit
 date: 2010-05-23T00:15:52+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/?p=393
+guid: http://blog.just2us.com/?p=393
 permalink: /2010/05/how-to-use-mapkit/
 dsq_thread_id:
   - 100135291

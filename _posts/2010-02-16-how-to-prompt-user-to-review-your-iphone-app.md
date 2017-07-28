@@ -4,7 +4,7 @@ title: How to prompt user to review your iPhone app
 date: 2010-02-16T18:30:26+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/02/how-to-prompt-user-to-review-your-iphone-app/
+guid: http://blog.just2us.com/2010/02/how-to-prompt-user-to-review-your-iphone-app/
 permalink: /2010/02/how-to-prompt-user-to-review-your-iphone-app/
 dsq_thread_id:
   - 67306374

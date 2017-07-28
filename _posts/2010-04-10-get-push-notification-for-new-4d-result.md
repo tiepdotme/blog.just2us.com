@@ -4,7 +4,7 @@ title: Get Push Notification for New 4D Result
 date: 2010-04-10T15:55:11+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/04/get-push-notification-for-new-4d-result/
+guid: http://blog.just2us.com/2010/04/get-push-notification-for-new-4d-result/
 permalink: /2010/04/get-push-notification-for-new-4d-result/
 dsq_thread_id:
   - 84778872

@@ -4,7 +4,7 @@ title: 'JustHost &#8211; My worst nightmare with webhosting'
 date: 2009-10-25T15:13:17+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/10/justhost-my-worst-nightmare-with-webhosting/
+guid: http://blog.just2us.com/2009/10/justhost-my-worst-nightmare-with-webhosting/
 permalink: /2009/10/justhost-my-worst-nightmare-with-webhosting/
 dsq_thread_id:
   - 65765140

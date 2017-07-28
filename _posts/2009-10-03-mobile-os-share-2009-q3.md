@@ -4,7 +4,7 @@ title: iPhone overtook Symbian in mobile market shares
 date: 2009-10-03T00:01:19+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/10/mobile-os-share-2009-q3/
+guid: http://blog.just2us.com/2009/10/mobile-os-share-2009-q3/
 permalink: /2009/10/mobile-os-share-2009-q3/
 dsq_thread_id:
   - 65765128

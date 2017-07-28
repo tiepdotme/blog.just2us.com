@@ -4,7 +4,7 @@ title: Operating systems as seen by different fanboys
 date: 2009-12-25T20:16:57+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/12/operating-systems-as-seen-by-different-fanboys/
+guid: http://blog.just2us.com/2009/12/operating-systems-as-seen-by-different-fanboys/
 permalink: /2009/12/operating-systems-as-seen-by-different-fanboys/
 dsq_thread_id:
   - 65765153

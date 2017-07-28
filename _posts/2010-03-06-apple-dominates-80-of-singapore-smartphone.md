@@ -4,7 +4,7 @@ title: Apple dominates 80% of Singapore Smartphone
 date: 2010-03-06T22:08:47+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/03/apple-dominates-80-of-singapore-smartphone/
+guid: http://blog.just2us.com/2010/03/apple-dominates-80-of-singapore-smartphone/
 permalink: /2010/03/apple-dominates-80-of-singapore-smartphone/
 dsq_thread_id:
   - 73164662

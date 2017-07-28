@@ -4,7 +4,7 @@ title: How to read iPhone crash log?
 date: 2010-02-11T22:08:50+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/02/how-to-read-iphone-crash-log/
+guid: http://blog.just2us.com/2010/02/how-to-read-iphone-crash-log/
 permalink: /2010/02/how-to-read-iphone-crash-log/
 dsq_thread_id:
   - 66078733

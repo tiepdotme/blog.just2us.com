@@ -4,7 +4,7 @@ title: 5 reasons Google Android will beat iPhone, BlackBerry and WinMo
 date: 2009-10-07T22:12:06+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/10/5-reasons-google-android-will-beat-iphone-blackberry-and-winmo/
+guid: http://blog.just2us.com/2009/10/5-reasons-google-android-will-beat-iphone-blackberry-and-winmo/
 permalink: /2009/10/5-reasons-google-android-will-beat-iphone-blackberry-and-winmo/
 dsq_thread_id:
   - 65765133

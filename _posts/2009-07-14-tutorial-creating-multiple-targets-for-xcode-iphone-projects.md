@@ -4,7 +4,7 @@ title: How to create multiple targets for Xcode iPhone Projects
 date: 2009-07-14T22:09:03+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/07/tutorial-creating-multiple-targets-for-xcode-iphone-projects/
+guid: http://blog.just2us.com/2009/07/tutorial-creating-multiple-targets-for-xcode-iphone-projects/
 permalink: /2009/07/tutorial-creating-multiple-targets-for-xcode-iphone-projects/
 dsq_thread_id:
   - 65765110
@@ -32,7 +32,7 @@ Lets assume we have an application call "Flowers", which is a paid version. And 
 Firstly, create a new target. Under Groups & Files, right click on Targets > Add > New Target&#160; (Figure 1 below). 
 
 <p align="center">
-  <a href="http://just2us.com//wp-content/uploads/2009/07/picture-1.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com//wp-content/uploads/2009/07/picture-1.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="249" alt="Figure 1" src="http://blog.just2us.com/wp-content/uploads/2009/07/picture-1-thumb.png" width="408" border="0" /></a>
+  <a href="http://blog.just2us.com//wp-content/uploads/2009/07/picture-1.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com//wp-content/uploads/2009/07/picture-1.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="249" alt="Figure 1" src="http://blog.just2us.com/wp-content/uploads/2009/07/picture-1-thumb.png" width="408" border="0" /></a>
 </p>
 
 Select Application as the new target template. 
@@ -52,7 +52,7 @@ Pitfall: When a new target is added, it would not copy over any resources, compi
 We could define properties, such as application name and icon files, for each of the target. Figure 3 below shows "Flowers-Info.plist" for the full version.
 
 <p align="center">
-  <a href="http://just2us.com//wp-content/uploads/2009/07/picture-2.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com//wp-content/uploads/2009/07/picture-2.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="226" alt="Picture 2" src="http://blog.just2us.com/wp-content/uploads/2009/07/picture-2-thumb.png" width="560" border="0" /></a>
+  <a href="http://blog.just2us.com//wp-content/uploads/2009/07/picture-2.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com//wp-content/uploads/2009/07/picture-2.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="226" alt="Picture 2" src="http://blog.just2us.com/wp-content/uploads/2009/07/picture-2-thumb.png" width="560" border="0" /></a>
 </p>
 
 For the lite version, the "FlowersLite-Info.plist" could be changed as necessary. For example, the bundle identifier for the lite version could be "com.just2me.flowerslite" and the Icon file could be "Icon-lite.png" instead (as in figure 4 below).

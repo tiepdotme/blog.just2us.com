@@ -4,7 +4,7 @@ title: 'A New iPhone App &#8211; The LOST Whispers'
 date: 2010-07-13T22:16:28+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/07/a-new-iphone-app-the-lost-whispers/
+guid: http://blog.just2us.com/2010/07/a-new-iphone-app-the-lost-whispers/
 permalink: /2010/07/a-new-iphone-app-the-lost-whispers/
 dsq_thread_id:
   - 117415731

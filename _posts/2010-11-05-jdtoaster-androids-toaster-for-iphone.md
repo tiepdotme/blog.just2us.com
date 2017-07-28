@@ -4,7 +4,7 @@ title: 'JDToaster &ndash; Android&rsquo;s Toaster for iPhone'
 date: 2010-11-05T10:01:25+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/?p=508
+guid: http://blog.just2us.com/?p=508
 permalink: /2010/11/jdtoaster-androids-toaster-for-iphone/
 robotsmeta:
   - index,follow
@@ -66,7 +66,7 @@ One of the UI component that I like in Android is the <a href="http://developer.
 
 iPhone does not have an equivalent. It does have an Alert, but that is too intrusive.
 
-As such, I created my own _Toaster class_. It was first used in <a href="http://just2us.com/tag/sg-4d/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/tag/sg-4d/', 'SG 4D');">SG 4D</a>, 2 years ago, to show “No new results..” when user refreshed and there is no new results. That very first version was hastily created, with images used for the grey background.
+As such, I created my own _Toaster class_. It was first used in <a href="http://blog.just2us.com/tag/sg-4d/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/tag/sg-4d/', 'SG 4D');">SG 4D</a>, 2 years ago, to show “No new results..” when user refreshed and there is no new results. That very first version was hastily created, with images used for the grey background.
 
 2 years later, I improved my library. One of which is this Toaster class. I removed the images, and created the round radius programmatically.
 

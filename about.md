@@ -4,7 +4,7 @@ title: About
 date: 2009-05-10T02:46:49+00:00
 author: Junda Ong
 layout: page
-guid: http://just2us.com/?page_id=2
+guid: http://blog.just2us.com/?page_id=2
 dsq_thread_id:
   - 1177094333
 ---

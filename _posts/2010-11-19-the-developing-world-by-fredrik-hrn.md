@@ -4,7 +4,7 @@ title: 'The Developing World, by Fredrik H&auml;r&eacute;n'
 date: 2010-11-19T10:03:36+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/?p=551
+guid: http://blog.just2us.com/?p=551
 permalink: /2010/11/the-developing-world-by-fredrik-hrn/
 robotsmeta:
   - index,follow

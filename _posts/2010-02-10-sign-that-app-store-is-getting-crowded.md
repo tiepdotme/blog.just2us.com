@@ -4,7 +4,7 @@ title: Signs that App Store is getting crowded
 date: 2010-02-10T22:39:49+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/02/sign-that-app-store-is-getting-crowded/
+guid: http://blog.just2us.com/2010/02/sign-that-app-store-is-getting-crowded/
 permalink: /2010/02/sign-that-app-store-is-getting-crowded/
 dsq_thread_id:
   - 65765183

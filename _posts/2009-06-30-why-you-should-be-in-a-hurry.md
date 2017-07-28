@@ -4,7 +4,7 @@ title: Why you should be in a hurry
 date: 2009-06-30T23:17:12+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/06/why-you-should-be-in-a-hurry/
+guid: http://blog.just2us.com/2009/06/why-you-should-be-in-a-hurry/
 permalink: /2009/06/why-you-should-be-in-a-hurry/
 arkayne-cache-post:
   - |

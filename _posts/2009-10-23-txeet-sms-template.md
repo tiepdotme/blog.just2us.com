@@ -4,7 +4,7 @@ title: 'txeet: SMS template'
 date: 2009-10-23T01:05:39+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/10/txeet-sms-template/
+guid: http://blog.just2us.com/2009/10/txeet-sms-template/
 permalink: /2009/10/txeet-sms-template/
 dsq_thread_id:
   - 65765138

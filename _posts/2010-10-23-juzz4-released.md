@@ -4,7 +4,7 @@ title: Juzz4 Released!
 date: 2010-10-23T12:34:00+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/10/juzz4-released/
+guid: http://blog.just2us.com/2010/10/juzz4-released/
 permalink: /2010/10/juzz4-released/
 dsq_thread_id:
   - 160609715

@@ -4,7 +4,7 @@ title: App Store Most Popular Category
 date: 2011-03-25T16:38:28+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2011/03/app-store-most-popular-category/
+guid: http://blog.just2us.com/2011/03/app-store-most-popular-category/
 permalink: /2011/03/app-store-most-popular-category/
 dsq_thread_id:
   - 262846226

@@ -4,7 +4,7 @@ title: Snow Leopard and integrity
 date: 2009-09-09T23:44:32+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/09/snow-leopard-and-integrity/
+guid: http://blog.just2us.com/2009/09/snow-leopard-and-integrity/
 permalink: /2009/09/snow-leopard-and-integrity/
 dsq_thread_id:
   - 65765122

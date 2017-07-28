@@ -4,7 +4,7 @@ title: How to flash a Hero ROM onto ADP1 (dev phone)
 date: 2009-11-05T00:43:10+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/11/how-to-flash-a-hero-rom-onto-adp1-dev-phone/
+guid: http://blog.just2us.com/2009/11/how-to-flash-a-hero-rom-onto-adp1-dev-phone/
 permalink: /2009/11/how-to-flash-a-hero-rom-onto-adp1-dev-phone/
 dsq_thread_id:
   - 65765145

@@ -4,7 +4,7 @@ title: 4 x Flowers Promo Codes Voucher
 date: 2009-08-02T13:24:18+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/08/4-promo-codes-for-flowers/
+guid: http://blog.just2us.com/2009/08/4-promo-codes-for-flowers/
 permalink: /2009/08/4-promo-codes-for-flowers/
 dsq_thread_id:
   - 65765116

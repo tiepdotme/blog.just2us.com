@@ -4,7 +4,7 @@ title: 'Singtel&rsquo;s Advertisement for Galaxy S is Inaccurate..'
 date: 2010-07-24T22:41:35+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/07/singtels-advertisement-for-galaxy-s-is-inaccurate/
+guid: http://blog.just2us.com/2010/07/singtels-advertisement-for-galaxy-s-is-inaccurate/
 permalink: /2010/07/singtels-advertisement-for-galaxy-s-is-inaccurate/
 dsq_thread_id:
   - 121638518
@@ -54,7 +54,7 @@ On a full page advertisement for Samsung Galaxy S in Straits Times today:
 
 <a href="http://blog.just2us.com/wp-content/uploads/2010/07/singteladwithsgtotoandroid.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/07/singteladwithsgtotoandroid.jpg', '');"><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="singtel-ad-with-sg-toto-android" border="0" alt="singtel-ad-with-sg-toto-android" src="http://blog.just2us.com/wp-content/uploads/2010/07/singteladwithsgtotoandroid_thumb.jpg" width="404" height="304" /></a> </p> 
 
-I am happy to find <a href="http://just2us.com/2009/05/sg-toto/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2009/05/sg-toto/', 'SG Toto');">SG Toto</a> as one of the app that works for the Android phone.
+I am happy to find <a href="http://blog.just2us.com/2009/05/sg-toto/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2009/05/sg-toto/', 'SG Toto');">SG Toto</a> as one of the app that works for the Android phone.
 
 Great.
 

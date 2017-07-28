@@ -4,7 +4,7 @@ title: ADC is like American Idol for geeks
 date: 2009-08-10T22:28:28+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/08/adc-is-like-american-idol-for-geeks/
+guid: http://blog.just2us.com/2009/08/adc-is-like-american-idol-for-geeks/
 permalink: /2009/08/adc-is-like-american-idol-for-geeks/
 dsq_thread_id:
   - 65765119

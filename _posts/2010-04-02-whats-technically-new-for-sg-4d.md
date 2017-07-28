@@ -4,7 +4,7 @@ title: 'What&rsquo;s technically new for SG 4D?'
 date: 2010-04-02T13:24:26+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/04/whats-technically-new-for-sg-4d/
+guid: http://blog.just2us.com/2010/04/whats-technically-new-for-sg-4d/
 permalink: /2010/04/whats-technically-new-for-sg-4d/
 dsq_thread_id:
   - 81749235
@@ -49,7 +49,7 @@ categories:
 tags:
   - SG 4D
 ---
-In the <a href="http://just2us.com/2010/03/whats-new-for-sg-4d/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2010/03/whats-new-for-sg-4d/', 'previous post');">previous post</a>, I have highlighted what’s new for SG 4D. In this post, I will be highlighting what’s new, from a technical point of view.
+In the <a href="http://blog.just2us.com/2010/03/whats-new-for-sg-4d/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2010/03/whats-new-for-sg-4d/', 'previous post');">previous post</a>, I have highlighted what’s new for SG 4D. In this post, I will be highlighting what’s new, from a technical point of view.
 
 I am excited to write what is technically new in the app, as there are aplenty, and we have used many awesome technology from iPhone 3.0 SDK, including CoreData, In-app purchase, Facebook Connect library, etc..
 

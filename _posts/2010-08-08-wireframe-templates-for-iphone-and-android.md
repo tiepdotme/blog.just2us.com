@@ -4,7 +4,7 @@ title: 'Wireframe Templates  for iPhone and Android'
 date: 2010-08-08T11:54:21+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/08/wireframe-templates-for-iphone-and-android/
+guid: http://blog.just2us.com/2010/08/wireframe-templates-for-iphone-and-android/
 permalink: /2010/08/wireframe-templates-for-iphone-and-android/
 dsq_thread_id:
   - 127295589

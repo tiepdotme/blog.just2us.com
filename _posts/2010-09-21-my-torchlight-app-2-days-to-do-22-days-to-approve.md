@@ -4,7 +4,7 @@ title: My Torchlight app, 2 days to develop, 22 days to approve!
 date: 2010-09-21T02:11:58+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/09/my-torchlight-app-2-days-to-do-22-days-to-approve/
+guid: http://blog.just2us.com/2010/09/my-torchlight-app-2-days-to-do-22-days-to-approve/
 permalink: /2010/09/my-torchlight-app-2-days-to-do-22-days-to-approve/
 dsq_thread_id:
   - 144513462

@@ -4,7 +4,7 @@ title: 'Awesome memo from Nokia&rsquo;s new CEO!'
 date: 2011-02-09T22:39:23+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2011/02/awesome-memo-from-nokias-new-ceo/
+guid: http://blog.just2us.com/2011/02/awesome-memo-from-nokias-new-ceo/
 permalink: /2011/02/awesome-memo-from-nokias-new-ceo/
 dsq_thread_id:
   - 225966022

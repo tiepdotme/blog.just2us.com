@@ -4,7 +4,7 @@ title: SG Motor Racing is released!
 date: 2010-09-22T10:53:31+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/?p=436
+guid: http://blog.just2us.com/?p=436
 permalink: /2010/09/sg-motor-racing-is-released/
 robotsmeta:
   - index,follow
@@ -52,7 +52,7 @@ tags:
 ---
 Good news from Apple, my SG Motor Racing iPhone app is released today!
 
-Usually my apps usually get approved like in <a href="http://just2us.com/2010/09/my-torchlight-app-2-days-to-do-22-days-to-approve/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2010/09/my-torchlight-app-2-days-to-do-22-days-to-approve/', '22 days');">22 days</a>, but this time, I requested Apple for an expedited review, and they grant me.
+Usually my apps usually get approved like in <a href="http://blog.just2us.com/2010/09/my-torchlight-app-2-days-to-do-22-days-to-approve/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2010/09/my-torchlight-app-2-days-to-do-22-days-to-approve/', '22 days');">22 days</a>, but this time, I requested Apple for an expedited review, and they grant me.
 
 <p style="text-align: center;">
   <a href="http://blog.just2us.com/wp-content/uploads/2010/09/SG-Racing-approve-in-12-days.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/09/SG-Racing-approve-in-12-days.png', '');"><img class="size-medium wp-image-438  aligncenter" title="SG Racing approve in 12 days" src="http://blog.just2us.com/wp-content/uploads/2010/09/SG-Racing-approve-in-12-days-300x135.png" alt="" width="300" height="135" /></a>

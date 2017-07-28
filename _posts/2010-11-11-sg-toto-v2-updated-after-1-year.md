@@ -4,42 +4,42 @@ title: 'SG Toto v2 &ndash; Updated after 1 year!'
 date: 2010-11-11T11:28:11+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/11/sg-toto-v2-updated-after-1-year/
+guid: http://blog.just2us.com/2010/11/sg-toto-v2-updated-after-1-year/
 permalink: /2010/11/sg-toto-v2-updated-after-1-year/
 dsq_thread_id:
   - 170605298
 arkayne-cache-post:
   - |
     |
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         <!-- BlogGlue Plugin Error -->
         <!-- This page cannot be linked by BlogGlue. -->
         <!-- Your Account was not found. -->
         <!-- http://www.blogglue.com/contact/ -->
-        
-        
+
+
 arkayne-time-post:
   - 1400245661
 categories:
@@ -48,15 +48,15 @@ categories:
 tags:
   - SG Toto
 ---
-SG Toto has been updated to version 2, after a long 1 year! 
+SG Toto has been updated to version 2, after a long 1 year!
 
-The last update (version 1.0.8) was 1 year ago, and it was just a minor fix. In fact, nothing much has changed since it was released 2 years ago, in <a href="http://www.just2me.com/2008/11/sg-toto-sg-ad.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.just2me.com/2008/11/sg-toto-sg-ad.html', 'Nov 2008');">Nov 2008</a>. 
+The last update (version 1.0.8) was 1 year ago, and it was just a minor fix. In fact, nothing much has changed since it was released 2 years ago, in <a href="http://www.just2me.com/2008/11/sg-toto-sg-ad.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.just2me.com/2008/11/sg-toto-sg-ad.html', 'Nov 2008');">Nov 2008</a>.
 
 &#160;
 
 ## What’s New?
 
-The fundamental changes are similar to <a href="http://just2us.com/2010/03/whats-new-for-sg-4d/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2010/03/whats-new-for-sg-4d/', 'version 2 of SG 4D');">version 2 of SG 4D</a>. And if you are interested in the technical aspects, you can read <a href="http://just2us.com/2010/04/whats-technically-new-for-sg-4d/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2010/04/whats-technically-new-for-sg-4d/', 'here');">here</a>.
+The fundamental changes are similar to <a href="http://blog.just2us.com/2010/03/whats-new-for-sg-4d/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2010/03/whats-new-for-sg-4d/', 'version 2 of SG 4D');">version 2 of SG 4D</a>. And if you are interested in the technical aspects, you can read <a href="http://blog.just2us.com/2010/04/whats-technically-new-for-sg-4d/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2010/04/whats-technically-new-for-sg-4d/', 'here');">here</a>.
 
 Specifically, these are what’s new for SG Toto:
 
@@ -66,11 +66,11 @@ Specifically, these are what’s new for SG Toto:
 
 <a href="http://blog.just2us.com/wp-content/uploads/2010/11/Screen1.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/11/Screen1.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen1" border="0" alt="Screen1" src="http://blog.just2us.com/wp-content/uploads/2010/11/Screen1_thumb.png" width="644" height="431" /></a>
 
-You now get results faster, approximately at 6.33pm when the numbers are drawn! 
+You now get results faster, approximately at 6.33pm when the numbers are drawn!
 
 You also will get push notification once all numbers are drawn (locked feature).
 
-Furthermore, the app now provides the winning tickets information. Now you know where the lucky outlets are! And under More > Outlets, you can easily find the outlets and how to go there! 
+Furthermore, the app now provides the winning tickets information. Now you know where the lucky outlets are! And under More > Outlets, you can easily find the outlets and how to go there!
 
 &#160;
 
@@ -88,7 +88,7 @@ As such, we provide you the entire history of Toto.
 
 <a href="http://blog.just2us.com/wp-content/uploads/2010/11/Screen3.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/11/Screen3.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen3" border="0" alt="Screen3" src="http://blog.just2us.com/wp-content/uploads/2010/11/Screen3_thumb.png" width="644" height="431" /></a>
 
-To help you further in the game, we are providing more thorough number analysis! 
+To help you further in the game, we are providing more thorough number analysis!
 
 This is a much sought after feature, and we will provide more different kind of analytics in the future.
 

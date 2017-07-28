@@ -4,7 +4,7 @@ title: How to redeem promo code
 date: 2010-02-19T21:25:25+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/02/how-to-redeem-promo-code/
+guid: http://blog.just2us.com/2010/02/how-to-redeem-promo-code/
 permalink: /2010/02/how-to-redeem-promo-code/
 dsq_thread_id:
   - 68295030

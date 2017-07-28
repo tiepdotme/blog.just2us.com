@@ -4,7 +4,7 @@ title: 'Why I don&rsquo;t think much of Nexus One'
 date: 2010-01-07T23:47:25+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/01/why-i-dont-think-much-of-nexus-one/
+guid: http://blog.just2us.com/2010/01/why-i-dont-think-much-of-nexus-one/
 permalink: /2010/01/why-i-dont-think-much-of-nexus-one/
 dsq_thread_id:
   - 65765155

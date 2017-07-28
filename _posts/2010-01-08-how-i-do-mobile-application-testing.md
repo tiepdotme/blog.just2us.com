@@ -4,7 +4,7 @@ title: How I do mobile application testing
 date: 2010-01-08T01:01:03+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/01/how-i-do-mobile-application-testing/
+guid: http://blog.just2us.com/2010/01/how-i-do-mobile-application-testing/
 permalink: /2010/01/how-i-do-mobile-application-testing/
 dsq_thread_id:
   - 65765161

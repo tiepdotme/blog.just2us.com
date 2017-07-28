@@ -4,7 +4,7 @@ title: Wireless Ad Hoc Distribution for iPhone Apps
 date: 2010-12-16T22:03:17+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/?p=553
+guid: http://blog.just2us.com/?p=553
 permalink: /2010/12/wireless-ad-hoc-distribution-for-iphone-apps/
 dsq_thread_id:
   - 192093906

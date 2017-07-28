@@ -4,7 +4,7 @@ title: Developer Guide to BlackBerry Connection Problems
 date: 2009-09-12T13:19:15+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/09/developer-guide-to-blackberry-complex-connections/
+guid: http://blog.just2us.com/2009/09/developer-guide-to-blackberry-complex-connections/
 permalink: /2009/09/developer-guide-to-blackberry-complex-connections/
 dsq_thread_id:
   - 65765124

@@ -4,7 +4,7 @@ title: Just2us.com is here!
 date: 2009-05-10T23:05:12+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/?p=7
+guid: http://blog.just2us.com/?p=7
 permalink: /2009/05/just2uscom-is-here/
 arkayne-cache-post:
   - |

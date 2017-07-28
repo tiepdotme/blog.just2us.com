@@ -4,7 +4,7 @@ title: How to obfuscate an Android application
 date: 2009-07-21T01:57:54+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/07/tutorial-obfuscate-an-android-application/
+guid: http://blog.just2us.com/2009/07/tutorial-obfuscate-an-android-application/
 permalink: /2009/07/tutorial-obfuscate-an-android-application/
 dsq_thread_id:
   - 65765114

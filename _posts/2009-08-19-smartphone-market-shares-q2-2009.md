@@ -4,7 +4,7 @@ title: Smartphone Market Shares Q2 2009
 date: 2009-08-19T22:04:33+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/08/smartphone-market-shares-q2-2009/
+guid: http://blog.just2us.com/2009/08/smartphone-market-shares-q2-2009/
 permalink: /2009/08/smartphone-market-shares-q2-2009/
 arkayne-cache-post:
   - |

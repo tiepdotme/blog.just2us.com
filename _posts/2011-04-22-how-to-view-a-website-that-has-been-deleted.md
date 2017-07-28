@@ -4,7 +4,7 @@ title: How to view a website that has been deleted?
 date: 2011-04-22T16:25:08+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2011/04/how-to-view-a-website-that-has-been-deleted/
+guid: http://blog.just2us.com/2011/04/how-to-view-a-website-that-has-been-deleted/
 permalink: /2011/04/how-to-view-a-website-that-has-been-deleted/
 dsq_thread_id:
   - 285854627

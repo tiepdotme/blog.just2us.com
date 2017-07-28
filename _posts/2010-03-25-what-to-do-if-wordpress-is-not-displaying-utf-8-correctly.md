@@ -4,7 +4,7 @@ title: What to do if WordPress is not displaying UTF-8 correctly?
 date: 2010-03-25T01:51:37+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/03/what-to-do-if-wordpress-is-not-displaying-utf-8-correctly/
+guid: http://blog.just2us.com/2010/03/what-to-do-if-wordpress-is-not-displaying-utf-8-correctly/
 permalink: /2010/03/what-to-do-if-wordpress-is-not-displaying-utf-8-correctly/
 dsq_thread_id:
   - 79015750

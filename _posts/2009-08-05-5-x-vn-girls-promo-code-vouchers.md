@@ -4,7 +4,7 @@ title: 5 x VN Girls Promo Code Vouchers
 date: 2009-08-05T01:10:49+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/08/5-x-vn-girls-promo-code-vouchers/
+guid: http://blog.just2us.com/2009/08/5-x-vn-girls-promo-code-vouchers/
 permalink: /2009/08/5-x-vn-girls-promo-code-vouchers/
 dsq_thread_id:
   - 65765118

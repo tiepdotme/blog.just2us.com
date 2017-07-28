@@ -4,7 +4,7 @@ title: txeet is now available for iPhone
 date: 2010-02-09T11:01:47+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/02/txeet-is-now-available-for-iphone/
+guid: http://blog.just2us.com/2010/02/txeet-is-now-available-for-iphone/
 permalink: /2010/02/txeet-is-now-available-for-iphone/
 dsq_thread_id:
   - 65765182

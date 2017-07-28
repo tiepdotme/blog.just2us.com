@@ -4,7 +4,7 @@ title: Why WP7 will be a successful mobile OS
 date: 2010-11-04T16:53:43+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/?p=498
+guid: http://blog.just2us.com/?p=498
 permalink: /2010/11/why-wp7-will-be-a-successful-mobile-os/
 dsq_thread_id:
   - 166921806

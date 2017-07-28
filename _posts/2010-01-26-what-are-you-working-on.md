@@ -4,7 +4,7 @@ title: What are you working on?
 date: 2010-01-26T21:54:00+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/01/what-are-you-working-on/
+guid: http://blog.just2us.com/2010/01/what-are-you-working-on/
 permalink: /2010/01/what-are-you-working-on/
 dsq_thread_id:
   - 65765173

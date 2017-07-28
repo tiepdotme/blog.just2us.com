@@ -4,7 +4,7 @@ title: Interview with mypaper 《我报》
 date: 2010-03-23T00:41:48+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/03/interview-from-mypaper-%e3%80%8a%e6%88%91%e6%8a%a5%e3%80%8b/
+guid: http://blog.just2us.com/2010/03/interview-from-mypaper-%e3%80%8a%e6%88%91%e6%8a%a5%e3%80%8b/
 permalink: /2010/03/interview-from-mypaper-%e3%80%8a%e6%88%91%e6%8a%a5%e3%80%8b/
 dsq_thread_id:
   - 78283714
@@ -47,7 +47,7 @@ categories:
 tags:
   - SG Blood
 ---
-I had an interview with <a href="http://mypaper.com.sg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://mypaper.com.sg', 'mypaper 《我报》');">mypaper 《我报》</a> in an article on 18 Mar, 2010. They have interviewed me over the <a href="http://just2us.com/2009/05/sg-blood/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/2009/05/sg-blood/', 'SG Blood');">SG Blood</a> app that I had developed one year ago.
+I had an interview with <a href="http://mypaper.com.sg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://mypaper.com.sg', 'mypaper 《我报》');">mypaper 《我报》</a> in an article on 18 Mar, 2010. They have interviewed me over the <a href="http://blog.just2us.com/2009/05/sg-blood/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/2009/05/sg-blood/', 'SG Blood');">SG Blood</a> app that I had developed one year ago.
 
 I have always reminded myself what a friend once said:
 

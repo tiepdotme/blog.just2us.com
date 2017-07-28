@@ -4,7 +4,7 @@ title: 'Neil Gaiman &ndash; Where he gets his ideas'
 date: 2009-12-24T18:22:21+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2009/12/neil-gaiman-where-he-gets-his-ideas/
+guid: http://blog.just2us.com/2009/12/neil-gaiman-where-he-gets-his-ideas/
 permalink: /2009/12/neil-gaiman-where-he-gets-his-ideas/
 dsq_thread_id:
   - 65765151

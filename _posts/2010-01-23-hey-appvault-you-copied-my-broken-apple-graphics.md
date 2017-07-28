@@ -4,7 +4,7 @@ title: Hey AppVault! You copied my Broken Apple graphics!
 date: 2010-01-23T03:04:14+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/2010/01/hey-appvault-you-copied-my-broken-apple-graphics/
+guid: http://blog.just2us.com/2010/01/hey-appvault-you-copied-my-broken-apple-graphics/
 permalink: /2010/01/hey-appvault-you-copied-my-broken-apple-graphics/
 dsq_thread_id:
   - 65765167

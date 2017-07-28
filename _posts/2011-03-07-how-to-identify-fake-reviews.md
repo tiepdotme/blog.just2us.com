@@ -4,7 +4,7 @@ title: How to identify fake reviews
 date: 2011-03-07T14:06:07+00:00
 author: Junda Ong
 layout: post
-guid: http://just2us.com/?p=577
+guid: http://blog.just2us.com/?p=577
 permalink: /2011/03/how-to-identify-fake-reviews/
 robotsmeta:
   - index,follow
