@@ -64,7 +64,7 @@ Lets look at each network and their problems.
                   * Wifi is good, but not all phones come with it.</ul> 
                 To conclude, RIM has got us a complex network problem to deal with.
                 
-                <a href="http://just2us.com/wp-content/uploads/2009/09/BlackBerry-Network-Diagram.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/09/BlackBerry-Network-Diagram.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="335" alt="BlackBerry Network Diagram" src="http://just2us.com/wp-content/uploads/2009/09/BlackBerry-Network-Diagram_thumb.png" width="644" border="0" /></a>
+                <a href="http://blog.just2us.com/wp-content/uploads/2009/09/BlackBerry-Network-Diagram.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/09/BlackBerry-Network-Diagram.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="335" alt="BlackBerry Network Diagram" src="http://blog.just2us.com/wp-content/uploads/2009/09/BlackBerry-Network-Diagram_thumb.png" width="644" border="0" /></a>
                 
                 &nbsp;
                 

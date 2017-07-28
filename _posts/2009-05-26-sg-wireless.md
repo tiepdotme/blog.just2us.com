@@ -47,7 +47,7 @@ categories:
 tags:
   - SG Wireless
 ---
-<a href="http://just2us.com/wp-content/uploads/2009/05/sgwireless.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/05/sgwireless.png', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="57" alt="SGWireless" src="http://just2us.com/wp-content/uploads/2009/05/sgwireless-thumb.png" width="57" border="0" /></a>&#160;<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=303655424&mt=8" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=303655424&mt=8', 'SG Wireless');">SG Wireless</a> automatically logs on to hotspots in <Wireless@SG>, NUS and NTU.
+<a href="http://blog.just2us.com/wp-content/uploads/2009/05/sgwireless.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/05/sgwireless.png', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="57" alt="SGWireless" src="http://blog.just2us.com/wp-content/uploads/2009/05/sgwireless-thumb.png" width="57" border="0" /></a>&#160;<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=303655424&mt=8" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=303655424&mt=8', 'SG Wireless');">SG Wireless</a> automatically logs on to hotspots in <Wireless@SG>, NUS and NTU.
 
 The app will remember your hotspot provider, username and password. Each time you start SG Wireless, the app will immediately logs on to the connected hotspot! One click is all you need to get connected!
 

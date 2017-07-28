@@ -93,7 +93,7 @@ It is a very simple class, which I wrote within minutes. I am open sourcing JDTo
 You will get something similar to this:
 
 <p style="text-align: center;">
-  <a href="http://just2us.com/wp-content/uploads/2010/11/Screenshot-with-JDToaster1.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/11/Screenshot-with-JDToaster1.jpg', '');"><img class="aligncenter" style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="Screenshot-with-JDToaster" src="http://just2us.com/wp-content/uploads/2010/11/Screenshot-with-JDToaster_thumb.jpg" border="0" alt="Screenshot-with-JDToaster" width="260" height="388" /></a>
+  <a href="http://blog.just2us.com/wp-content/uploads/2010/11/Screenshot-with-JDToaster1.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/11/Screenshot-with-JDToaster1.jpg', '');"><img class="aligncenter" style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="Screenshot-with-JDToaster" src="http://blog.just2us.com/wp-content/uploads/2010/11/Screenshot-with-JDToaster_thumb.jpg" border="0" alt="Screenshot-with-JDToaster" width="260" height="388" /></a>
 </p>
 
 That’s it!

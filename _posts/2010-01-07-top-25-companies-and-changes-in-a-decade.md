@@ -53,7 +53,7 @@ WJS has an interesting look at the <a href="http://s.wsj.net/public/resources/do
 One note is that there were **13 Technologies companies** in 1999, while there are **only 6** in 2009. Bad..
 
 <p align="center">
-  <a href="http://s.wsj.net/public/resources/documents/wsj_DecadeSectors091220.pdf" onclick="__gaTracker('send', 'event', 'download', 'http://s.wsj.net/public/resources/documents/wsj_DecadeSectors091220.pdf');"><img title="sectors in a decade" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="484" alt="sectors in a decade" src="http://just2us.com/wp-content/uploads/2010/01/sectorsinadecade.png" width="619" border="0" /></a>
+  <a href="http://s.wsj.net/public/resources/documents/wsj_DecadeSectors091220.pdf" onclick="__gaTracker('send', 'event', 'download', 'http://s.wsj.net/public/resources/documents/wsj_DecadeSectors091220.pdf');"><img title="sectors in a decade" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="484" alt="sectors in a decade" src="http://blog.just2us.com/wp-content/uploads/2010/01/sectorsinadecade.png" width="619" border="0" /></a>
 </p>
 
 <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">

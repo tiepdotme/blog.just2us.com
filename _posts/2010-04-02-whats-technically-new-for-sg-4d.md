@@ -59,7 +59,7 @@ I am excited to write what is technically new in the app, as there are aplenty, 
 
 I lied. Not only did we use awesome technology from iPhone, we used awesome technology from Google!
 
-<img style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://just2us.com/wp-content/uploads/2010/03/appengine4d.png" alt="" />
+<img style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://blog.just2us.com/wp-content/uploads/2010/03/appengine4d.png" alt="" />
 
 The server side is now completely powered by Google’s <a href="http://code.google.com/appengine/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://code.google.com/appengine/', 'AppEngine');">AppEngine</a>. This brings about several benefits: cheap/free server hosting, scalable architecture, stable+distributed+fast servers.
 
@@ -83,7 +83,7 @@ In-App Purchase is the ability to purchase items right from the app. This is a b
 
 In SG 4D, you can now purchase/unlock the Premium Features immediately. Hence, it is not needed to download a lite version, and subsequently upgrading to a paid version.
 
-<a href="http://just2us.com/wp-content/uploads/2010/04/PurchasePremiumFeatures.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/04/PurchasePremiumFeatures.png', '');"><img style="display: inline; border: 0px;" title="Purchase Premium Features" src="http://just2us.com/wp-content/uploads/2010/04/PurchasePremiumFeatures_thumb.png" border="0" alt="Purchase Premium Features" width="164" height="244" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/04/PurchasePremiumFeatures.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/04/PurchasePremiumFeatures.png', '');"><img style="display: inline; border: 0px;" title="Purchase Premium Features" src="http://blog.just2us.com/wp-content/uploads/2010/04/PurchasePremiumFeatures_thumb.png" border="0" alt="Purchase Premium Features" width="164" height="244" /></a>
 
 We have also simplified the purchasing of the Premium Features by just having a $3.99 purchase to get all the features, including future features such as push notification!
 
@@ -95,7 +95,7 @@ In SG 4D, you could now copy and the 4D results, and paste it anywhere – SMS, 
 
 To make things easier, we also added functions to Email and SMS to your friends.
 
-<a href="http://just2us.com/wp-content/uploads/2010/04/Email.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/04/Email.png', '');"><img style="display: inline; margin: 0px 10px 0px 0px; border: 0px;" title="Email" src="http://just2us.com/wp-content/uploads/2010/04/Email_thumb.png" border="0" alt="Email" width="164" height="244" /></a> <img style="margin: 0px 0px 0px 10px;" src="http://just2us.com/wp-content/uploads/2010/03/SMS_thumb.png" alt="" />
+<a href="http://blog.just2us.com/wp-content/uploads/2010/04/Email.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/04/Email.png', '');"><img style="display: inline; margin: 0px 10px 0px 0px; border: 0px;" title="Email" src="http://blog.just2us.com/wp-content/uploads/2010/04/Email_thumb.png" border="0" alt="Email" width="164" height="244" /></a> <img style="margin: 0px 0px 0px 10px;" src="http://blog.just2us.com/wp-content/uploads/2010/03/SMS_thumb.png" alt="" />
 
 ### 5. Wallpaper Selection
 
@@ -103,7 +103,7 @@ You are now able to select your favorite wallpaper that goes along with the 4D r
 
 You might have noticed that the minimum OS requirement is now 3.1 (instead of 3.0). This is due to one of the SDK API we used for selecting, resizing and cropping your photo.
 
-<a href="http://just2us.com/wp-content/uploads/2010/04/Wallpaper.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/04/Wallpaper.png', '');"><img style="display: inline; border: 0px;" title="Wallpaper" src="http://just2us.com/wp-content/uploads/2010/04/Wallpaper_thumb.png" border="0" alt="Wallpaper" width="164" height="244" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/04/Wallpaper.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/04/Wallpaper.png', '');"><img style="display: inline; border: 0px;" title="Wallpaper" src="http://blog.just2us.com/wp-content/uploads/2010/04/Wallpaper_thumb.png" border="0" alt="Wallpaper" width="164" height="244" /></a>
 
 _Anyway, the photo above is my 3 hour old nephew, born on March 31, 2010 (Wed). And my dad strike 3rd prize, even before using him for wallpaper (:_
 
@@ -113,7 +113,7 @@ Facebook Connect for iPhone is a library for integrating apps with Facebook.
 
 For SG 4D, you could now set your status to help to share SG 4D app with your friends. Right now, we know this is nothing much.
 
-<a href="http://just2us.com/wp-content/uploads/2010/04/Facebookpost.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/04/Facebookpost.jpg', '');"><img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Facebook post" src="http://just2us.com/wp-content/uploads/2010/04/Facebookpost_thumb.jpg" border="0" alt="Facebook post" width="404" height="70" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/04/Facebookpost.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/04/Facebookpost.jpg', '');"><img style="display: block; float: none; margin-left: auto; margin-right: auto; border: 0px;" title="Facebook post" src="http://blog.just2us.com/wp-content/uploads/2010/04/Facebookpost_thumb.jpg" border="0" alt="Facebook post" width="404" height="70" /></a>
 
 In the future, we are thinking you could post status, such as “I strike 1st prize!”, “Bought 1234 for this wed, sat and sun”, etc.. If you have any idea on better use for Facebook with SG 4D, we are happy to hear.
 
@@ -121,7 +121,7 @@ In the future, we are thinking you could post status, such as “I strike 1st pr
 
 We would like you to review the app, no matter good or bad.
 
-<a href="http://just2us.com/wp-content/uploads/2010/04/Review.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/04/Review.png', '');"><img style="display: inline; border: 0px;" title="Review" src="http://just2us.com/wp-content/uploads/2010/04/Review_thumb.png" border="0" alt="Review" width="164" height="244" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/04/Review.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/04/Review.png', '');"><img style="display: inline; border: 0px;" title="Review" src="http://blog.just2us.com/wp-content/uploads/2010/04/Review_thumb.png" border="0" alt="Review" width="164" height="244" /></a>
 
 To help you to help us review, we have added a function under More to bring you right to App Store to write a review.
 

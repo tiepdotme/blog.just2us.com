@@ -57,7 +57,7 @@ There are websites that documented the patterns commonly found for these mobile 
 
 <a href="http://pttrns.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://pttrns.com/', 'http://pttrns.com/');" title="http://pttrns.com/">http://pttrns.com/</a> – For iPhone
 
-<a href="http://just2us.com/wp-content/uploads/2011/03/UI-pattern.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2011/03/UI-pattern.jpg', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px" title="UI pattern" border="0" alt="UI pattern" src="http://just2us.com/wp-content/uploads/2011/03/UI-pattern_thumb.jpg" width="484" height="268" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2011/03/UI-pattern.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2011/03/UI-pattern.jpg', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px" title="UI pattern" border="0" alt="UI pattern" src="http://blog.just2us.com/wp-content/uploads/2011/03/UI-pattern_thumb.jpg" width="484" height="268" /></a>
 
 <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
 </div>

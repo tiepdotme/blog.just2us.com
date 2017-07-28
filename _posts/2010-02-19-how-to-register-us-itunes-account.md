@@ -60,13 +60,13 @@ It is easy to register for another account, and
 
 In iTunes, go to App Store and click on a FREE app. 
 
-<a href="http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct1.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct1.jpg', '');"><img title="Register-US-acct-1" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="396" alt="Register-US-acct-1" src="http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct1_thumb.jpg" width="324" border="0" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct1.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct1.jpg', '');"><img title="Register-US-acct-1" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="396" alt="Register-US-acct-1" src="http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct1_thumb.jpg" width="324" border="0" /></a>
 
 &#160;
 
 Create a new account.
 
-<a href="http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct2.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct2.jpg', '');"><img title="Register-US-acct-2" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="336" alt="Register-US-acct-2" src="http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct2_thumb.jpg" width="524" border="0" /></a>&#160; 
+<a href="http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct2.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct2.jpg', '');"><img title="Register-US-acct-2" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="336" alt="Register-US-acct-2" src="http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct2_thumb.jpg" width="524" border="0" /></a>&#160; 
 
 Continue, accept the terms, and continue (no screenshots provided)..
 
@@ -74,13 +74,13 @@ Fill in the account details. Note that we used a trick here. Let’s say your re
 
 You can use +1, +800 or +dog. This is a gmail feature and might not work for other email providers.
 
-<a href="http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct4.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct4.jpg', '');"><img title="Register-US-acct-4" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="423" alt="Register-US-acct-4" src="http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct4_thumb.jpg" width="644" border="0" /></a> 
+<a href="http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct4.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct4.jpg', '');"><img title="Register-US-acct-4" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="423" alt="Register-US-acct-4" src="http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct4_thumb.jpg" width="644" border="0" /></a> 
 
 Click Continue.
 
 In the next screen, select None for Credit Card (if you have not follow the first step, you will not see None option). Many of the fields are required and will be validated eg. 7-digit number. You could enter some bogus US address. One way is to go to maps.google.com and search for Starbucks in US.
 
-<a href="http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct3.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct3.jpg', '');"><img title="Register-US-acct-3" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="484" alt="Register-US-acct-3" src="http://just2us.com/wp-content/uploads/2010/02/RegisterUSacct3_thumb.jpg" width="556" border="0" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct3.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct3.jpg', '');"><img title="Register-US-acct-3" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="484" alt="Register-US-acct-3" src="http://blog.just2us.com/wp-content/uploads/2010/02/RegisterUSacct3_thumb.jpg" width="556" border="0" /></a>
 
 &#160;
 

@@ -51,7 +51,7 @@ A new version of <a href="http://itunes.apple.com/sg/app/sg-4d/id294815815?mt=8"
 
 In this new version, users can receive push notification when new 4D result is available! 
 
-<a href="http://just2us.com/wp-content/uploads/2010/04/Pushnewresult.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/04/Pushnewresult.png', '');"><img title="Push new result" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="484" alt="Push new result" src="http://just2us.com/wp-content/uploads/2010/04/Pushnewresult_thumb.png" width="324" border="0" /></a> 
+<a href="http://blog.just2us.com/wp-content/uploads/2010/04/Pushnewresult.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/04/Pushnewresult.png', '');"><img title="Push new result" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="484" alt="Push new result" src="http://blog.just2us.com/wp-content/uploads/2010/04/Pushnewresult_thumb.png" width="324" border="0" /></a> 
 
 Yea.. and if you noticed, the screenshot above is taken with an iPhone running OS 4.0 (custom wallpaper!).
 

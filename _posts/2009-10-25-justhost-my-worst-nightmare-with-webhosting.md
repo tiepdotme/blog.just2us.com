@@ -54,7 +54,7 @@ As you might know, <a href="http://www.just2us.com" onclick="__gaTracker('send',
 I am describing my worst nightmare with JustHost, hoping if you are contemplating to sign up with JustHost or others, think carefully.
 
 <p align="center">
-  <a href="http://www.webhostingreviews.com/just-host-reviews-page7.htm" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.webhostingreviews.com/just-host-reviews-page7.htm', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="331" alt="Not recommended" src="http://just2us.com/wp-content/uploads/2009/10/Not-recommended.png" width="644" border="0" /></a>
+  <a href="http://www.webhostingreviews.com/just-host-reviews-page7.htm" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.webhostingreviews.com/just-host-reviews-page7.htm', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="331" alt="Not recommended" src="http://blog.just2us.com/wp-content/uploads/2009/10/Not-recommended.png" width="644" border="0" /></a>
 </p>
 
 &nbsp;
@@ -86,7 +86,7 @@ One week after I signed up, I received an email from their Product Director, inf
 Then came the CEO&#8217;s email that my website is chosen as the top 10. When I am given the platinum link, I felt a scam. <a href="http://www.justhost.com/platinum?email=anyone@email.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.justhost.com/platinum?email=anyone@email.com', 'http://www.justhost.com/platinum?email=anyone@email.com');">http://www.justhost.com/platinum?email=anyone@email.com</a>? If you click on the link right now, you can sign up for the platinum service too! This is a despicable, cheap and stupid.
 
 <p align="center">
-  <a href="http://just2us.com/wp-content/uploads/2009/10/We-have-chosen-your-website.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/10/We-have-chosen-your-website.png', '');"><img style="border-right: 0px; border-top: 0px; margin: 0px 30px 0px 0px; border-left: 0px; border-bottom: 0px" height="502" alt="We have chosen your website" src="http://just2us.com/wp-content/uploads/2009/10/We-have-chosen-your-website_thumb.png" width="406" border="0" /></a>&nbsp;<a href="http://just2us.com/wp-content/uploads/2009/10/Platinum-status-approved.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/10/Platinum-status-approved.png', '');"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 20px; border-left: 0px; border-bottom: 0px" height="592" alt="Platinum status approved" src="http://just2us.com/wp-content/uploads/2009/10/Platinum-status-approved_thumb.png" width="402" border="0" /></a>
+  <a href="http://blog.just2us.com/wp-content/uploads/2009/10/We-have-chosen-your-website.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/10/We-have-chosen-your-website.png', '');"><img style="border-right: 0px; border-top: 0px; margin: 0px 30px 0px 0px; border-left: 0px; border-bottom: 0px" height="502" alt="We have chosen your website" src="http://blog.just2us.com/wp-content/uploads/2009/10/We-have-chosen-your-website_thumb.png" width="406" border="0" /></a>&nbsp;<a href="http://blog.just2us.com/wp-content/uploads/2009/10/Platinum-status-approved.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/10/Platinum-status-approved.png', '');"><img style="border-right: 0px; border-top: 0px; margin: 0px 0px 0px 20px; border-left: 0px; border-bottom: 0px" height="592" alt="Platinum status approved" src="http://blog.just2us.com/wp-content/uploads/2009/10/Platinum-status-approved_thumb.png" width="402" border="0" /></a>
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@ This is amazing bullshit, as my google analytics tells me that there is no more 
 I emailed to say I would not upgrade, and they unsuspended me.
 
 <p align="center">
-  <a href="http://just2us.com/wp-content/uploads/2009/10/Suspended-1.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/10/Suspended-1.png', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="457" alt="Suspended 1" src="http://just2us.com/wp-content/uploads/2009/10/Suspended-1_thumb.png" width="644" border="0" /></a>
+  <a href="http://blog.just2us.com/wp-content/uploads/2009/10/Suspended-1.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/10/Suspended-1.png', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="457" alt="Suspended 1" src="http://blog.just2us.com/wp-content/uploads/2009/10/Suspended-1_thumb.png" width="644" border="0" /></a>
 </p>
 
 <p align="left">
@@ -152,7 +152,7 @@ I decided I cannot live with such poor webhost and told them I will leave.
 I asked for my account to be unsuspended for 1 week as I migrate to another webhost, but they have the we-cant-help-you reply for second suspension. They told me that I would get my refund and backup..
 
 <p align="center">
-  <a href="http://just2us.com/wp-content/uploads/2009/10/Suspended-2.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/10/Suspended-2.png', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="464" alt="Suspended 2" src="http://just2us.com/wp-content/uploads/2009/10/Suspended-2_thumb.png" width="644" border="0" /></a>
+  <a href="http://blog.just2us.com/wp-content/uploads/2009/10/Suspended-2.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/10/Suspended-2.png', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="464" alt="Suspended 2" src="http://blog.just2us.com/wp-content/uploads/2009/10/Suspended-2_thumb.png" width="644" border="0" /></a>
 </p>
 
 <p align="left">
@@ -168,7 +168,7 @@ I asked for my account to be unsuspended for 1 week as I migrate to another webh
 JustHost refund system either has a problem, or they don&#8217;t want you to leave them. The refund process consists of 5 steps, which somehow would bring me to the first step again and again. I tried 5 times before getting to the refund confirmation. And they still they tried to persuade me to stay with cheap offers..
 
 <p align="center">
-  <a href="http://just2us.com/wp-content/uploads/2009/10/Refund-rethink.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/10/Refund-rethink.png', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="484" alt="   Refund rethink" src="http://just2us.com/wp-content/uploads/2009/10/Refund-rethink_thumb.png" width="592" border="0" /></a>&nbsp;
+  <a href="http://blog.just2us.com/wp-content/uploads/2009/10/Refund-rethink.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/10/Refund-rethink.png', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="484" alt="   Refund rethink" src="http://blog.just2us.com/wp-content/uploads/2009/10/Refund-rethink_thumb.png" width="592" border="0" /></a>&nbsp;
 </p>
 
 <p align="left">
@@ -176,7 +176,7 @@ JustHost refund system either has a problem, or they don&#8217;t want you to lea
 </p>
 
 <p align="center">
-  <a href="http://just2us.com/wp-content/uploads/2009/10/Refund.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/10/Refund.png', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="369" alt="Refund" src="http://just2us.com/wp-content/uploads/2009/10/Refund_thumb.png" width="644" border="0" /></a>
+  <a href="http://blog.just2us.com/wp-content/uploads/2009/10/Refund.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/10/Refund.png', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="369" alt="Refund" src="http://blog.just2us.com/wp-content/uploads/2009/10/Refund_thumb.png" width="644" border="0" /></a>
 </p>
 
 <p align="left">
@@ -198,7 +198,7 @@ JustHost refund system either has a problem, or they don&#8217;t want you to lea
 </p>
 
 <p align="center">
-  <a href="http://www.webhostingreviews.com/just-host-reviews.htm" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.webhostingreviews.com/just-host-reviews.htm', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="331" alt="Not recommended" src="http://just2us.com/wp-content/uploads/2009/10/Not-recommended1.png" width="644" border="0" /></a>
+  <a href="http://www.webhostingreviews.com/just-host-reviews.htm" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.webhostingreviews.com/just-host-reviews.htm', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="331" alt="Not recommended" src="http://blog.just2us.com/wp-content/uploads/2009/10/Not-recommended1.png" width="644" border="0" /></a>
 </p>
 
 <p align="left">

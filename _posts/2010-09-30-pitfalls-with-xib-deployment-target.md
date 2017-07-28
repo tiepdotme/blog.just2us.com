@@ -59,7 +59,7 @@ This happened when the project is created, and then I changed to _Project’s De
 
 This is what I see when I change the deployment target to All Versions of iOS. 
 
-<a href="http://just2us.com/wp-content/uploads/2010/09/XibDocumentInfo.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/09/XibDocumentInfo.png', '');"><img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="Xib Document Info" border="0" alt="Xib Document Info" src="http://just2us.com/wp-content/uploads/2010/09/XibDocumentInfo_thumb.png" width="600" height="350" /></a>]
+<a href="http://blog.just2us.com/wp-content/uploads/2010/09/XibDocumentInfo.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/09/XibDocumentInfo.png', '');"><img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="Xib Document Info" border="0" alt="Xib Document Info" src="http://blog.just2us.com/wp-content/uploads/2010/09/XibDocumentInfo_thumb.png" width="600" height="350" /></a>]
 
 (To change xib info, in Interface Builder, go to Windows > Document Info)
 

@@ -55,10 +55,10 @@ It took me 2 days to develop (with most of the time dealing with the graphics), 
 It seems like I always have no luck with Apple review process.
 
 <p align="center">
-  <a href="http://just2us.com/wp-content/uploads/2010/09/applereview.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/09/applereview.jpg', '');"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="apple-review" border="0" alt="apple-review" src="http://just2us.com/wp-content/uploads/2010/09/applereview_thumb.jpg" width="244" height="126" /></a>
+  <a href="http://blog.just2us.com/wp-content/uploads/2010/09/applereview.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/09/applereview.jpg', '');"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="apple-review" border="0" alt="apple-review" src="http://blog.just2us.com/wp-content/uploads/2010/09/applereview_thumb.jpg" width="244" height="126" /></a>
 </p>
 
-<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="torchlight-led" border="0" alt="torchlight-led" src="http://just2us.com/wp-content/uploads/2010/09/torchlightled_thumb.png" width="320" height="64" />
+<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="torchlight-led" border="0" alt="torchlight-led" src="http://blog.just2us.com/wp-content/uploads/2010/09/torchlightled_thumb.png" width="320" height="64" />
 
 <p align="center">
   <a href="http://itunes.apple.com/us/app/torchlight-led/id390019536?mt=8" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://itunes.apple.com/us/app/torchlight-led/id390019536?mt=8', 'Download Torchlight for iPhone 4');">Download Torchlight for iPhone 4</a>

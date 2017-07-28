@@ -61,7 +61,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="http://sgresult.just2us.com/4d/?date=010186&=Get+Draw" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://sgresult.just2us.com/4d/?date=010186&=Get+Draw', '');"><img title="first draw" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="469" alt="first draw" src="http://just2us.com/wp-content/uploads/2010/02/firstdraw1.jpg" width="326" border="0" /></a>
+  <a href="http://sgresult.just2us.com/4d/?date=010186&=Get+Draw" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://sgresult.just2us.com/4d/?date=010186&=Get+Draw', '');"><img title="first draw" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="469" alt="first draw" src="http://blog.just2us.com/wp-content/uploads/2010/02/firstdraw1.jpg" width="326" border="0" /></a>
 </p>
 
 <a href="http://en.wikipedia.org/wiki/4-Digits" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://en.wikipedia.org/wiki/4-Digits', 'Did you know?');"><em>Did you know?</em></a>

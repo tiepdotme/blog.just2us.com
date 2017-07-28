@@ -51,7 +51,7 @@ tags:
 ---
 The chart below compares the mobile operating system market in a period of 6 months &#8211; Feb vs Aug. More details can be found in <a href="http://metrics.admob.com/2009/09/august-2009-mobile-metrics-report/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://metrics.admob.com/2009/09/august-2009-mobile-metrics-report/', 'Admob Aug 09 report');">Admob Aug 09 report</a>.
 
-<a href="http://just2us.com/wp-content/uploads/2009/10/OS-Market-2009-Q3.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/10/OS-Market-2009-Q3.jpg', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="296" alt="OS Market 2009 Q3" src="http://just2us.com/wp-content/uploads/2009/10/OS-Market-2009-Q3_thumb.jpg" width="454" border="0" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2009/10/OS-Market-2009-Q3.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/10/OS-Market-2009-Q3.jpg', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="296" alt="OS Market 2009 Q3" src="http://blog.just2us.com/wp-content/uploads/2009/10/OS-Market-2009-Q3_thumb.jpg" width="454" border="0" /></a>
 
 It is exciting to note the shifts between the market leaders.
 

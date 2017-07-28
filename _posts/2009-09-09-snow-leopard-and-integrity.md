@@ -48,7 +48,7 @@ tags:
   - Apple
   - mac
 ---
-<a href="http://just2us.com/wp-content/uploads/2009/09/love-leaves.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/09/love-leaves.jpg', '');"><img style="border-right: 0px; border-top: 0px; margin: 0px 25px 0px 0px; border-left: 0px; border-bottom: 0px" height="193" alt="love leaves" src="http://just2us.com/wp-content/uploads/2009/09/love-leaves_thumb.jpg" width="244" align="left" border="0" /></a> Apple latest OS X 10.6, otherwise better known as Snow Leopard, is selling in a few flavors &#8211; $29 for single user upgrade, $59 for family pack upgrade and $169 for single user full boxed set. 
+<a href="http://blog.just2us.com/wp-content/uploads/2009/09/love-leaves.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/09/love-leaves.jpg', '');"><img style="border-right: 0px; border-top: 0px; margin: 0px 25px 0px 0px; border-left: 0px; border-bottom: 0px" height="193" alt="love leaves" src="http://blog.just2us.com/wp-content/uploads/2009/09/love-leaves_thumb.jpg" width="244" align="left" border="0" /></a> Apple latest OS X 10.6, otherwise better known as Snow Leopard, is selling in a few flavors &#8211; $29 for single user upgrade, $59 for family pack upgrade and $169 for single user full boxed set. 
 
 But no matter which you buy, you get the same disc. You can install it over an existing Mac, or even over a Windows. You can install it once, or one hundred times. It doesn&#8217;t matter. 
 

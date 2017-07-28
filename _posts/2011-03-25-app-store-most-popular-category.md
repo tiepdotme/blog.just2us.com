@@ -49,7 +49,7 @@ tags:
 ---
 Unsurprisingly, the most most popular apps are Messaging, Voice and Social Networking. And remember: LBS has high potential to shift right.
 
-<a href="http://www.zokem.com/2011/03/youtube-top-installed-app-facebook-leads-in-unique-users/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.zokem.com/2011/03/youtube-top-installed-app-facebook-leads-in-unique-users/', '');"><img src="http://just2us.com/wp-content/uploads/2011/03/appstore-category-matrix.png" width="480" height="355" alt="appstore-category-matrix.png" /></a>
+<a href="http://www.zokem.com/2011/03/youtube-top-installed-app-facebook-leads-in-unique-users/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.zokem.com/2011/03/youtube-top-installed-app-facebook-leads-in-unique-users/', '');"><img src="http://blog.just2us.com/wp-content/uploads/2011/03/appstore-category-matrix.png" width="480" height="355" alt="appstore-category-matrix.png" /></a>
 
 * App Store refers to app store of all major smartphone platform, not just Apple&#8217;s
 

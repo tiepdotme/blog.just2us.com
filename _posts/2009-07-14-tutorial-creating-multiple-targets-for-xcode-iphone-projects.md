@@ -32,7 +32,7 @@ Lets assume we have an application call "Flowers", which is a paid version. And 
 Firstly, create a new target. Under Groups & Files, right click on Targets > Add > New Target&#160; (Figure 1 below). 
 
 <p align="center">
-  <a href="http://just2us.com//wp-content/uploads/2009/07/picture-1.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com//wp-content/uploads/2009/07/picture-1.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="249" alt="Figure 1" src="http://just2us.com/wp-content/uploads/2009/07/picture-1-thumb.png" width="408" border="0" /></a>
+  <a href="http://just2us.com//wp-content/uploads/2009/07/picture-1.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com//wp-content/uploads/2009/07/picture-1.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="249" alt="Figure 1" src="http://blog.just2us.com/wp-content/uploads/2009/07/picture-1-thumb.png" width="408" border="0" /></a>
 </p>
 
 Select Application as the new target template. 
@@ -42,7 +42,7 @@ Enter "FlowersLite" as the target&#8217;s name.
 Pitfall: When a new target is added, it would not copy over any resources, compiled sources or libraries from the original target! You would need to copy them over manually (drag and drop from Flowers to FlowersLite). If you copy all correctly, you would see figure 2 below. The numbers in brackets indicate number of files, hence they should be the same for both the targets.
 
 <p align="center">
-  <img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="158" alt="Picture 5" src="http://just2us.com/wp-content/uploads/2009/07/picture-5-thumb.png" width="244" border="0" />
+  <img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="158" alt="Picture 5" src="http://blog.just2us.com/wp-content/uploads/2009/07/picture-5-thumb.png" width="244" border="0" />
 </p>
 
 &#160;
@@ -52,13 +52,13 @@ Pitfall: When a new target is added, it would not copy over any resources, compi
 We could define properties, such as application name and icon files, for each of the target. Figure 3 below shows "Flowers-Info.plist" for the full version.
 
 <p align="center">
-  <a href="http://just2us.com//wp-content/uploads/2009/07/picture-2.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com//wp-content/uploads/2009/07/picture-2.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="226" alt="Picture 2" src="http://just2us.com/wp-content/uploads/2009/07/picture-2-thumb.png" width="560" border="0" /></a>
+  <a href="http://just2us.com//wp-content/uploads/2009/07/picture-2.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com//wp-content/uploads/2009/07/picture-2.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="226" alt="Picture 2" src="http://blog.just2us.com/wp-content/uploads/2009/07/picture-2-thumb.png" width="560" border="0" /></a>
 </p>
 
 For the lite version, the "FlowersLite-Info.plist" could be changed as necessary. For example, the bundle identifier for the lite version could be "com.just2me.flowerslite" and the Icon file could be "Icon-lite.png" instead (as in figure 4 below).
 
 <p align="center">
-  <a href="http://just2us.com/wp-content/uploads/2009/07/picture-3.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/07/picture-3.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="174" alt="Picture 3" src="http://just2us.com/wp-content/uploads/2009/07/picture-3-thumb.png" width="542" border="0" /></a>
+  <a href="http://blog.just2us.com/wp-content/uploads/2009/07/picture-3.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/07/picture-3.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="174" alt="Picture 3" src="http://blog.just2us.com/wp-content/uploads/2009/07/picture-3-thumb.png" width="542" border="0" /></a>
 </p>
 
 &#160;
@@ -74,13 +74,13 @@ Change Configuration to "All Configurations" (this is important).
 In the Preprocessor Macros field, add the flag LITE_VERSION (see figure 5 below). Note: If you don&#8217;t see the section "GCC 4.2 &#8211; Preprocessing", change the active SDK to base SDK and try again.
 
 <p align="center">
-  <a href="http://just2us.com/wp-content/uploads/2009/07/picture-6.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/07/picture-6.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="43" alt="Picture 6" src="http://just2us.com/wp-content/uploads/2009/07/picture-6-thumb.png" width="520" border="0" /></a>
+  <a href="http://blog.just2us.com/wp-content/uploads/2009/07/picture-6.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/07/picture-6.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="43" alt="Picture 6" src="http://blog.just2us.com/wp-content/uploads/2009/07/picture-6-thumb.png" width="520" border="0" /></a>
 </p>
 
 With the flag LITE_VERSION defined, we could now write codes that will be compiled for the different targets. An example is shown in figure 6 below.
 
 <p align="center">
-  <a href="http://just2us.com/wp-content/uploads/2009/07/picture-7.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/07/picture-7.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="135" alt="Picture 7" src="http://just2us.com/wp-content/uploads/2009/07/picture-7-thumb.png" width="467" border="0" /></a>
+  <a href="http://blog.just2us.com/wp-content/uploads/2009/07/picture-7.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/07/picture-7.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="135" alt="Picture 7" src="http://blog.just2us.com/wp-content/uploads/2009/07/picture-7-thumb.png" width="467" border="0" /></a>
 </p>
 
 When the active target is selected and being run, it will work and print correctly.

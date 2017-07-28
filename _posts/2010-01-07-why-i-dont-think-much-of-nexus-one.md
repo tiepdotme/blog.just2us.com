@@ -62,7 +62,7 @@ From the view as a mobile fanboy or developer:
 
 &#160;
 
-<a href="http://www.youtube.com/watch?v=I6COwgigJ-g" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.youtube.com/watch?v=I6COwgigJ-g', '');"><img title="nexus web phone" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="246" alt="nexus web phone" src="http://just2us.com/wp-content/uploads/2010/01/nexuswebphone.jpg" width="260" border="0" /></a>
+<a href="http://www.youtube.com/watch?v=I6COwgigJ-g" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.youtube.com/watch?v=I6COwgigJ-g', '');"><img title="nexus web phone" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="246" alt="nexus web phone" src="http://blog.just2us.com/wp-content/uploads/2010/01/nexuswebphone.jpg" width="260" border="0" /></a>
 
 <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
 </div>

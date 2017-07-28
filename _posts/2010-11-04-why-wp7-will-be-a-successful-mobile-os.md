@@ -64,7 +64,7 @@ WP7 gives me a very spatial, fluid feel, like every element is floating around s
 
 For instance, take a look at the Office app below. You could have pan from screen to screen fluidly. The texts and components are also aesthetically “cut” off from the screen.
 
-## &#160;<a href="http://just2us.com/wp-content/uploads/2010/11/wp7-office.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/11/wp7-office.jpg', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="wp7-office" border="0" alt="wp7-office" src="http://just2us.com/wp-content/uploads/2010/11/wp7-office_thumb.jpg" width="644" height="392" /></a>
+## &#160;<a href="http://blog.just2us.com/wp-content/uploads/2010/11/wp7-office.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/11/wp7-office.jpg', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="wp7-office" border="0" alt="wp7-office" src="http://blog.just2us.com/wp-content/uploads/2010/11/wp7-office_thumb.jpg" width="644" height="392" /></a>
 
 &#160;
 
@@ -116,7 +116,7 @@ I know I have a changed opinion of Microsoft and its products.
 
 That is enough reason why WP7 will be successful and regain its market.
 
-<a href="http://just2us.com/wp-content/uploads/2010/11/zune.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/11/zune.png', '');"><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="zune" border="0" alt="zune" src="http://just2us.com/wp-content/uploads/2010/11/zune_thumb.png" width="644" height="381" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/11/zune.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/11/zune.png', '');"><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="zune" border="0" alt="zune" src="http://blog.just2us.com/wp-content/uploads/2010/11/zune_thumb.png" width="644" height="381" /></a>
 
 <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
 </div>

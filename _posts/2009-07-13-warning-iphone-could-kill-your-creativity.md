@@ -47,7 +47,7 @@ categories:
   - whatever
 ---
 <p align="center">
-  <a href="http://just2us.com//wp-content/uploads/2009/07/lowering-iq-theresanappforthat.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com//wp-content/uploads/2009/07/lowering-iq-theresanappforthat.jpg', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="244" alt="lowering-iq-theresanappforthat" src="http://just2us.com/wp-content/uploads/2009/07/lowering-iq-theresanappforthat-thumb.jpg" width="164" border="0" /></a>
+  <a href="http://just2us.com//wp-content/uploads/2009/07/lowering-iq-theresanappforthat.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com//wp-content/uploads/2009/07/lowering-iq-theresanappforthat.jpg', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="244" alt="lowering-iq-theresanappforthat" src="http://blog.just2us.com/wp-content/uploads/2009/07/lowering-iq-theresanappforthat-thumb.jpg" width="164" border="0" /></a>
 </p>
 
 I have long suspected that iPhone could make human dumber, since there is is _an app for everything._

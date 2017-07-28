@@ -55,7 +55,7 @@ These are for grabs:
   3. 7P9RWLNMWYPE 
   4. LLYFKKK67YR4 
 
-<a href="http://just2us.com/wp-content/uploads/2009/08/happy-friendship-day1.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/08/happy-friendship-day1.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="250" alt="Happy Friendship Day" src="http://just2us.com/wp-content/uploads/2009/08/happy-friendship-day-thumb1.png" width="349" border="0" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2009/08/happy-friendship-day1.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/08/happy-friendship-day1.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="250" alt="Happy Friendship Day" src="http://blog.just2us.com/wp-content/uploads/2009/08/happy-friendship-day-thumb1.png" width="349" border="0" /></a>
 
 Please leave a note if you used one of the code, and do write a review in App Store too. To use a promo, please go to US App Store > Home > Select Redeem (at the top right) > Enter the code.
 

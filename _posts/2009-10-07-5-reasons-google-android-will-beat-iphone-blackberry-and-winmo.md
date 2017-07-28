@@ -73,7 +73,7 @@ Symbian will still top the market share due to its hardwork done in the last dec
 I will review my crystal gazing ability in 2 years time..
 
 <p align="center">
-  <a href="http://just2us.com/wp-content/uploads/2009/10/htc-snapdragon.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/10/htc-snapdragon.jpg', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="300" alt="htc-snapdragon" src="http://just2us.com/wp-content/uploads/2009/10/htc-snapdragon_thumb.jpg" width="500" border="0" /></a>
+  <a href="http://blog.just2us.com/wp-content/uploads/2009/10/htc-snapdragon.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/10/htc-snapdragon.jpg', '');"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="300" alt="htc-snapdragon" src="http://blog.just2us.com/wp-content/uploads/2009/10/htc-snapdragon_thumb.jpg" width="500" border="0" /></a>
 </p>
 
 <p align="center">

@@ -47,7 +47,7 @@ categories:
 tags:
   - tools games web tutorials
 ---
-<a href="http://just2us.com/wp-content/uploads/2009/09/Monopolycitystreets.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2009/09/Monopolycitystreets.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 5px 0px; border-right-width: 0px" height="244" alt="Monopolycitystreets" src="http://just2us.com/wp-content/uploads/2009/09/Monopolycitystreets_thumb.png" width="213" align="left" border="0" /></a>Cheating on the Internet is a common thing, since it usually cost nothing, and tools are easily available. Plus a lack of police-ing, cheating is wild.
+<a href="http://blog.just2us.com/wp-content/uploads/2009/09/Monopolycitystreets.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/09/Monopolycitystreets.png', '');"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 10px 5px 0px; border-right-width: 0px" height="244" alt="Monopolycitystreets" src="http://blog.just2us.com/wp-content/uploads/2009/09/Monopolycitystreets_thumb.png" width="213" align="left" border="0" /></a>Cheating on the Internet is a common thing, since it usually cost nothing, and tools are easily available. Plus a lack of police-ing, cheating is wild.
 
 I will be highlighting some ways that we could cheat in this new online game &#8211; <a href="http://www.monopolycitystreets.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.monopolycitystreets.com', 'monopolycitystreets');">monopolycitystreets</a>.
 

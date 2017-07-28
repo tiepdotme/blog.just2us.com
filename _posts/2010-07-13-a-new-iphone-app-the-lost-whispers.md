@@ -53,7 +53,7 @@ We are proud to announce the release of a new iPhone app – _The LOST Whispers_
 
 This is the first entertainment app we have created, and a good prank app we believe it is. What you can do with the app is simple.
 
-<a href="http://whispers.just2us.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://whispers.just2us.com', '');"><img title="Whispers-ad" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="48" alt="Whispers-ad" src="http://just2us.com/wp-content/uploads/2010/07/Whispersad1.png" width="320" border="0" /></a>
+<a href="http://whispers.just2us.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://whispers.just2us.com', '');"><img title="Whispers-ad" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="48" alt="Whispers-ad" src="http://blog.just2us.com/wp-content/uploads/2010/07/Whispersad1.png" width="320" border="0" /></a>
 
 Yup. That’s what the app does – Play creepy whispering sounds and terrify your friends!
 

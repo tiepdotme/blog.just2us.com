@@ -51,7 +51,7 @@ I refuse to pay an extra $20, for a smaller SIM card.
 
 With dignity, I cut my Singtel standard SIM card to fit for my iPhone 4.
 
-<a href="http://just2us.com/wp-content/uploads/2010/07/diymicrosim.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/07/diymicrosim.jpg', '');"><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="diy-micro-sim" border="0" alt="diy-micro-sim" src="http://just2us.com/wp-content/uploads/2010/07/diymicrosim_thumb.jpg" width="324" height="456" /></a>&#160; </p> 
+<a href="http://blog.just2us.com/wp-content/uploads/2010/07/diymicrosim.jpg" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/07/diymicrosim.jpg', '');"><img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="diy-micro-sim" border="0" alt="diy-micro-sim" src="http://blog.just2us.com/wp-content/uploads/2010/07/diymicrosim_thumb.jpg" width="324" height="456" /></a>&#160; </p> 
 
 As you can see, it is not hard. Just cut around the metal piece.
 

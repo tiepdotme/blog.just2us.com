@@ -48,7 +48,7 @@ categories:
 ---
 This is an <a href="http://code.google.com/p/android/issues/detail?id=6579" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://code.google.com/p/android/issues/detail?id=6579', 'issue');">issue</a> where an application that is opened from Android’s Market might encounter a force close. <a href="http://txeet.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://txeet.com', 'txeet');">txeet</a> had the same issue:
 
-<a href="http://just2us.com/wp-content/uploads/2010/05/txeetforceclose.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/05/txeetforceclose.png', '');"><img title="txeet force close" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="484" alt="txeet force close" src="http://just2us.com/wp-content/uploads/2010/05/txeetforceclose_thumb.png" width="292" border="0" /></a>&#160;
+<a href="http://blog.just2us.com/wp-content/uploads/2010/05/txeetforceclose.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/05/txeetforceclose.png', '');"><img title="txeet force close" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="484" alt="txeet force close" src="http://blog.just2us.com/wp-content/uploads/2010/05/txeetforceclose_thumb.png" width="292" border="0" /></a>&#160;
 
 This is due to the application having two launcher components, and Market is confused and therefore not able to launch. Strangely, some phones do not face the same problem. 
 

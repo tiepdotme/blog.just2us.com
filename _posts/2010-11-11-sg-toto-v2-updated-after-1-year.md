@@ -64,7 +64,7 @@ Specifically, these are what’s new for SG Toto:
 
 ## Faster results, more details
 
-<a href="http://just2us.com/wp-content/uploads/2010/11/Screen1.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/11/Screen1.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen1" border="0" alt="Screen1" src="http://just2us.com/wp-content/uploads/2010/11/Screen1_thumb.png" width="644" height="431" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/11/Screen1.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/11/Screen1.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen1" border="0" alt="Screen1" src="http://blog.just2us.com/wp-content/uploads/2010/11/Screen1_thumb.png" width="644" height="431" /></a>
 
 You now get results faster, approximately at 6.33pm when the numbers are drawn! 
 
@@ -76,7 +76,7 @@ Furthermore, the app now provides the winning tickets information. Now you know 
 
 ## Past Results 24 years back
 
-<a href="http://just2us.com/wp-content/uploads/2010/11/Screen2.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/11/Screen2.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen2" border="0" alt="Screen2" src="http://just2us.com/wp-content/uploads/2010/11/Screen2_thumb.png" width="644" height="431" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/11/Screen2.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/11/Screen2.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen2" border="0" alt="Screen2" src="http://blog.just2us.com/wp-content/uploads/2010/11/Screen2_thumb.png" width="644" height="431" /></a>
 
 We know you are interested to know what is the result 1 year ago, 2 years ago, on your birthday, Michael Jackson’s birthday, &#8230; or 24 years ago!
 
@@ -86,7 +86,7 @@ As such, we provide you the entire history of Toto.
 
 ## Number Analysis
 
-<a href="http://just2us.com/wp-content/uploads/2010/11/Screen3.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/11/Screen3.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen3" border="0" alt="Screen3" src="http://just2us.com/wp-content/uploads/2010/11/Screen3_thumb.png" width="644" height="431" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/11/Screen3.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/11/Screen3.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen3" border="0" alt="Screen3" src="http://blog.just2us.com/wp-content/uploads/2010/11/Screen3_thumb.png" width="644" height="431" /></a>
 
 To help you further in the game, we are providing more thorough number analysis! 
 
@@ -102,7 +102,7 @@ For now, there are 3 analysis that you can perform:
 
 ## Next Jackpot
 
-<a href="http://just2us.com/wp-content/uploads/2010/11/Screen4.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/11/Screen4.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen4" border="0" alt="Screen4" src="http://just2us.com/wp-content/uploads/2010/11/Screen4_thumb.png" width="644" height="431" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/11/Screen4.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/11/Screen4.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen4" border="0" alt="Screen4" src="http://blog.just2us.com/wp-content/uploads/2010/11/Screen4_thumb.png" width="644" height="431" /></a>
 
 Okay, version 1 had this too.
 
@@ -112,7 +112,7 @@ But version 2 is cooler as I have my custom wallpaper blessing me :)
 
 ## Outlets, Push Notifications, Wallpaper
 
-<a href="http://just2us.com/wp-content/uploads/2010/11/Screen5.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/11/Screen5.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen5" border="0" alt="Screen5" src="http://just2us.com/wp-content/uploads/2010/11/Screen5_thumb.png" width="644" height="431" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/11/Screen5.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/11/Screen5.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="Screen5" border="0" alt="Screen5" src="http://blog.just2us.com/wp-content/uploads/2010/11/Screen5_thumb.png" width="644" height="431" /></a>
 
 You can now find the outlets near you, get Push Notifications when results arrived, and set your lucky wallpaper!
 
@@ -124,7 +124,7 @@ Lastly, we have updated the graphics and they now looks sharper and prettier for
 
 And the new icon for version 2.
 
-<a href="http://just2us.com/wp-content/uploads/2010/11/SGToto-Icon-v4.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://just2us.com/wp-content/uploads/2010/11/SGToto-Icon-v4.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px" title="SGToto-Icon-v4" border="0" alt="SGToto-Icon-v4" src="http://just2us.com/wp-content/uploads/2010/11/SGToto-Icon-v4_thumb.png" width="240" height="320" /></a>
+<a href="http://blog.just2us.com/wp-content/uploads/2010/11/SGToto-Icon-v4.png" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2010/11/SGToto-Icon-v4.png', '');"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px" title="SGToto-Icon-v4" border="0" alt="SGToto-Icon-v4" src="http://blog.just2us.com/wp-content/uploads/2010/11/SGToto-Icon-v4_thumb.png" width="240" height="320" /></a>
 
 <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
 </div>

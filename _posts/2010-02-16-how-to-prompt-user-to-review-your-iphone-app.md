@@ -51,7 +51,7 @@ Apple’s app review is flawed – when users delete an app, it ask to rate. But
 
 If a user did not delete your app, it should not be a worthless app and should have a positive review. As a developer, we should prompt users to rate and comment an app after using it a number of times. 
 
-<a href="http://txeet.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://txeet.com', '');"><img title="rate txeet" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="484" alt="rate txeet" src="http://just2us.com/wp-content/uploads/2010/02/ratetxeet.png" width="324" border="0" /></a>
+<a href="http://txeet.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://txeet.com', '');"><img title="rate txeet" style="border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; border-left: 0px; margin-right: auto; border-bottom: 0px" height="484" alt="rate txeet" src="http://blog.just2us.com/wp-content/uploads/2010/02/ratetxeet.png" width="324" border="0" /></a>
 
 &#160;
 
