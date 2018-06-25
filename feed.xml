@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2018-05-10T14:03:45+08:00</updated><id>http://blog.just2us.com/</id><title>Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><entry><title>App Review Now Bans Facebook Single Sign-On</title><link href="http://blog.just2us.com/2016/09/29/app-review-now-bans-facebook-single-sign-on/" rel="alternate" type="text/html" title="App Review Now Bans Facebook Single Sign-On" /><published>2016-09-29T17:20:53+08:00</published><updated>2016-09-29T17:20:53+08:00</updated><id>http://blog.just2us.com/2016/09/29/app-review-now-bans-facebook-single-sign-on</id><content type="html" xml:base="http://blog.just2us.com/2016/09/29/app-review-now-bans-facebook-single-sign-on/">&lt;p&gt;If you are using Facebook SDK only for it’s account login, and you didn’t provide your own login mechanism.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2018-06-25T11:11:05+08:00</updated><id>http://blog.just2us.com/</id><title>Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><entry><title>New App: Concert Camera</title><link href="http://blog.just2us.com/2018/06/25/new-app-concert-camera/" rel="alternate" type="text/html" title="New App: Concert Camera" /><published>2018-06-25T10:41:10+08:00</published><updated>2018-06-25T10:41:10+08:00</updated><id>http://blog.just2us.com/2018/06/25/new-app-concert-camera</id><content type="html" xml:base="http://blog.just2us.com/2018/06/25/new-app-concert-camera/">&lt;p&gt;We’ve all seen sea of people holding brightly-lit phones in the air. But is this the best way to capture those special moments?&lt;/p&gt;
+
+&lt;p&gt;No.&lt;/p&gt;
+
+&lt;p&gt;We think the &lt;strong&gt;phone’s bright screen is a DISTRACTION&lt;/strong&gt; to everyone, including the person recording.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-we-build-a-distraction-free-app&quot;&gt;So we build a distraction-free app&lt;/h2&gt;
+
+&lt;p&gt;Yet, we think concertgoers should record videos of such special moments – to keep with you FOREVER.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://just2us.com/concertcamera/&quot;&gt;Concert Camera&lt;/a&gt; helps you, by turning the screen off, while still recording!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/concert-camera-2-screenshots.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you can enjoy the concert better, like how I did in &lt;a href=&quot;https://youtu.be/ICYDdChO49Q&quot;&gt;The Script concert&lt;/a&gt; 😉&lt;/p&gt;
+
+&lt;p&gt;Give it &lt;a href=&quot;https://itunes.apple.com/app/id1378801789?at=11luru&quot;&gt;a try&lt;/a&gt;?&lt;/p&gt;
+
+&lt;h2 id=&quot;full-feature-list&quot;&gt;Full feature list&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Turn screen off while still recording video&lt;/li&gt;
+  &lt;li&gt;Presets for low-light situations&lt;/li&gt;
+  &lt;li&gt;Continuously auto focus&lt;/li&gt;
+  &lt;li&gt;Torch mode&lt;/li&gt;
+  &lt;li&gt;Optical zoom&lt;/li&gt;
+  &lt;li&gt;Save to album in Photos&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Junda</name></author><category term="Concert Camera" /><summary>We’ve all seen sea of people holding brightly-lit phones in the air. But is this the best way to capture those special moments?</summary></entry><entry><title>App Review Now Bans Facebook Single Sign-On</title><link href="http://blog.just2us.com/2016/09/29/app-review-now-bans-facebook-single-sign-on/" rel="alternate" type="text/html" title="App Review Now Bans Facebook Single Sign-On" /><published>2016-09-29T17:20:53+08:00</published><updated>2016-09-29T17:20:53+08:00</updated><id>http://blog.just2us.com/2016/09/29/app-review-now-bans-facebook-single-sign-on</id><content type="html" xml:base="http://blog.just2us.com/2016/09/29/app-review-now-bans-facebook-single-sign-on/">&lt;p&gt;If you are using Facebook SDK only for it’s account login, and you didn’t provide your own login mechanism.&lt;/p&gt;
 
 &lt;p&gt;A recent &lt;a href=&quot;http://www.appstorereviewguidelineshistory.com/articles/2016-09-01-subscriptions-siri-kit-stickers/&quot;&gt;Sep 2016 update&lt;/a&gt; to App Store Guidelines now adds the following:&lt;/p&gt;
 
@@ -594,13 +621,4 @@
 &lt;p&gt; &lt;/p&gt;
 
 &lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
-&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="SG Radio" /><summary>SG Radio #RememberingLKY</summary></entry><entry><title>Sex Ratio App – How many males/females Facebook Friends you have?</title><link href="http://blog.just2us.com/2015/03/sex-ratio-app-how-many-malesfemales-facebook-friends-you-have/" rel="alternate" type="text/html" title="Sex Ratio App &amp;#8211; How many males/females Facebook Friends you have?" /><published>2015-03-12T19:51:50+08:00</published><updated>2015-03-12T19:51:50+08:00</updated><id>http://blog.just2us.com/2015/03/sex-ratio-app-how-many-malesfemales-facebook-friends-you-have</id><content type="html" xml:base="http://blog.just2us.com/2015/03/sex-ratio-app-how-many-malesfemales-facebook-friends-you-have/">&lt;p&gt;Ever wondered how many male to female friends you have?&lt;/p&gt;
-
-&lt;p&gt;I wondered that before, and created a simple Facebook app – &lt;a href=&quot;http://sexratio.herokuapp.com&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://sexratio.herokuapp.com&#39;, &#39;Sex Ratio&#39;);&quot; target=&quot;_blank&quot;&gt;Sex Ratio&lt;/a&gt; – 4 years ago.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://sexratio.herokuapp.com&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://sexratio.herokuapp.com&#39;, &#39;&#39;);&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot;aligncenter wp-image-1324 size-full&quot; src=&quot;http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends.png&quot; alt=&quot;sex ratio facebook friends&quot; width=&quot;750&quot; height=&quot;524&quot; srcset=&quot;http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-300x210.png 300w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-100x70.png 100w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-150x105.png 150w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-200x140.png 200w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-450x314.png 450w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends-600x419.png 600w, http://blog.just2us.com/wp-content/uploads/2015/03/sex-ratio-facebook-friends.png 750w&quot; sizes=&quot;(max-width: 750px) 100vw, 750px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;PS: It was a long time that I developed this 1-day-hack 4 years ago, using heroku and PHP (oh yah PHP!). It still works and hosted on the free heroku server. How nice Heroku!&lt;/p&gt;
-
-&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
-&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="sexratio" /><summary>Ever wondered how many male to female friends you have?</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="SG Radio" /><summary>SG Radio #RememberingLKY</summary></entry></feed>
