@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2018-08-14T19:25:38+08:00</updated><id>http://blog.just2us.com/</id><title>Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><entry><title>New App: Concert Camera</title><link href="http://blog.just2us.com/2018/06/25/new-app-concert-camera/" rel="alternate" type="text/html" title="New App: Concert Camera" /><published>2018-06-25T10:41:10+08:00</published><updated>2018-06-25T10:41:10+08:00</updated><id>http://blog.just2us.com/2018/06/25/new-app-concert-camera</id><content type="html" xml:base="http://blog.just2us.com/2018/06/25/new-app-concert-camera/">&lt;p&gt;We’ve all seen sea of people holding brightly-lit phones in the air. But is this the best way to capture those special moments?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2019-02-05T10:34:05+08:00</updated><id>http://blog.just2us.com/</id><title>Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><entry><title>Torchlight App Update</title><link href="http://blog.just2us.com/2019/02/05/app-updates-for-torchlight-app/" rel="alternate" type="text/html" title="Torchlight App Update" /><published>2019-02-05T10:18:03+08:00</published><updated>2019-02-05T10:18:03+08:00</updated><id>http://blog.just2us.com/2019/02/05/app-updates-for-torchlight-app</id><content type="html" xml:base="http://blog.just2us.com/2019/02/05/app-updates-for-torchlight-app/">&lt;p&gt;The latest update for Torchlight goes like this..&lt;/p&gt;
+
+&lt;p&gt;◎ Launch with the last torch mode you use&lt;br /&gt;
+◎ Improvements and fixes for iOS 12&lt;br /&gt;
+◎ Improved layout for new iPhone XS Max phone factor and iPad&lt;br /&gt;
+◎ Works for iPad without camera LED&lt;/p&gt;
+
+&lt;p&gt;While the changelog don’t seem like much, it did undergone drastic changes under the hood.&lt;/p&gt;
+
+&lt;p&gt;It was a totally rewrite using the new programming language (Objective-C to Swift 4.2). For users, this means much improved stability (less bugs)!&lt;/p&gt;
+
+&lt;p&gt;This needs to be told. Hope you appreciate it. More updates will come now that the app runs on the new engine :)&lt;/p&gt;
+
+&lt;h2 id=&quot;a-new-website&quot;&gt;A New Website&lt;/h2&gt;
+
+&lt;p&gt;Ah ha, and we have a &lt;a href=&quot;http://just2us.com/torchlight/&quot;&gt;new website&lt;/a&gt; for the app too.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://just2us.com/torchlight/&quot;&gt;&lt;img src=&quot;/img/torchlight-website.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We pride ourselves as the easiest to use flashlight app, and works for iPad too.&lt;/p&gt;
+
+&lt;p&gt;Three simple modes for different situations.&lt;/p&gt;
+
+&lt;p&gt;Download, and &lt;a href=&quot;http://just2us.com/torchlight/&quot;&gt;be prepared&lt;/a&gt; when you need it.&lt;/p&gt;</content><author><name>Junda</name></author><category term="Torchlight" /><summary>The latest update for Torchlight goes like this..</summary></entry><entry><title>New App: Concert Camera</title><link href="http://blog.just2us.com/2018/06/25/new-app-concert-camera/" rel="alternate" type="text/html" title="New App: Concert Camera" /><published>2018-06-25T10:41:10+08:00</published><updated>2018-06-25T10:41:10+08:00</updated><id>http://blog.just2us.com/2018/06/25/new-app-concert-camera</id><content type="html" xml:base="http://blog.just2us.com/2018/06/25/new-app-concert-camera/">&lt;p&gt;We’ve all seen sea of people holding brightly-lit phones in the air. But is this the best way to capture those special moments?&lt;/p&gt;
 
 &lt;p&gt;No.&lt;/p&gt;
 
@@ -551,15 +574,4 @@
 &lt;p&gt;We need to upgrade this “old technology” to a new level.&lt;/p&gt;
 
 &lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
-&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="SG Radio" /><summary>When Singapore founding father passed away, many of us tuned into radio to hear on the news.</summary></entry><entry><title>Forever We Remember You – Mr Lee Kuan Yew</title><link href="http://blog.just2us.com/2015/03/forever-we-remember-you-mr-lee-kuan-yew/" rel="alternate" type="text/html" title="Forever We Remember You &amp;#8211; Mr Lee Kuan Yew" /><published>2015-03-24T21:55:18+08:00</published><updated>2015-03-24T21:55:18+08:00</updated><id>http://blog.just2us.com/2015/03/forever-we-remember-you-mr-lee-kuan-yew</id><content type="html" xml:base="http://blog.just2us.com/2015/03/forever-we-remember-you-mr-lee-kuan-yew/">&lt;div id=&quot;attachment_1330&quot; style=&quot;width: 560px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
-  &lt;a href=&quot;https://instagram.com/p/0mWX2yo2eb/?taken-by=samwize7&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://instagram.com/p/0mWX2yo2eb/?taken-by=samwize7&#39;, &#39;&#39;);&quot;&gt;&lt;img class=&quot;size-large wp-image-1330&quot; src=&quot;http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-1024x1024.jpg&quot; alt=&quot;SG Radio #RememberingLKY&quot; width=&quot;550&quot; height=&quot;550&quot; srcset=&quot;http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-150x150.jpg 150w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-300x300.jpg 300w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-1024x1024.jpg 1024w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-600x600.jpg 600w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-100x100.jpg 100w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-200x200.jpg 200w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-450x450.jpg 450w, http://blog.just2us.com/wp-content/uploads/2015/03/SG-Radio-RememberingLKY-900x900.jpg 900w&quot; sizes=&quot;(max-width: 550px) 100vw, 550px&quot; /&gt;&lt;/a&gt;
-  
-  &lt;p class=&quot;wp-caption-text&quot;&gt;
-    SG Radio #RememberingLKY
-  &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
-&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="SG Radio" /><summary>SG Radio #RememberingLKY</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="SG Radio" /><summary>When Singapore founding father passed away, many of us tuned into radio to hear on the news.</summary></entry></feed>
