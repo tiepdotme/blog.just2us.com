@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2019-02-27T16:46:54+08:00</updated><id>http://blog.just2us.com/</id><title>Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><entry><title>Launching Soon: My Money Mac App</title><link href="http://blog.just2us.com/2019/02/27/launching-soon-my-money-mac-app/" rel="alternate" type="text/html" title="Launching Soon: My Money Mac App" /><published>2019-02-27T16:26:42+08:00</published><updated>2019-02-27T16:26:42+08:00</updated><id>http://blog.just2us.com/2019/02/27/launching-soon-my-money-mac-app</id><content type="html" xml:base="http://blog.just2us.com/2019/02/27/launching-soon-my-money-mac-app/">&lt;p&gt;We will be launching our first ever mac app in a few days!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="http://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2019-03-01T09:45:23+08:00</updated><id>http://blog.just2us.com/</id><title>Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><entry><title>Why we created My Money</title><link href="http://blog.just2us.com/2019/03/01/why-we-created-my-money/" rel="alternate" type="text/html" title="Why we created My Money" /><published>2019-03-01T08:34:05+08:00</published><updated>2019-03-01T08:34:05+08:00</updated><id>http://blog.just2us.com/2019/03/01/why-we-created-my-money</id><content type="html" xml:base="http://blog.just2us.com/2019/03/01/why-we-created-my-money/">&lt;p&gt;Our &lt;a href=&quot;https://whereismymoney.app&quot;&gt;latest app&lt;/a&gt; is a personal finance app, helping you track the most important number in regards to your wealth – &lt;strong&gt;networth&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;(We know &lt;em&gt;net worth&lt;/em&gt; is the &lt;em&gt;correct&lt;/em&gt; English spelling, but we prefer to use it as one non-breaking word.)&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-networth&quot;&gt;What is networth?&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;NETWORTH = ASSETS - LIABILITIES&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sum up all your assets. Sum up all your liabilities. The difference is your networth.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It is how much money you truly have.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A simple and beautiful formula.&lt;/p&gt;
+
+&lt;p&gt;Companies track their “networth” all the time, in the form of quarterly earnings report. Under a company balance sheet, the networth of a company = equity, using the exact same formula.&lt;/p&gt;
+
+&lt;p&gt;You should track yours too.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-people-track-their-personal-finances&quot;&gt;How people track their personal finances?&lt;/h2&gt;
+
+&lt;p&gt;There are many personal finance apps. The most popular kinds are &lt;a href=&quot;https://www.shopback.sg/blog/best-expense-tracker-app&quot;&gt;expense trackers&lt;/a&gt;, such as Toshl, Wally, and Money Lover.&lt;/p&gt;
+
+&lt;p&gt;However, we find such apps to be very difficult to use because &lt;strong&gt;entering every expense transaction is tedious&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I could easily have 10 transactions in a day.&lt;/p&gt;
+
+&lt;p&gt;Some apps do have the capability to sync automatically. That’s because some banks provide open API for reading bank’s data. Those without direct open API? Some apps resort to dirty web scrapping, using your log in credentials, at your huge risks.&lt;/p&gt;
+
+&lt;p&gt;Syncing comes with lots of &lt;strong&gt;security concerns&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;using-a-spreadsheet&quot;&gt;Using a Spreadsheet&lt;/h2&gt;
+
+&lt;p&gt;While I don’t use an expense tracker, I use a Google Spreadsheet to track all my accounts and balances.&lt;/p&gt;
+
+&lt;p&gt;This is similar to &lt;a href=&quot;https://www.doughroller.net/personal-finance/3-tools-to-track-your-net-worth/&quot;&gt;DoughRoller&lt;/a&gt;, though he uses a combination of expense trackers + Spreadsheet.&lt;/p&gt;
+
+&lt;p&gt;We all use the spreadsheet to update our assets &amp;amp; liabilities, once every month.&lt;/p&gt;
+
+&lt;p&gt;Why does one still need a spreadsheet?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Flexibility - Easily evolve as needed eg. joint account, disregard certain investment&lt;/li&gt;
+  &lt;li&gt;Big Picture - Shows all the accounts and money in 1 place&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I have a real life example.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/mymoney-google-spreadsheet-my-acocunts.png&quot; alt=&quot;My Spreadsheet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Above is my very own personal finance spreadsheet that I maintained since 2013. Certain figures &amp;amp; accounts are edited for my privacy (:&lt;/p&gt;
+
+&lt;p&gt;Over the years, it becomes complex to maintain, because currency rates will change. My “personal accounting” methodology change over time too.&lt;/p&gt;
+
+&lt;p&gt;Every few months, I will also note down (copy) the networth, so that I can see the growth over the years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/mymoney-google-spreadsheet-networth-history.png&quot; alt=&quot;My Networth History&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The rightmost column is notes for certain drastic effects, such as how I calculate or include/exclude certain accounts. I also update exchange rate ad-hocly.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;True Networth&lt;/em&gt; is a concept that I invented to exclude my retirement funds and illiquid assets/liabilities.&lt;/p&gt;
+
+&lt;p&gt;I believe I can do better with an app.&lt;/p&gt;
+
+&lt;h2 id=&quot;therefore-an-app&quot;&gt;Therefore an app&lt;/h2&gt;
+
+&lt;p&gt;At Just2us, we build apps that we want to use.&lt;/p&gt;
+
+&lt;p&gt;My Money replaces the spreadsheet, and achieve the same flexibility and big picture that a spreadsheet provides.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/mymoney-screenshot-1.jpg&quot; alt=&quot;The App&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The dashboard provides the overview of&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$WHERE&lt;/code&gt; - the accounts and latest balances&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$WHEN&lt;/code&gt; - the networth history&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Exchange rates are taken care of automatically! It will be updated yearly (by default), or you could update whenever you want. You may even use custom “currency”, such as &lt;em&gt;BTC&lt;/em&gt; if you need it!&lt;/p&gt;</content><author><name>Junda</name></author><category term="My Money" /><summary>Our latest app is a personal finance app, helping you track the most important number in regards to your wealth – networth.</summary></entry><entry><title>Launching Soon: My Money Mac App</title><link href="http://blog.just2us.com/2019/02/27/launching-soon-my-money-mac-app/" rel="alternate" type="text/html" title="Launching Soon: My Money Mac App" /><published>2019-02-27T16:26:42+08:00</published><updated>2019-02-27T16:26:42+08:00</updated><id>http://blog.just2us.com/2019/02/27/launching-soon-my-money-mac-app</id><content type="html" xml:base="http://blog.just2us.com/2019/02/27/launching-soon-my-money-mac-app/">&lt;p&gt;We will be launching our first ever mac app in a few days!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1444268988&quot;&gt;&lt;img src=&quot;/img/mymoney-preorder-mac-app-store.jpg&quot; alt=&quot;Pre-order on mac App Store&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -536,15 +616,4 @@
       
       &lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
       &lt;/div&gt;
-&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;</content><author><name>Junda Ong</name></author><category term="pookeeper" /><summary></summary></entry><entry><title>New app released: Jade</title><link href="http://blog.just2us.com/2015/09/new-app-released-jade/" rel="alternate" type="text/html" title="New app released: Jade" /><published>2015-09-07T01:05:25+08:00</published><updated>2015-09-07T01:05:25+08:00</updated><id>http://blog.just2us.com/2015/09/new-app-released-jade</id><content type="html" xml:base="http://blog.just2us.com/2015/09/new-app-released-jade/">&lt;p&gt;Jade is a journal app for parents to co-write for their children.&lt;/p&gt;
-
-&lt;p&gt;This is a new app I developed as I reach a new stage in life – parenthood &lt;a href=&quot;http://www.just2me.com/2015/08/baby-kate-is-born.html&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;http://www.just2me.com/2015/08/baby-kate-is-born.html&#39;, &#39;(baby Kate &#39;);&quot; target=&quot;_blank&quot;&gt;(baby Kate &lt;/a&gt;was born 3 weeks ago)!&lt;/p&gt;
-
-&lt;p&gt;Read more about the app on Medium:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://medium.com/jade-journal/why-i-created-jade-the-journal-app-for-parents-to-co-write-for-children-e4f3bab84a19&quot; onclick=&quot;__gaTracker(&#39;send&#39;, &#39;event&#39;, &#39;outbound-article&#39;, &#39;https://medium.com/jade-journal/why-i-created-jade-the-journal-app-for-parents-to-co-write-for-children-e4f3bab84a19&#39;, &#39;Why I created Jade — the journal app for parents to co-write for children&#39;);&quot; class=&quot;m-story&quot; data-collapsed=&quot;true&quot;&gt;Why I created Jade — the journal app for parents to co-write for children&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
-&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="jade" /><summary>Jade is a journal app for parents to co-write for their children.</summary></entry></feed>
+&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;</content><author><name>Junda Ong</name></author><category term="pookeeper" /><summary></summary></entry></feed>
