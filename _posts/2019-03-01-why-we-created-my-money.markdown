@@ -9,7 +9,7 @@ tags: [My Money]
 published: true
 ---
 
-Our latest app is a personal finance app, helping you track the most important number in regards to your wealth -- **networth**.
+Our [latest app](https://whereismymoney.app) is a personal finance app, helping you track the most important number in regards to your wealth -- **networth**.
 
 (We know _net worth_ is the _correct_ English spelling, but we prefer to use it as one non-breaking word.)
 
