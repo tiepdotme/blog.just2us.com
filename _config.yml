@@ -1,12 +1,12 @@
 # Site settings
 title: Just2us Blog
-header-img: /img/sf-golden-gate.jpg
 email: junda@just2us.com
 copyright_name: Just2us
 author_name: Ong Jun Da
 description: Creating Apps We Love
 baseurl: ""
-url: "http://blog.just2us.com"
+url: https://blog.just2us.com
+
 twitter_username: samwize
 github_username:  samwize
 facebook_username:  ongjunda
@@ -16,6 +16,29 @@ adsense_client: ca-pub-8504591086876220
 adsense_slot: 3185604309
 google_analytics: UA-8780506-1
 
+# Default header image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /img/sf-golden-gate.jpg
+
+# SEO
+twitter:
+  username: samwize
+  card: summary
+author:
+  twitter: samwize
+facebook:
+  admins: 704185456
+social:
+  name: Junda Ong
+  links:
+    - https://twitter.com/samwize
+    - https://www.facebook.com/ongjunda
+    - https://www.linkedin.com/in/junda
+    - https://github.com/samwize
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -23,7 +46,10 @@ permalink: pretty
 paginate: 20
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
 
 kramdown:
   input: GFM

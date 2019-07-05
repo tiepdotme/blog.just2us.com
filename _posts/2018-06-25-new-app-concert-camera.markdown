@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "New App: Concert Camera"
-header-img: http://just2us.com/img/concert-camera-stage-concert.jpg
-header-overlay: true
+image: http://just2us.com/img/concert-camera-stage-concert.jpg
+image-overlay: true
 author: Junda
 date: 2018-06-25T10:41:10+08:00
 tags: [Concert Camera]

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Launching Soon: My Money Mac App"
-header-img: http://just2us.com/img/mymoney-book-records.jpg
-header-overlay: true
+image: http://just2us.com/img/mymoney-book-records.jpg
+image-overlay: true
 author: Junda
 date: 2019-02-27T16:26:42+08:00
 tags: [My Money]

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "App Review Now Bans Facebook Single Sign-On"
-header-img: /img/broken-apple.jpg
-header-overlay: true
+image: /img/broken-apple.jpg
+image-overlay: true
 author: Junda
 date: 2016-09-29T17:20:53+08:00
 tags: [App Review]

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Why we created My Money
-header-img: http://just2us.com/img/mymoney-book-records.jpg
-header-overlay: true
+image: http://just2us.com/img/mymoney-book-records.jpg
+image-overlay: true
 author: Junda
 date: 2019-03-01T08:34:05+08:00
 tags: [My Money]
