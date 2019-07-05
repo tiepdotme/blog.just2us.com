@@ -6,23 +6,32 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Creating Apps We Love">
-    <meta name="author" content="Ong Jun Da">
 
-    <title>How to use MapKit - Just2us Blog</title>
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>How to use MapKit | Just2us Blog</title>
+<meta name="generator" content="Jekyll v3.8.6" />
+<meta property="og:title" content="How to use MapKit" />
+<meta name="author" content="Junda Ong" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Apple seems to lack a MapKit programming guide. I have to look through the MapKit reference, search on the Internet, and read blog articles in order to do a few simple tasks with MapKit." />
+<meta property="og:description" content="Apple seems to lack a MapKit programming guide. I have to look through the MapKit reference, search on the Internet, and read blog articles in order to do a few simple tasks with MapKit." />
+<link rel="canonical" href="https://blog.just2us.com/2010/05/how-to-use-mapkit/" />
+<meta property="og:url" content="https://blog.just2us.com/2010/05/how-to-use-mapkit/" />
+<meta property="og:site_name" content="Just2us Blog" />
+<meta property="og:image" content="https://blog.just2us.com/img/sf-golden-gate.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2010-05-23T08:15:52+08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://blog.just2us.com/img/sf-golden-gate.jpg" />
+<meta property="twitter:title" content="How to use MapKit" />
+<meta name="twitter:site" content="@samwize" />
+<meta name="twitter:creator" content="@Junda Ong" />
+<meta property="fb:admins" content="704185456" />
+<script type="application/ld+json">
+{"description":"Apple seems to lack a MapKit programming guide. I have to look through the MapKit reference, search on the Internet, and read blog articles in order to do a few simple tasks with MapKit.","author":{"@type":"Person","name":"Junda Ong"},"@type":"BlogPosting","url":"https://blog.just2us.com/2010/05/how-to-use-mapkit/","image":"https://blog.just2us.com/img/sf-golden-gate.jpg","headline":"How to use MapKit","dateModified":"2010-05-23T08:15:52+08:00","datePublished":"2010-05-23T08:15:52+08:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.just2us.com/2010/05/how-to-use-mapkit/"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-    <link rel="canonical" href="http://blog.just2us.com/2010/05/how-to-use-mapkit/">
 
-    <!-- Facebook markup -->
-    <meta property="og:title" content="How to use MapKit">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="http://blog.just2us.com/2010/05/how-to-use-mapkit/">
-    
-    
-    <meta property="og:image" content="http://blog.just2us.com/img/sf-golden-gate.jpg">
-    <meta property="og:description" content="Apple seems to lack a MapKit programming guide. I have to look through the MapKit reference, search on the Internet, and read blog articles in order to do a ...">
-    <meta property="og:site_name" content="Just2us Blog">
-    
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
@@ -44,7 +53,7 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <link type="application/atom+xml" rel="alternate" href="http://blog.just2us.com/feed.xml" title="Just2us Blog" />
+    <link type="application/atom+xml" rel="alternate" href="https://blog.just2us.com/feed.xml" title="Just2us Blog" />
 
 </head>
 
@@ -116,7 +125,7 @@
 
 <p> </p>
 
-<h4 id="adding-a-map-view">1. Adding a map view</h4>
+<h4 id="1-adding-a-map-view">1. Adding a map view</h4>
 
 <p>If you simply want to add a map to your view, simply create a MKMapView object and insert it. That’s our first big step!&lt;/p&gt;</p>
 
@@ -137,7 +146,7 @@
 
 <p> </p>
 
-<h4 id="configuring-the-map">2. Configuring the map</h4>
+<h4 id="2-configuring-the-map">2. Configuring the map</h4>
 
 <p>With a map, you could now configure various aspects by setting the mapView properties. Examples below:</p>
 
@@ -173,7 +182,7 @@
 
 <p> </p>
 
-<h4 id="showing-the-user8217s-location">3. Showing the user’s location</h4>
+<h4 id="3-showing-the-users-location">3. Showing the user’s location</h4>
 
 <p>To show the user’s location on the map, we set this one special property.</p>
 
@@ -190,7 +199,7 @@
 
 <p> </p>
 
-<h4 id="creating-custom-annotationslandmarks">4. Creating custom annotations/landmarks</h4>
+<h4 id="4-creating-custom-annotationslandmarks">4. Creating custom annotations/landmarks</h4>
 
 <p>If you want to display some landmarks, aka annotations, on the map, you will need to create your annotation class that implement the MKAnnotation protocols.</p>
 
@@ -238,7 +247,7 @@
 
 <p> </p>
 
-<h4 id="adding-annotations-to-the-map">5. Adding annotations to the map</h4>
+<h4 id="5-adding-annotations-to-the-map">5. Adding annotations to the map</h4>
 
 <p>To add the annotations to the map, you would create the ShopAnnotation earlier and add them to mapView.</p>
 
@@ -257,7 +266,7 @@
 
 <p> </p>
 
-<h4 id="handling-the-annotation-views">6. Handling the annotation views</h4>
+<h4 id="6-handling-the-annotation-views">6. Handling the annotation views</h4>
 
 <p>Annotations are not views. After you added your annotations to the map, you would still need to provide its views. The mapView delegate methods will be called to ask for your annotations’ VIEWS. You will need to create the view and return it for mapView to display.</p>
 
@@ -301,7 +310,7 @@
 
 <p> </p>
 
-<h4 id="selecting-a-pin">7. Selecting a pin</h4>
+<h4 id="7-selecting-a-pin">7. Selecting a pin</h4>
 
 <p>When a user selects a pin and press the UIButtonTypeDetailDisclosure button within the callout, we can present more details about the annotation. Implement another MKMapViewDelegate to handle this.</p>
 
@@ -319,7 +328,7 @@
 
 <p> </p>
 
-<h4 id="open-maps-app">8. Open Maps app</h4>
+<h4 id="8-open-maps-app">8. Open Maps app</h4>
 
 <p>If want to provide a route from the user location to the selected annotation, you would need the help of iPhone’s Maps app. This means that your app will exit and Maps app will be opened, with you telling Maps the source and destination to route.</p>
 
@@ -410,6 +419,7 @@
 </article>
 
 <hr>
+
 
     <!-- Footer -->
 <footer>

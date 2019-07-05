@@ -6,23 +6,32 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Creating Apps We Love">
-    <meta name="author" content="Ong Jun Da">
 
-    <title>How to obfuscate an Android application - Just2us Blog</title>
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>How to obfuscate an Android application | Just2us Blog</title>
+<meta name="generator" content="Jekyll v3.8.6" />
+<meta property="og:title" content="How to obfuscate an Android application" />
+<meta name="author" content="Junda Ong" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="There is no easy way to obfuscate Java classes of an Android app. This is no Eclipse plugin, nor even a working ant script." />
+<meta property="og:description" content="There is no easy way to obfuscate Java classes of an Android app. This is no Eclipse plugin, nor even a working ant script." />
+<link rel="canonical" href="https://blog.just2us.com/2009/07/tutorial-obfuscate-an-android-application/" />
+<meta property="og:url" content="https://blog.just2us.com/2009/07/tutorial-obfuscate-an-android-application/" />
+<meta property="og:site_name" content="Just2us Blog" />
+<meta property="og:image" content="https://blog.just2us.com/img/sf-golden-gate.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2009-07-21T09:57:54+08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://blog.just2us.com/img/sf-golden-gate.jpg" />
+<meta property="twitter:title" content="How to obfuscate an Android application" />
+<meta name="twitter:site" content="@samwize" />
+<meta name="twitter:creator" content="@Junda Ong" />
+<meta property="fb:admins" content="704185456" />
+<script type="application/ld+json">
+{"description":"There is no easy way to obfuscate Java classes of an Android app. This is no Eclipse plugin, nor even a working ant script.","author":{"@type":"Person","name":"Junda Ong"},"@type":"BlogPosting","url":"https://blog.just2us.com/2009/07/tutorial-obfuscate-an-android-application/","image":"https://blog.just2us.com/img/sf-golden-gate.jpg","headline":"How to obfuscate an Android application","dateModified":"2009-07-21T09:57:54+08:00","datePublished":"2009-07-21T09:57:54+08:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.just2us.com/2009/07/tutorial-obfuscate-an-android-application/"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-    <link rel="canonical" href="http://blog.just2us.com/2009/07/tutorial-obfuscate-an-android-application/">
 
-    <!-- Facebook markup -->
-    <meta property="og:title" content="How to obfuscate an Android application">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="http://blog.just2us.com/2009/07/tutorial-obfuscate-an-android-application/">
-    
-    
-    <meta property="og:image" content="http://blog.just2us.com/img/sf-golden-gate.jpg">
-    <meta property="og:description" content="There is no easy way to obfuscate Java classes of an Android app. This is no Eclipse plugin, nor even a working ant script.">
-    <meta property="og:site_name" content="Just2us Blog">
-    
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
@@ -44,7 +53,7 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <link type="application/atom+xml" rel="alternate" href="http://blog.just2us.com/feed.xml" title="Just2us Blog" />
+    <link type="application/atom+xml" rel="alternate" href="https://blog.just2us.com/feed.xml" title="Just2us Blog" />
 
 </head>
 
@@ -114,7 +123,7 @@
 
 <p> </p>
 
-<h3 id="create-a-project">1 Create a Project</h3>
+<h3 id="1-create-a-project">1 Create a Project</h3>
 
 <p>From the Terminal, in /android-sdk/tools/, run:</p>
 
@@ -124,7 +133,7 @@
 
 <p> </p>
 
-<h3 id="edit-buildxml">2 Edit build.xml</h3>
+<h3 id="2-edit-buildxml">2 Edit build.xml</h3>
 
 <p>Replace the build.xml with <a href="http://blog.just2us.com/wp-content/uploads/2009/07/build.xml" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.just2us.com/wp-content/uploads/2009/07/build.xml', 'my modified build.xml');">my modified build.xml</a>, which is the most important item in this tutorial. The obfuscation work is in the optimize target as seen below.</p>
 
@@ -143,7 +152,7 @@
 
 <p> </p>
 
-<h4 id="run-ant">3 Run ant</h4>
+<h4 id="3-run-ant">3 Run ant</h4>
 
 <p>The last step is to simply run the ant script!</p>
 
@@ -223,6 +232,7 @@
 </article>
 
 <hr>
+
 
     <!-- Footer -->
 <footer>

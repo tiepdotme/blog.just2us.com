@@ -6,23 +6,32 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Creating Apps We Love">
-    <meta name="author" content="Ong Jun Da">
 
-    <title>How to create multiple targets for Xcode iPhone Projects - Just2us Blog</title>
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>How to create multiple targets for Xcode iPhone Projects | Just2us Blog</title>
+<meta name="generator" content="Jekyll v3.8.6" />
+<meta property="og:title" content="How to create multiple targets for Xcode iPhone Projects" />
+<meta name="author" content="Junda Ong" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="If you want to build multiple versions of an application from a single Xcode project, you would want to cerate multiple targets. For example, when you want to release a free version and also a paid version, you should create 2 targets in that Xcode project." />
+<meta property="og:description" content="If you want to build multiple versions of an application from a single Xcode project, you would want to cerate multiple targets. For example, when you want to release a free version and also a paid version, you should create 2 targets in that Xcode project." />
+<link rel="canonical" href="https://blog.just2us.com/2009/07/tutorial-creating-multiple-targets-for-xcode-iphone-projects/" />
+<meta property="og:url" content="https://blog.just2us.com/2009/07/tutorial-creating-multiple-targets-for-xcode-iphone-projects/" />
+<meta property="og:site_name" content="Just2us Blog" />
+<meta property="og:image" content="https://blog.just2us.com/img/sf-golden-gate.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2009-07-15T06:09:03+08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://blog.just2us.com/img/sf-golden-gate.jpg" />
+<meta property="twitter:title" content="How to create multiple targets for Xcode iPhone Projects" />
+<meta name="twitter:site" content="@samwize" />
+<meta name="twitter:creator" content="@Junda Ong" />
+<meta property="fb:admins" content="704185456" />
+<script type="application/ld+json">
+{"description":"If you want to build multiple versions of an application from a single Xcode project, you would want to cerate multiple targets. For example, when you want to release a free version and also a paid version, you should create 2 targets in that Xcode project.","author":{"@type":"Person","name":"Junda Ong"},"@type":"BlogPosting","url":"https://blog.just2us.com/2009/07/tutorial-creating-multiple-targets-for-xcode-iphone-projects/","image":"https://blog.just2us.com/img/sf-golden-gate.jpg","headline":"How to create multiple targets for Xcode iPhone Projects","dateModified":"2009-07-15T06:09:03+08:00","datePublished":"2009-07-15T06:09:03+08:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.just2us.com/2009/07/tutorial-creating-multiple-targets-for-xcode-iphone-projects/"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-    <link rel="canonical" href="http://blog.just2us.com/2009/07/tutorial-creating-multiple-targets-for-xcode-iphone-projects/">
 
-    <!-- Facebook markup -->
-    <meta property="og:title" content="How to create multiple targets for Xcode iPhone Projects">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="http://blog.just2us.com/2009/07/tutorial-creating-multiple-targets-for-xcode-iphone-projects/">
-    
-    
-    <meta property="og:image" content="http://blog.just2us.com/img/sf-golden-gate.jpg">
-    <meta property="og:description" content="If you want to build multiple versions of an application from a single Xcode project, you would want to cerate multiple targets. For example, when you want t...">
-    <meta property="og:site_name" content="Just2us Blog">
-    
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
@@ -44,7 +53,7 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <link type="application/atom+xml" rel="alternate" href="http://blog.just2us.com/feed.xml" title="Just2us Blog" />
+    <link type="application/atom+xml" rel="alternate" href="https://blog.just2us.com/feed.xml" title="Just2us Blog" />
 
 </head>
 
@@ -114,7 +123,7 @@
 
 <p> </p>
 
-<h4 id="create-a-new-target">1 Create a New Target</h4>
+<h4 id="1-create-a-new-target">1 Create a New Target</h4>
 
 <p>Lets assume we have an application call “Flowers”, which is a paid version. And we would want to create a lite version that has some reduced functionality but is free. It is to note that both the paid version and lite version would share the same code, with only some differences.</p>
 
@@ -136,7 +145,7 @@
 
 <p> </p>
 
-<h4 id="infoplist">2 Info.plist</h4>
+<h4 id="2-infoplist">2 Info.plist</h4>
 
 <p>We could define properties, such as application name and icon files, for each of the target. Figure 3 below shows “Flowers-Info.plist” for the full version.</p>
 
@@ -152,7 +161,7 @@
 
 <p> </p>
 
-<h4 id="writing-preprocessor-codes">3 Writing Preprocessor Codes</h4>
+<h4 id="3-writing-preprocessor-codes">3 Writing Preprocessor Codes</h4>
 
 <p>Preprocessor codes are used to determine which code would be used during compile time. You may want different targets to run different section of the codes using preprocessor codes. For illustration, we will add a LITE_VERSION definition to the lite version.</p>
 
@@ -176,7 +185,7 @@
 
 <p> </p>
 
-<h3 id="managing-resources">4 Managing Resources</h3>
+<h3 id="4-managing-resources">4 Managing Resources</h3>
 
 <p>You could copy different resources (having same name but different) to the targets. Resource could refer to xib files, images, etc.</p>
 
@@ -184,7 +193,7 @@
 
 <p> </p>
 
-<h4 id="build-for-distribution">5 Build for Distribution</h4>
+<h4 id="5-build-for-distribution">5 Build for Distribution</h4>
 
 <p>When you are ready to compile the application for submission to iTunesconnect (release distribution), there is one last important thing worth checking.</p>
 
@@ -262,6 +271,7 @@
 </article>
 
 <hr>
+
 
     <!-- Footer -->
 <footer>

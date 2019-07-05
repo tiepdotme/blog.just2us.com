@@ -6,23 +6,32 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Creating Apps We Love">
-    <meta name="author" content="Ong Jun Da">
 
-    <title>How to flash a Hero ROM onto ADP1 (dev phone) - Just2us Blog</title>
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>How to flash a Hero ROM onto ADP1 (dev phone) | Just2us Blog</title>
+<meta name="generator" content="Jekyll v3.8.6" />
+<meta property="og:title" content="How to flash a Hero ROM onto ADP1 (dev phone)" />
+<meta name="author" content="Junda Ong" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This post describes my experience in flashing a Hero ROM onto a ADP1 Google’s development phone, also known as a G1 or HTC Dream." />
+<meta property="og:description" content="This post describes my experience in flashing a Hero ROM onto a ADP1 Google’s development phone, also known as a G1 or HTC Dream." />
+<link rel="canonical" href="https://blog.just2us.com/2009/11/how-to-flash-a-hero-rom-onto-adp1-dev-phone/" />
+<meta property="og:url" content="https://blog.just2us.com/2009/11/how-to-flash-a-hero-rom-onto-adp1-dev-phone/" />
+<meta property="og:site_name" content="Just2us Blog" />
+<meta property="og:image" content="https://blog.just2us.com/img/sf-golden-gate.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2009-11-05T08:43:10+08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://blog.just2us.com/img/sf-golden-gate.jpg" />
+<meta property="twitter:title" content="How to flash a Hero ROM onto ADP1 (dev phone)" />
+<meta name="twitter:site" content="@samwize" />
+<meta name="twitter:creator" content="@Junda Ong" />
+<meta property="fb:admins" content="704185456" />
+<script type="application/ld+json">
+{"description":"This post describes my experience in flashing a Hero ROM onto a ADP1 Google’s development phone, also known as a G1 or HTC Dream.","author":{"@type":"Person","name":"Junda Ong"},"@type":"BlogPosting","url":"https://blog.just2us.com/2009/11/how-to-flash-a-hero-rom-onto-adp1-dev-phone/","image":"https://blog.just2us.com/img/sf-golden-gate.jpg","headline":"How to flash a Hero ROM onto ADP1 (dev phone)","dateModified":"2009-11-05T08:43:10+08:00","datePublished":"2009-11-05T08:43:10+08:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.just2us.com/2009/11/how-to-flash-a-hero-rom-onto-adp1-dev-phone/"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-    <link rel="canonical" href="http://blog.just2us.com/2009/11/how-to-flash-a-hero-rom-onto-adp1-dev-phone/">
 
-    <!-- Facebook markup -->
-    <meta property="og:title" content="How to flash a Hero ROM onto ADP1 (dev phone)">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="http://blog.just2us.com/2009/11/how-to-flash-a-hero-rom-onto-adp1-dev-phone/">
-    
-    
-    <meta property="og:image" content="http://blog.just2us.com/img/sf-golden-gate.jpg">
-    <meta property="og:description" content="This post describes my experience in flashing a Hero ROM onto a ADP1 Google’s development phone, also known as a G1 or HTC Dream.">
-    <meta property="og:site_name" content="Just2us Blog">
-    
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
@@ -44,7 +53,7 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <link type="application/atom+xml" rel="alternate" href="http://blog.just2us.com/feed.xml" title="Just2us Blog" />
+    <link type="application/atom+xml" rel="alternate" href="https://blog.just2us.com/feed.xml" title="Just2us Blog" />
 
 </head>
 
@@ -139,12 +148,13 @@
   <li>At home screen, press enter &gt; pause for a second &gt; press enter &gt; type “telnetd” (if it is doing a contact search, you are correct) &gt; press enter.</li>
   <li>Go to Market, search for “telnet” and install</li>
   <li>Launch telnet and connect</li>
-  <li>
-    <p>Enter the commands:<br />
-&gt; mount -o rw,remount -t yaffs2 /dev/block/mtdblock3 /system  <br />
-&gt; cd /sdcard  <br />
-&gt; flash_image recovery cm-recovery-1.4.img  <br />
-&gt; cat cm-recovery-1.4.img &gt; /system/recovery.img</p>
+  <li>Enter the commands:
+    <blockquote>
+      <p>mount -o rw,remount -t yaffs2 /dev/block/mtdblock3 /system  <br />
+cd /sdcard  <br />
+flash_image recovery cm-recovery-1.4.img  <br />
+cat cm-recovery-1.4.img &gt; /system/recovery.img</p>
+    </blockquote>
   </li>
   <li>Power off</li>
   <li>Press and hold Home + Power</li>
@@ -180,9 +190,10 @@
   <li>Download <a href="http://www.4shared.com/file/139646917/5695730f/sdparted.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.4shared.com/file/139646917/5695730f/sdparted.html', 'sdparted.txt');">sdparted.txt</a> and copy to root of sdcard</li>
   <li>Reboot to recovery</li>
   <li>Select console mode (Alt-x)</li>
-  <li>
-    <p>Enter the commands:<br />
-&gt; <font face="mon">mount /sdcard<br />cp /sdcard/sdparted.txt /sbin/sdparted<br />chmod 755 /sbin/sdparted<br />sdparted -efs ext4 -ss 150M</font></p>
+  <li>Enter the commands:
+    <blockquote>
+      <font face="mon">mount /sdcard<br />cp /sdcard/sdparted.txt /sbin/sdparted<br />chmod 755 /sbin/sdparted<br />sdparted -efs ext4 -ss 150M</font>
+    </blockquote>
   </li>
   <li>Continue with execution of the script</li>
   <li>Enter the command “reboot recovery”</li>
@@ -301,6 +312,7 @@
 </article>
 
 <hr>
+
 
     <!-- Footer -->
 <footer>
