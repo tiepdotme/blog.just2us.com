@@ -24,6 +24,7 @@ defaults:
       image: /img/sf-golden-gate.jpg
 
 # SEO
+logo: /img/favicon-192.png
 twitter:
   username: samwize
   card: summary
