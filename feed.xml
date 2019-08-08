@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2019-07-05T11:04:28+08:00</updated><id>https://blog.just2us.com/feed.xml</id><title type="html">Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><author><name>{&quot;twitter&quot;=&gt;&quot;samwize&quot;}</name></author><entry><title type="html">Shiny New SG 4D+</title><link href="https://blog.just2us.com/2019/05/22/shiny-new-sg-4d/" rel="alternate" type="text/html" title="Shiny New SG 4D+" /><published>2019-05-22T14:53:59+08:00</published><updated>2019-05-22T14:53:59+08:00</updated><id>https://blog.just2us.com/2019/05/22/shiny-new-sg-4d</id><content type="html" xml:base="https://blog.just2us.com/2019/05/22/shiny-new-sg-4d/">&lt;p&gt;SG 4D+ is a new app, developed from the ground up, with a beautiful UI that will be fitting &lt;em&gt;for even iOS 13&lt;/em&gt;. You can &lt;a href=&quot;https://itunes.apple.com/app/id1460105403?at=11luru&quot;&gt;pre-order now&lt;/a&gt;, and it will be ready by May 28!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2019-08-08T13:36:15+08:00</updated><id>https://blog.just2us.com/feed.xml</id><title type="html">Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><author><name>{&quot;twitter&quot;=&gt;&quot;samwize&quot;}</name></author><entry><title type="html">New in SG Radio: Fast Forward and Rename Recordings</title><link href="https://blog.just2us.com/2019/08/08/new-in-sg-radio-fast-forward-and-rename-recordings/" rel="alternate" type="text/html" title="New in SG Radio: Fast Forward and Rename Recordings" /><published>2019-08-08T11:54:52+08:00</published><updated>2019-08-08T11:54:52+08:00</updated><id>https://blog.just2us.com/2019/08/08/new-in-sg-radio-fast-forward-and-rename-recordings</id><content type="html" xml:base="https://blog.just2us.com/2019/08/08/new-in-sg-radio-fast-forward-and-rename-recordings/">&lt;p&gt;In the &lt;a href=&quot;https://just2us.com/sgradio/&quot;&gt;latest release v2.17&lt;/a&gt;, we have added more controls to playing back your recordings.&lt;/p&gt;
+
+&lt;p&gt;You can now easily fast forward/rewind the recorded track.&lt;/p&gt;
+
+&lt;p&gt;And you can now conveniently rename them! No more &lt;em&gt;“UFM 1003 #123”&lt;/em&gt; kind of titles :)&lt;/p&gt;
+
+&lt;iframe width=&quot;315&quot; height=&quot;560&quot; src=&quot;https://www.youtube.com/embed/Y7tivJnwBOM?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Happy birthday Singapore ♥️&lt;/p&gt;</content><author><name>Junda</name></author><category term="SG Radio" /><summary type="html">In the latest release v2.17, we have added more controls to playing back your recordings.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.just2us.com/img/sf-golden-gate.jpg" /></entry><entry><title type="html">Shiny New SG 4D+</title><link href="https://blog.just2us.com/2019/05/22/shiny-new-sg-4d/" rel="alternate" type="text/html" title="Shiny New SG 4D+" /><published>2019-05-22T14:53:59+08:00</published><updated>2019-05-22T14:53:59+08:00</updated><id>https://blog.just2us.com/2019/05/22/shiny-new-sg-4d</id><content type="html" xml:base="https://blog.just2us.com/2019/05/22/shiny-new-sg-4d/">&lt;p&gt;SG 4D+ is a new app, developed from the ground up, with a beautiful UI that will be fitting &lt;em&gt;for even iOS 13&lt;/em&gt;. You can &lt;a href=&quot;https://itunes.apple.com/app/id1460105403?at=11luru&quot;&gt;pre-order now&lt;/a&gt;, and it will be ready by May 28!&lt;/p&gt;
 
 &lt;p&gt;SG 4D was first launched for the first iPhone &lt;a href=&quot;/2009/05/sg-4d/&quot;&gt;way back in 2009&lt;/a&gt;. It has gone through several versions in the last 10 years, and this time it will be version 4.&lt;/p&gt;
 
@@ -318,54 +326,4 @@
 &lt;p&gt;It is true that Apple &lt;a href=&quot;https://medium.com/@krave/apple-s-app-store-review-process-is-hurting-users-but-we-re-not-allowed-to-talk-about-it-55d791451b&quot; onclick=&quot;__gaTracker('send', 'event', 'outbound-article', 'https://medium.com/@krave/apple-s-app-store-review-process-is-hurting-users-but-we-re-not-allowed-to-talk-about-it-55d791451b', 'review process is hurting us');&quot;&gt;review process is hurting us&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&quot;font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both&quot;&gt;
-&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="radio" /><summary type="html">The Hong Kong version is the third, or the trilogy, of the radio app series.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.just2us.com/img/sf-golden-gate.jpg" /></entry><entry><title type="html">Baby Log — another app for new parents</title><link href="https://blog.just2us.com/2015/12/baby-log%20-%20another-app-for-new-parents/" rel="alternate" type="text/html" title="Baby Log — another app for new parents" /><published>2015-12-17T20:22:40+08:00</published><updated>2015-12-17T20:22:40+08:00</updated><id>https://blog.just2us.com/2015/12/baby-log%20-%20another-app-for-new-parents</id><content type="html" xml:base="https://blog.just2us.com/2015/12/baby-log%20-%20another-app-for-new-parents/">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://blog.jade2us.com/baby-log-another-app-for-new-parents-984696d02152#.5u5t1emw5&quot;&gt;Originally posted on Medium:&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Shortly after launching &lt;a href=&quot;http://jade2us.com/&quot;&gt;Jade&lt;/a&gt;, I started on a new app.&lt;/p&gt;
-
-&lt;p&gt;While Jade is a great journal app to pen down memorable moments with your child, logging mundane stuff — feedings, diaper change, weight, etc— is best logged somewhere else.&lt;/p&gt;
-
-&lt;p&gt;I use a note book and physically record these mundane stuff.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/babylog-notebook.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On a typical day, I could record up to 8 feedings and 8 diaper change! That’s a lot of times I have to flip open the book, and write down the time and details.&lt;/p&gt;
-
-&lt;h2 id=&quot;benefits-of-logging&quot;&gt;Benefits of logging&lt;/h2&gt;
-
-&lt;p&gt;I am not a believer of logging too much. I didn’t want to log in a book at first..&lt;/p&gt;
-
-&lt;p&gt;But after a few loud shrieks that left me totally clueless on &lt;em&gt;WHY ARE YOU CRYING&lt;/em&gt;, I decided it is best that we (all caregivers) know:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;when and how much was the baby last fed?&lt;/li&gt;
-  &lt;li&gt;when was the last diaper change?&lt;/li&gt;
-  &lt;li&gt;when and how long was the sleep?&lt;/li&gt;
-  &lt;li&gt;is there constipation?&lt;/li&gt;
-  &lt;li&gt;is baby gaining weight normally?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Turned out keeping a log book answer these questions.&lt;/p&gt;
-
-&lt;p&gt;And so I turned the log book into an app (:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/babylog-appicon.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;download-baby-log&quot;&gt;Download Baby Log&lt;/h2&gt;
-
-&lt;p&gt;There are many similar apps that tracks the same thing. One of the most popular is &lt;a href=&quot;https://itunes.apple.com/app/id326574411?mt=8&quot;&gt;Baby Connect&lt;/a&gt; (formally Activity Logger), which cost US$4.99, but I find it complex to use.&lt;/p&gt;
-
-&lt;p class=&quot;caption&quot;&gt;&lt;img src=&quot;/img/babyconnect-dashboard.png&quot; alt=&quot;&quot; /&gt; Baby Connect’s Dashboard&lt;/p&gt;
-
-&lt;p&gt;Perhaps they are too comprehensive, had too many different data to show/add, therefore a glance at their Dashboard makes me dizzy..&lt;/p&gt;
-
-&lt;p&gt;And so I designed Baby Log to be elegant and fast to use.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/babylog-screenshots.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I also designed the Photo album to display Kate’s photos with her age, so we can see her growing beautifully (:&lt;/p&gt;
-
-&lt;p&gt;Baby Log is a paid app, at US$1.99. Find out more from the &lt;a href=&quot;https://itunes.apple.com/app/id1065722243?at=11luru&quot;&gt;App Store&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You can also use one of the &lt;a href=&quot;http://codehookup.com/ffc8d7fe&quot;&gt;2O promo codes&lt;/a&gt; to download for FREE, if you are lucky.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Also, check out &lt;a href=&quot;http://jade2us.com/&quot;&gt;Jade&lt;/a&gt;, a free app for parents to co-write a journal for their child.&lt;/em&gt;&lt;/p&gt;</content><author><name>Junda Ong</name></author><category term="Baby Log" /><summary type="html">Originally posted on Medium:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.just2us.com/img/sf-golden-gate.jpg" /></entry></feed>
+&lt;/div&gt;</content><author><name>Junda Ong</name></author><category term="radio" /><summary type="html">The Hong Kong version is the third, or the trilogy, of the radio app series.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.just2us.com/img/sf-golden-gate.jpg" /></entry></feed>
