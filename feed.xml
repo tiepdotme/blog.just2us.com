@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2019-09-19T23:55:31+08:00</updated><id>https://blog.just2us.com/feed.xml</id><title type="html">Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><author><name>{&quot;twitter&quot;=&gt;&quot;samwize&quot;}</name></author><entry><title type="html">We Made an App to Record Front &amp;amp; Back Cameras Simultaneously</title><link href="https://blog.just2us.com/2019/09/17/we-made-an-app-to-record-front-and-back-cameras-simultaneously/" rel="alternate" type="text/html" title="We Made an App to Record Front &amp; Back Cameras Simultaneously" /><published>2019-09-17T11:58:45+08:00</published><updated>2019-09-17T11:58:45+08:00</updated><id>https://blog.just2us.com/2019/09/17/we-made-an-app-to-record-front-and-back-cameras-simultaneously</id><content type="html" xml:base="https://blog.just2us.com/2019/09/17/we-made-an-app-to-record-front-and-back-cameras-simultaneously/">&lt;p&gt;Every phone now has at least 2 cameras - the main camera and the selfie camera (&lt;em&gt;while the latest iPhone 11 has &lt;strong&gt;4 cameras&lt;/strong&gt;&lt;/em&gt;)!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2019-09-25T16:21:28+08:00</updated><id>https://blog.just2us.com/feed.xml</id><title type="html">Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><author><name>{&quot;twitter&quot;=&gt;&quot;samwize&quot;}</name></author><entry><title type="html">Fix for Apple Store ‘Payment Not Completed’</title><link href="https://blog.just2us.com/2019/09/25/fix-for-apple-store-payment-not-completed/" rel="alternate" type="text/html" title="Fix for Apple Store 'Payment Not Completed'" /><published>2019-09-25T16:05:55+08:00</published><updated>2019-09-25T16:05:55+08:00</updated><id>https://blog.just2us.com/2019/09/25/fix-for-apple-store-payment-not-completed</id><content type="html" xml:base="https://blog.just2us.com/2019/09/25/fix-for-apple-store-payment-not-completed/">&lt;p&gt;We have observed that App Store frequently has an error when paying for an in-app purchase. We have a few &lt;a href=&quot;https://dualgram.com&quot;&gt;Dualgram&lt;/a&gt; users who have encountered the error at the point of purchase.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Payment not completed&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Or in Spanish:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Pago no completado&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/app-store-error-not-completed.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-fix&quot;&gt;The Fix&lt;/h2&gt;
+
+&lt;p&gt;It turns out this got to do with Face ID bug.&lt;/p&gt;
+
+&lt;p&gt;Somehow, App Store abort the purchase.&lt;/p&gt;
+
+&lt;p&gt;A quick solution is to disable the use of Face ID for App Store purchases.&lt;/p&gt;
+
+&lt;p&gt;Go to Settings &amp;gt; Face ID &amp;amp; Passcode &amp;gt; disable for &lt;strong&gt;iTunes &amp;amp; App Store&lt;/strong&gt;, then try to purchase again.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/app-store-disable-face-id.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re new here, check out our &lt;a href=&quot;/2019/09/17/we-made-an-app-to-record-front-and-back-cameras-simultaneously/&quot;&gt;latest camera app&lt;/a&gt; that records from multiple cameras on your iPhone!&lt;/p&gt;</content><author><name>Junda</name></author><category term="App Store" /><summary type="html">We have observed that App Store frequently has an error when paying for an in-app purchase. We have a few Dualgram users who have encountered the error at the point of purchase.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.just2us.com/img/sf-golden-gate.jpg" /></entry><entry><title type="html">We Made an App to Record Front &amp;amp; Back Cameras Simultaneously</title><link href="https://blog.just2us.com/2019/09/17/we-made-an-app-to-record-front-and-back-cameras-simultaneously/" rel="alternate" type="text/html" title="We Made an App to Record Front &amp; Back Cameras Simultaneously" /><published>2019-09-17T11:58:45+08:00</published><updated>2019-09-17T11:58:45+08:00</updated><id>https://blog.just2us.com/2019/09/17/we-made-an-app-to-record-front-and-back-cameras-simultaneously</id><content type="html" xml:base="https://blog.just2us.com/2019/09/17/we-made-an-app-to-record-front-and-back-cameras-simultaneously/">&lt;p&gt;Every phone now has at least 2 cameras - the main camera and the selfie camera (&lt;em&gt;while the latest iPhone 11 has &lt;strong&gt;4 cameras&lt;/strong&gt;&lt;/em&gt;)!&lt;/p&gt;
 
 &lt;p&gt;But have you ever wonder if you can use MULTIPLE cameras at the same time?&lt;/p&gt;
 
@@ -268,47 +294,4 @@
 
 &lt;p&gt;We are &lt;del&gt;now&lt;/del&gt; always at the mercy of Apple.&lt;/p&gt;
 
-&lt;p&gt;Hope we can have more &lt;a href=&quot;http://stackoverflow.com/q/39432453/242682&quot;&gt;answers&lt;/a&gt;.&lt;/p&gt;</content><author><name>Junda</name></author><category term="App Review" /><summary type="html">If you are using Facebook SDK only for it’s account login, and you didn’t provide your own login mechanism.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.just2us.com/img/broken-apple.jpg" /></entry><entry><title type="html">First Bot App - Didi for SG 4D</title><link href="https://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d/" rel="alternate" type="text/html" title="First Bot App - Didi for SG 4D" /><published>2016-06-05T15:10:37+08:00</published><updated>2016-06-05T15:10:37+08:00</updated><id>https://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d</id><content type="html" xml:base="https://blog.just2us.com/2016/06/05/first-bot-app-didi-sg-4d/">&lt;h2 id=&quot;introducing-didi-the-sg-4d-bot&quot;&gt;Introducing &lt;em&gt;Didi&lt;/em&gt; the SG 4D Bot&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Didi&lt;/em&gt; is the name our SG 4D bot.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Didi&lt;/em&gt; is capable of telling you the latest 4D results, or any other results since 1986!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.messenger.com/t/sgx4d/&quot;&gt;Start a chat&lt;/a&gt; on Facebook Messenger, or click this button:&lt;/p&gt;
-
-&lt;div class=&quot;fb-messengermessageus col-lg-offset-4 col-lg-4 col-md-4 col-md-offset-4&quot; messenger_app_id=&quot;102125519823247&quot; page_id=&quot;1080193802040060&quot; color=&quot;blue&quot; size=&quot;xlarge&quot;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;script&gt;
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '102125519823247',
-      xfbml      : true,
-      version    : 'v2.6'
-    });
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = &quot;//connect.facebook.net/en_US/sdk.js&quot;;
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-&lt;/script&gt;
-
-&lt;p&gt;&lt;em&gt;This is the first version of Didi, so what this little bot can understand is very limited, for now. But the more you talk to it, the more it will learn. So be patient and help Didi grow!&lt;/em&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/c4T1qM_D3nY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;on-facebook-bot-review&quot;&gt;On Facebook Bot Review&lt;/h2&gt;
-
-&lt;p&gt;Following a &lt;a href=&quot;/2016/05/28/here-comes-a-new-gatekeeper-facebook-messenger-bot-reviewers/&quot;&gt;failed attempt&lt;/a&gt; with Facebook bot reviewer, SG 4D bot app was approved on second try!&lt;/p&gt;
-
-&lt;p&gt;Not so bad after all.&lt;/p&gt;
-
-&lt;p&gt;But I still have reservation seeing how the second reviewer test my bot. He did not re-test with &lt;em&gt;hello&lt;/em&gt; (which the bot failed to handle at first).&lt;/p&gt;
-
-&lt;p&gt;In fact he only &lt;a href=&quot;/img/sg4d-bot-second-review.png&quot;&gt;sent 2 messages&lt;/a&gt;, and he is happy?&lt;/p&gt;</content><author><name>Junda</name></author><category term="SG 4D" /><category term="Bot" /><summary type="html">Introducing Didi the SG 4D Bot</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.just2us.com/img/sf-golden-gate.jpg" /></entry></feed>
+&lt;p&gt;Hope we can have more &lt;a href=&quot;http://stackoverflow.com/q/39432453/242682&quot;&gt;answers&lt;/a&gt;.&lt;/p&gt;</content><author><name>Junda</name></author><category term="App Review" /><summary type="html">If you are using Facebook SDK only for it’s account login, and you didn’t provide your own login mechanism.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.just2us.com/img/broken-apple.jpg" /></entry></feed>
