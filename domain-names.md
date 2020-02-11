@@ -12,35 +12,31 @@ dsq_thread_id:
 
 ## Not Yet In Use
 
-#### [crusk.com](https://crusk.com)
+#### [crusk.com](http://crusk.com)
 
 [Brandable](http://www.brandbucket.com/crusk/) name that sounds like crux/crush
 
-#### [okloh.com](https://okloh.com)
+#### [okloh.com](http://okloh.com)
 
-&#8220;ok loh&#8221; &#8211; the singaporean way of saying ok with poise
+_"ok loh"_ -- the singaporean way of saying ok with poise
 
-#### [wahhh.com](https://wahhh.com)
+#### [wahhh.com](http://wahhh.com)
 
 Really Wahhh~ Any apps that has wow factor can use this.
 
-#### [dajournal.com](https://dajournal.com)
-
-Da Journal app you need
-
-#### [journal.rocks](https://journal.rocks)
+#### [journal.rocks](http://journal.rocks)
 
 Because I think (private) journaling should not die. It should rock!
 
-#### [getradio.xyz](https://getradio.xyz)
+#### [getradio.xyz](http://getradio.xyz), [oneradio.app](http://oneradio.app)
 
 For my Radio apps
 
+#### [jaded.app](http://jaded.app), [jadejournal.com](http://jadejournal.com)
+
+Hmm for my [dear Jade](https://just2me.com/2020/01/09/baby-jade-is-born/)? Though I have a [jade2us.com](http://jade2us.com).
+
 ## Currently In Used
-
-#### [mrs-ong.com](https://mrs-ong.com)
-
-Currently in used for my proposal to my Mrs Ong. If you are a Mr Ong and is proposing, I could rent you this domain for that big day :) Unless my Mrs Ong decide to put full use to it, I am putting this up for sale.
 
 #### [samwize.com](https://samwize.com)
 
@@ -53,6 +49,17 @@ For my business and apps. Not for sale.
 #### [just2me.com](https://just2me.com)
 
 My first domain name. For my personal blog. Not for sale.
+
+#### [mrs-ong.com](https://mrs-ong.com)
+
+Currently in used for my proposal to my Mrs Ong. If you are a Mr Ong and is proposing, I could rent you this domain for that big day :) Unless my Mrs Ong decide to put full use to it, I am putting this up for sale.
+
+### Others in use
+
+- [sgschooling.com](http://sgschooling.com)
+- [torchlight.app](http://torchlight.app)
+- [whereismymoney.app](http://whereismymoney.app)
+- [dualgram.com](http://dualgram.com)
 
 ## Are they for sale?
 
