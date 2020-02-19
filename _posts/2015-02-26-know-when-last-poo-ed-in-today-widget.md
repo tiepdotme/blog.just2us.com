@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Applications
 tags:
-  - pookeeper
+  - Poo Keeper
 ---
 <a href="http://itunes.apple.com/app/poo-keeper-let-it-go-your/id857575652?&at=11luru" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://itunes.apple.com/app/poo-keeper-let-it-go-your/id857575652?&at=11luru', 'Poo Keeper');" target="_blank">Poo Keeper</a> v1.2 is released, with two big changes.
 

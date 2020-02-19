@@ -14,9 +14,7 @@ categories:
   - Applications
   - iPhone
 tags:
-  - first-release
-  - pookeeper
-  - release
+  - Poo Keeper
 ---
 Poo Keeper is an iPhone app to **record your poop**!
 

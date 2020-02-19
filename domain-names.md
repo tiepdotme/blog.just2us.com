@@ -32,7 +32,7 @@ Because I think (private) journaling should not die. It should rock!
 
 For my Radio apps
 
-#### [jaded.app](http://jaded.app), [jadejournal.com](http://jadejournal.com)
+#### [jaded.app](http://jaded.app),
 
 Hmm for my [dear Jade](https://just2me.com/2020/01/09/baby-jade-is-born/)? Though I have a [jade2us.com](http://jade2us.com).
 
@@ -58,6 +58,7 @@ Currently in used for my proposal to my Mrs Ong. If you are a Mr Ong and is prop
 
 - [sgschooling.com](http://sgschooling.com)
 - [torchlight.app](http://torchlight.app)
+- [jadejournal.app](http://jadejournal.app)
 - [whereismymoney.app](http://whereismymoney.app)
 - [dualgram.com](http://dualgram.com)
 
