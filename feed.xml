@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2020-02-19T16:43:03+08:00</updated><id>https://blog.just2us.com/feed.xml</id><title type="html">Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><author><name>{&quot;twitter&quot;=&gt;&quot;samwize&quot;}</name></author><entry><title type="html">Beware of Constipation in Children. It Can Lead to Encopresis.</title><link href="https://blog.just2us.com/2020/01/18/beware-of-constipation-in-children-it-can-lead-to-encopresis/" rel="alternate" type="text/html" title="Beware of Constipation in Children. It Can Lead to Encopresis." /><published>2020-01-18T10:12:24+08:00</published><updated>2020-01-18T10:12:24+08:00</updated><id>https://blog.just2us.com/2020/01/18/beware-of-constipation-in-children-it-can-lead-to-encopresis</id><content type="html" xml:base="https://blog.just2us.com/2020/01/18/beware-of-constipation-in-children-it-can-lead-to-encopresis/">&lt;p&gt;&lt;a href=&quot;https://www.webmd.com/digestive-disorders/encopresis&quot;&gt;Encopresis&lt;/a&gt; is the soiling of underwear with stool by children who are big enough to be toilet trained (eg. more than 4 years old).&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://blog.just2us.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.just2us.com/" rel="alternate" type="text/html" /><updated>2020-04-19T14:16:05+08:00</updated><id>https://blog.just2us.com/feed.xml</id><title type="html">Just2us Blog</title><subtitle>Creating Apps We Love</subtitle><author><name>{&quot;twitter&quot;=&gt;&quot;samwize&quot;}</name></author><entry><title type="html">Taking Down Concert Camera</title><link href="https://blog.just2us.com/2020/04/19/taking-down-concert-camera/" rel="alternate" type="text/html" title="Taking Down Concert Camera" /><published>2020-04-19T13:55:01+08:00</published><updated>2020-04-19T13:55:01+08:00</updated><id>https://blog.just2us.com/2020/04/19/taking-down-concert-camera</id><content type="html" xml:base="https://blog.just2us.com/2020/04/19/taking-down-concert-camera/">&lt;p&gt;Unfortunately, we have to take down &lt;a href=&quot;https://just2us.com/concertcamera/&quot;&gt;Concert Camera&lt;/a&gt; from the App Store.&lt;/p&gt;
+
+&lt;p&gt;Concert Camera app was created so that concert goers can record video without disturbing people behind. The goal is to reduce those bright phones up in the air.&lt;/p&gt;
+
+&lt;p&gt;However, the app could be &lt;strong&gt;abused&lt;/strong&gt; by users eg. filming live concerts illegally, or recording others without consent.&lt;/p&gt;
+
+&lt;p&gt;We understood the app can be misused.&lt;/p&gt;
+
+&lt;p&gt;Any technology can be misused.&lt;/p&gt;
+
+&lt;p&gt;Apple has a tight policing with apps on the App Store, and after nearly 2 years since &lt;a href=&quot;/2018/06/25/new-app-concert-camera/&quot;&gt;launch&lt;/a&gt;, the app is deemed to be in violation.&lt;/p&gt;
+
+&lt;p&gt;There is nothing we, as developers, could do.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-attempt-to-fix&quot;&gt;Our attempt to “fix”&lt;/h2&gt;
+
+&lt;p&gt;We have tried out best, with 10+ attempts in adding a more prominent recording indicator.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/make-button-more-prominent.jpg&quot; alt=&quot;App Review Rejection&quot; class=&quot;border&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The final attempt is to have the video preview added at the bottom, as a smaller thumbnail.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/concert-camera-small-preview.jpg&quot; alt=&quot;A small preview&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But in our call with App Store review team, they said even that could not pass. A video recording has to be &lt;strong&gt;full screen at full brightness&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;That killed our hope to “fix”.&lt;/p&gt;
+
+&lt;p&gt;To Concert Camera users: we’re sorry.&lt;/p&gt;</content><author><name>Junda</name></author><category term="Concert Camera" /><summary type="html">Unfortunately, we have to take down Concert Camera from the App Store.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://just2us.com/img/concert-camera-stage-concert.jpg" /></entry><entry><title type="html">Beware of Constipation in Children. It Can Lead to Encopresis.</title><link href="https://blog.just2us.com/2020/01/18/beware-of-constipation-in-children-it-can-lead-to-encopresis/" rel="alternate" type="text/html" title="Beware of Constipation in Children. It Can Lead to Encopresis." /><published>2020-01-18T10:12:24+08:00</published><updated>2020-01-18T10:12:24+08:00</updated><id>https://blog.just2us.com/2020/01/18/beware-of-constipation-in-children-it-can-lead-to-encopresis</id><content type="html" xml:base="https://blog.just2us.com/2020/01/18/beware-of-constipation-in-children-it-can-lead-to-encopresis/">&lt;p&gt;&lt;a href=&quot;https://www.webmd.com/digestive-disorders/encopresis&quot;&gt;Encopresis&lt;/a&gt; is the soiling of underwear with stool by children who are big enough to be toilet trained (eg. more than 4 years old).&lt;/p&gt;
 
 &lt;p&gt;It affects around &lt;strong&gt;1% of children in US&lt;/strong&gt;.&lt;/p&gt;
 
@@ -218,12 +246,4 @@ Junda&lt;/p&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$WHEN&lt;/code&gt; - the networth history&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Exchange rates are taken care of automatically! It will be updated yearly (by default), or you could update whenever you want. You may even use custom “currency”, such as &lt;em&gt;BTC&lt;/em&gt; if you need it!&lt;/p&gt;</content><author><name>Junda</name></author><category term="My Money" /><summary type="html">Our latest app is a personal finance app, helping you track the most important number in regards to your wealth – networth.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://just2us.com/img/mymoney-book-records.jpg" /></entry><entry><title type="html">Launching Soon: My Money Mac App</title><link href="https://blog.just2us.com/2019/02/27/launching-soon-my-money-mac-app/" rel="alternate" type="text/html" title="Launching Soon: My Money Mac App" /><published>2019-02-27T16:26:42+08:00</published><updated>2019-02-27T16:26:42+08:00</updated><id>https://blog.just2us.com/2019/02/27/launching-soon-my-money-mac-app</id><content type="html" xml:base="https://blog.just2us.com/2019/02/27/launching-soon-my-money-mac-app/">&lt;p&gt;We will be launching our first ever mac app in a few days!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1444268988&quot;&gt;&lt;img src=&quot;/img/mymoney-preorder-mac-app-store.jpg&quot; alt=&quot;Pre-order on mac App Store&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;As usual, we made the app because we want to use such a personal finance app.&lt;/p&gt;
-
-&lt;p&gt;Personally, it is a replacement to my &lt;em&gt;Google Sheet&lt;/em&gt; that keeps track of my personal finance.&lt;/p&gt;
-
-&lt;p&gt;My Money has been in the work for a number of months. Well, at last, I can finally retire my Google Sheet and do even more with the app.&lt;/p&gt;</content><author><name>Junda</name></author><category term="My Money" /><summary type="html">We will be launching our first ever mac app in a few days!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://just2us.com/img/mymoney-book-records.jpg" /></entry></feed>
+&lt;p&gt;Exchange rates are taken care of automatically! It will be updated yearly (by default), or you could update whenever you want. You may even use custom “currency”, such as &lt;em&gt;BTC&lt;/em&gt; if you need it!&lt;/p&gt;</content><author><name>Junda</name></author><category term="My Money" /><summary type="html">Our latest app is a personal finance app, helping you track the most important number in regards to your wealth – networth.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://just2us.com/img/mymoney-book-records.jpg" /></entry></feed>
