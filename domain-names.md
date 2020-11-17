@@ -28,7 +28,7 @@ Really Wahhh~ Any apps that has wow factor can use this.
 
 Because I think (private) journaling should not die. It should rock!
 
-#### [getradio.xyz](http://getradio.xyz), [oneradio.app](http://oneradio.app)
+#### [oneradio.app](http://oneradio.app)
 
 For my Radio apps
 
