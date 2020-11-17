@@ -1,18 +1,18 @@
 # Site settings
-title: Just2us Blog
-email: junda@just2us.com
+title: dâu ác Blog
+email: junda@dauac.com
 copyright_name: Just2us
 author_name: Ong Jun Da
 description: Creating Apps We Love
 baseurl: ""
-url: https://blog.just2us.com
+url: https://dauac.com
 
 twitter_username: samwize
 github_username:  samwize
 facebook_username:  ongjunda
-email_username:  junda@just2us.com
+email_username:  junda@dauac.com
 disqus: just2us
-adsense_client: ca-pub-8504591086876220
+adsense_client: ca-pub-IDHERE
 adsense_slot: 3185604309
 google_analytics: UA-8780506-1
 
